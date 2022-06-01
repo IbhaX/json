@@ -1,0 +1,52 @@
+[
+  {
+    "tag": "Simple",
+    "message": [
+      "hi",
+      "hello",
+      "hey"
+    ],
+    "response": [
+      "parada",
+      "para",
+      "entha"
+    ]
+  },
+  {
+    "tag": "Ahora",
+    "message": [
+      "hola",
+      "hahoy",
+      "hoorray"
+    ],
+    "response": [
+      "aloha",
+      "blessed",
+      "not much"
+    ]
+  },
+  {
+    "tag": "Name",
+    "message": [
+      "name",
+      "what is your name",
+      "your name"
+    ],
+    "response": [
+      "my name is ahbi",
+      "call me ahbi",
+      "you can call me ahbi"
+    ]
+  },
+  {
+    "tag": "love",
+    "message": [
+      "i love you",
+      " i really love you"
+    ],
+    "response": [
+      "love you too",
+      " thank you"
+    ]
+  }
+]
