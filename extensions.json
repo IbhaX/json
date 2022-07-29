@@ -1,6 +1,10 @@
 {
   "exts": [
     {
+      "format": ".json",
+      "abb": "JavaScript Object Notation"
+    },
+    {
       "format": ".py",
       "abb": "Python"
     },
