@@ -1,0 +1,108 @@
+{
+  "exts": [
+    {
+      "format": ".doc",
+      "abb": "Microsoft Word Document"
+    },
+    {
+      "format": ".csv",
+      "abb": "Comma Separated Values File"
+    },
+    {
+      "format": ".aif",
+      "abb": "Audio Interchange File Format"
+    },
+    {
+      "format": ".3g2",
+      "abb": "3GPP2 Multimedia File"
+    },
+    {
+      "format": ".3dm",
+      "abb": "Rhino 3D Model"
+    },
+    {
+      "format": ".bmp",
+      "abb": "Bitmap Image File"
+    },
+    {
+      "format": ".ai",
+      "abb": "Adobe Illustrator File"
+    },
+    {
+      "format": ".indd",
+      "abb": "Adobe InDesign Document"
+    },
+    {
+      "format": ".xlr",
+      "abb": "Works Spreadsheet"
+    },
+    {
+      "format": ".accdb",
+      "abb": "Access 2007 Database File"
+    },
+    {
+      "format": ".apk",
+      "abb": "Android Package File"
+    },
+    {
+      "format": ".b",
+      "abb": "Grand Theft Auto 3 Saved Game File"
+    },
+    {
+      "format": ".dwg",
+      "abb": "AutoCAD Drawing Database File"
+    },
+    {
+      "format": ".gpx",
+      "abb": "GPS Exchange File"
+    },
+    {
+      "format": ".asp",
+      "abb": "Active Server Page"
+    },
+    {
+      "format": ".crx",
+      "abb": "Chrome Extension"
+    },
+    {
+      "format": ".fnt",
+      "abb": "Windows Font File"
+    },
+    {
+      "format": ".cab",
+      "abb": "Windows Cabinet File"
+    },
+    {
+      "format": ".cfg",
+      "abb": "Configuration File"
+    },
+    {
+      "format": ".hqx",
+      "abb": "BinHex 4.0 Encoded File"
+    },
+    {
+      "format": ".7z",
+      "abb": "7-Zip Compressed File"
+    },
+    {
+      "format": ".bin",
+      "abb": "Binary Disc Image"
+    },
+    {
+      "format": ".c",
+      "abb": "C/C++ Source Code File"
+    },
+    {
+      "format": ".bak",
+      "abb": "Backup File"
+    },
+    {
+      "format": ".crdownload",
+      "abb": "Chrome Partially Downloaded File"
+    },
+    {
+      "format": ".mp3",
+      "abb": "MPEG Audio Layer 3"
+    }
+  ]
+}
