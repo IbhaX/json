@@ -1,6 +1,10 @@
 {
   "exts": [
     {
+      "format": ".py",
+      "abb": "Python"
+    },
+    {
       "format": ".doc",
       "abb": "Microsoft Word Document"
     },
