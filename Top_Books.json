@@ -1,0 +1,492 @@
+[
+  {
+    "id": 1,
+    "book": "Pride and Prejudice",
+    "author": "Jane Austen"
+  },
+  {
+    "id": 2,
+    "book": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky"
+  },
+  {
+    "id": 3,
+    "book": "Hamlet",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 4,
+    "book": "One Hundred Years of Solitude",
+    "author": "Gabriel Garc\u00eda M\u00e1rquez"
+  },
+  {
+    "id": 5,
+    "book": "Anna Karenina",
+    "author": "Leo Tolstoy"
+  },
+  {
+    "id": 6,
+    "book": "The Odyssey",
+    "author": "Homer"
+  },
+  {
+    "id": 7,
+    "book": "The Stranger",
+    "author": "Albert Camusreally liked it"
+  },
+  {
+    "id": 8,
+    "book": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky"
+  },
+  {
+    "id": 9,
+    "book": "Great Expectations",
+    "author": "Charles Dickens"
+  },
+  {
+    "id": 10,
+    "book": "Lolita",
+    "author": "Vladimir Nabokov"
+  },
+  {
+    "id": 11,
+    "book": "The Old Man and the Sea",
+    "author": "Ernest Hemingway"
+  },
+  {
+    "id": 12,
+    "book": "War and Peace",
+    "author": "Leo Tolstoy"
+  },
+  {
+    "id": 13,
+    "book": "Don Quixote",
+    "author": "Miguel de Cervantes Saavedra"
+  },
+  {
+    "id": 14,
+    "book": "The Iliad",
+    "author": "Homer"
+  },
+  {
+    "id": 15,
+    "book": "Madame Bovary",
+    "author": "Gustave Flaubert"
+  },
+  {
+    "id": 16,
+    "book": "The Trial",
+    "author": "Franz Kafka"
+  },
+  {
+    "id": 17,
+    "book": "The Divine Comedy",
+    "author": "Dante Alighieri"
+  },
+  {
+    "id": 19,
+    "book": "King Lear",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 20,
+    "book": "Love in the Time of Cholera",
+    "author": "Gabriel Garc\u00eda M\u00e1rquez"
+  },
+  {
+    "id": 21,
+    "book": "The Complete Fairy Tales",
+    "author": "Hans Christian Andersen"
+  },
+  {
+    "id": 22,
+    "book": "Mrs. Dalloway",
+    "author": "Virginia Woolf"
+  },
+  {
+    "id": 23,
+    "book": "Othello",
+    "author": "William Shakespeare"
+  },
+  {
+    "id": 24,
+    "book": "The Arabian Nights",
+    "author": "Anonymous"
+  },
+  {
+    "id": 25,
+    "book": "The Sound and the Fury",
+    "author": "William Faulkner"
+  },
+  {
+    "id": 26,
+    "book": "The Canterbury Tales",
+    "author": "Geoffrey Chaucer"
+  },
+  {
+    "id": 27,
+    "book": "Ulysses",
+    "author": "James Joyce"
+  },
+  {
+    "id": 28,
+    "book": "Gulliver's Travels: Travels into Several Remote Nations of the World.",
+    "author": "Jonathan Swift"
+  },
+  {
+    "id": 29,
+    "book": "Oedipus Rex(The Theban Plays, #1)",
+    "author": "Sophocles"
+  },
+  {
+    "id": 30,
+    "book": "The Idiot",
+    "author": "Fyodor Dostoevsky"
+  },
+  {
+    "id": 31,
+    "book": "Pippi Longstocking (Pippi L\u00e5ngstrump, #1)",
+    "author": "Astrid Lindgren"
+  },
+  {
+    "id": 32,
+    "book": "The Collected Tales of Edgar Allan Poe",
+    "author": "Edgar Allan Poe"
+  },
+  {
+    "id": 33,
+    "book": "To the Lighthouse",
+    "author": "Virginia Woolf"
+  },
+  {
+    "id": 34,
+    "book": "Faust, First Part",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "id": 35,
+    "book": "Swann's Way",
+    "author": "Marcel Proust"
+  },
+  {
+    "id": 36,
+    "book": "Beloved",
+    "author": "Toni Morrison"
+  },
+  {
+    "id": 37,
+    "book": "Blindness",
+    "author": "Jos\u00e9 Saramago"
+  },
+  {
+    "id": 38,
+    "book": "Things Fall Apart (The African Trilogy, #1)",
+    "author": "Chinua Achebe"
+  },
+  {
+    "id": 39,
+    "book": "Ficciones",
+    "author": "Jorge Luis Borges"
+  },
+  {
+    "id": 40,
+    "book": "Zorba the Greek",
+    "author": "Nikos Kazantzakis"
+  },
+  {
+    "id": 41,
+    "book": "The Death of Ivan Ilych",
+    "author": "Leo Tolstoy"
+  },
+  {
+    "id": 42,
+    "book": "Middlemarch",
+    "author": "George Eliotreally liked it"
+  },
+  {
+    "id": 43,
+    "book": "Midnight's Children",
+    "author": "Salman Rushdie"
+  },
+  {
+    "id": 44,
+    "book": "The Epic of Gilgamesh",
+    "author": "Anonymous"
+  },
+  {
+    "id": 45,
+    "book": "Journey to the End of the Night",
+    "author": "Louis-Ferdinand C\u00e9line"
+  },
+  {
+    "id": 46,
+    "book": "A Doll's House",
+    "author": "Henrik Ibsen"
+  },
+  {
+    "id": 47,
+    "book": "Invisible Man",
+    "author": "Ralph Ellison"
+  },
+  {
+    "id": 48,
+    "book": "Leaves of Grass",
+    "author": "Walt Whitman"
+  },
+  {
+    "id": 49,
+    "book": "The Man Without Qualities",
+    "author": "Robert Musil"
+  },
+  {
+    "id": 50,
+    "book": "The Magic Mountain",
+    "author": "Thomas Mann"
+  },
+  {
+    "id": 51,
+    "book": "The Book of Disquiet",
+    "author": "Fernando Pessoa"
+  },
+  {
+    "id": 52,
+    "book": "Hunger",
+    "author": "Knut Hamsun"
+  },
+  {
+    "id": 53,
+    "book": "The Decameron",
+    "author": "Giovanni Boccaccio"
+  },
+  {
+    "id": 54,
+    "book": "Dead Souls",
+    "author": "Nikolai Gogol"
+  },
+  {
+    "id": 55,
+    "book": "Metamorphoses",
+    "author": "Ovid"
+  },
+  {
+    "id": 56,
+    "book": "The Aeneid",
+    "author": "Virgil"
+  },
+  {
+    "id": 57,
+    "book": "The Castle",
+    "author": "Franz Kafka"
+  },
+  {
+    "id": 58,
+    "book": "Medea",
+    "author": "Euripides"
+  },
+  {
+    "id": 59,
+    "book": "Gargantua and Pantagruel",
+    "author": "Fran\u00e7ois Rabelais"
+  },
+  {
+    "id": 60,
+    "book": "The Complete Stories",
+    "author": "Franz Kafka"
+  },
+  {
+    "id": 61,
+    "book": "The Red and the Black",
+    "author": "Stendhal"
+  },
+  {
+    "id": 62,
+    "book": "Mahabharata",
+    "author": "Anonymous"
+  },
+  {
+    "id": 63,
+    "book": "Wuthering Heights",
+    "author": "Emily Bront\u00eb"
+  },
+  {
+    "id": 64,
+    "book": "Selected Stories of Anton Chekhov",
+    "author": "Anton Chekhov"
+  },
+  {
+    "id": 65,
+    "book": "P\u00e8re Goriot",
+    "author": "Honor\u00e9 de Balzac"
+  },
+  {
+    "id": 66,
+    "book": "The Tin Drum",
+    "author": "G\u00fcnter Grass"
+  },
+  {
+    "id": 67,
+    "book": "Absalom, Absalom!",
+    "author": "William Faulkner"
+  },
+  {
+    "id": 68,
+    "book": "Buddenbrooks: The Decline of a Family",
+    "author": "Thomas Mann"
+  },
+  {
+    "id": 69,
+    "book": "Ramayana",
+    "author": "V\u0101lm\u012bki"
+  },
+  {
+    "id": 70,
+    "book": "Sons and Lovers",
+    "author": "D.H. Lawrence"
+  },
+  {
+    "id": 71,
+    "book": "Demons",
+    "author": "Fyodor Dostoevsky"
+  },
+  {
+    "id": 72,
+    "book": "Pedro P\u00e1ramo",
+    "author": "Juan Rulfo"
+  },
+  {
+    "id": 73,
+    "book": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain"
+  },
+  {
+    "id": 74,
+    "book": "Memoirs of Hadrian",
+    "author": "Marguerite Yourcenar"
+  },
+  {
+    "id": 75,
+    "book": "The Book of Job",
+    "author": "Anonymous"
+  },
+  {
+    "id": 76,
+    "book": "The Golden Notebook",
+    "author": "Doris Lessing"
+  },
+  {
+    "id": 77,
+    "book": "Molloy / Malone Dies / The Unnamable",
+    "author": "Samuel Beckett"
+  },
+  {
+    "id": 78,
+    "book": "The Complete Essays",
+    "author": "Michel de Montaigne"
+  },
+  {
+    "id": 79,
+    "book": "Jacques the Fatalist",
+    "author": "Denis Diderot"
+  },
+  {
+    "id": 80,
+    "book": "\u0645\u062b\u0646\u0648\u06cc \u0645\u0639\u0646\u0648\u06cc",
+    "author": "Rumi"
+  },
+  {
+    "id": 81,
+    "book": "The Life and Opinions of Tristram Shandy, Gentleman",
+    "author": "Laurence Sterne"
+  },
+  {
+    "id": 82,
+    "book": "Season of Migration to the North",
+    "author": "Tayeb Salih"
+  },
+  {
+    "id": 83,
+    "book": "The Tale of Genji",
+    "author": "Murasaki Shikibu"
+  },
+  {
+    "id": 84,
+    "book": "Sentimental Education",
+    "author": "Gustave Flaubert"
+  },
+  {
+    "id": 85,
+    "book": "\u0623\u0648\u0644\u0627\u062f \u062d\u0627\u0631\u062a\u0646\u0627",
+    "author": "Naguib Mahfouz"
+  },
+  {
+    "id": 86,
+    "book": "Independent People",
+    "author": "Halld\u00f3r Laxness"
+  },
+  {
+    "id": 87,
+    "book": "The Sound of the Mountain",
+    "author": "Yasunari Kawabata"
+  },
+  {
+    "id": 88,
+    "book": "Diary of a Madman and Other Stories",
+    "author": "Lu Xun"
+  },
+  {
+    "id": 89,
+    "book": "Nostromo",
+    "author": "Joseph Conrad"
+  },
+  {
+    "id": 90,
+    "book": "Zeno's Conscience",
+    "author": "Italo Svevo"
+  },
+  {
+    "id": 91,
+    "book": "Romancero gitano",
+    "author": "Federico Garc\u00eda Lorca"
+  },
+  {
+    "id": 92,
+    "book": "Grande Sert\u00e3o: Veredas",
+    "author": "Jo\u00e3o Guimar\u00e3es Rosa"
+  },
+  {
+    "id": 93,
+    "book": "History (La Storia, #1-2)",
+    "author": "Elsa Morante"
+  },
+  {
+    "id": 94,
+    "book": "The Recognition of \u015aakuntal\u0101",
+    "author": "K\u0101lid\u0101sa"
+  },
+  {
+    "id": 95,
+    "book": "The Orchard: The Bostan Of Saadi Of Shiraz",
+    "author": "Saadi"
+  },
+  {
+    "id": 96,
+    "book": "Poems of Paul Celan",
+    "author": "Paul Celan"
+  },
+  {
+    "id": 97,
+    "book": "Berlin Alexanderplatz",
+    "author": "Alfred D\u00f6blin"
+  },
+  {
+    "id": 98,
+    "book": "Njal's Saga",
+    "author": "Unknown"
+  },
+  {
+    "id": 99,
+    "book": "The Poems Of Leopardi",
+    "author": "Giacomo Leopardi"
+  }
+]

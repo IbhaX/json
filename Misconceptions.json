@@ -1,0 +1,527 @@
+[
+  {
+    "id": 1,
+    "title": "Four Taste Groups",
+    "fact": "In addition to the taste groups of bitter, sour, salty, and sweet, your tongue can also sense a taste group known as \"umami\" which is a savory and meaty taste."
+  },
+  {
+    "id": 2,
+    "title": "Food Before Swimming",
+    "fact": "Eating shortly before swimming does not increase the risk of experiencing muscle cramps. There is a correlation between alcohol and drowning, however."
+  },
+  {
+    "id": 3,
+    "title": "Sugar Makes Kids Hyper",
+    "fact": "Nope, sugar doesn't cause hyperactivity. Several studies have shown no difference in behavior between children given sugar-full or sugar-free diets, even for sensitive kids."
+  },
+  {
+    "id": 4,
+    "title": "Left and Right Brain",
+    "fact": "Mental abilities are not absolutely separated into the left and right side the brain. In fact, if one hemisphere is damaged at an early age, the other can take over."
+  },
+  {
+    "id": 5,
+    "title": "8 Daily Glasses of Water",
+    "fact": "Eight glasses of water a day are not always needed. In reality, it varies by weight, activity level, clothing, \u00a0heat, and humidity. Plus, you can get water from food, too."
+  },
+  {
+    "id": 6,
+    "title": "Gum Digests Over Years",
+    "fact": "No, it doesn't take seven years to digest. The truth is: Chewing gum is mostly indigestible, and passes through the digestive system at the same rate as other matter."
+  },
+  {
+    "id": 7,
+    "title": "Alcohol Warms",
+    "fact": "Alcoholic drinks create the sensation of warmth by making blood vessels dilate and stimulating nerve endings in the skin.\u00a0It can actually make your body temperature fall."
+  },
+  {
+    "id": 8,
+    "title": "Vaccines Cause Autism",
+    "fact": "No, vaccines do not cause autism. Although fraudulent research claimed a connection, repeated new studies ended in failure, and the original paper was dismissed."
+  },
+  {
+    "id": 9,
+    "title": "Learning Styles",
+    "fact": "All humans learn in simialr ways. There is no evidence that people have different\u00a0learning styles,\u00a0nor that different teaching styles improve information retention."
+  },
+  {
+    "id": 10,
+    "title": "Dairy Builds Up Mucus",
+    "fact": "Drinking milk or consuming other dairy products does not increase mucus production. They don't need to be avoided by those with the flu or cold congestion."
+  },
+  {
+    "id": 11,
+    "title": "Vitamin C \u00a0Against Colds",
+    "fact": "Vitamin C\u00a0does not prevent\u00a0the\u00a0common cold, although it may have a protective effect during intense cold-weather exercise and may reduce the duration of colds."
+  },
+  {
+    "id": 12,
+    "title": "Cracking Knuckles",
+    "fact": "Cracking one's knuckles in good health doesn't cause arthritis or other issues. The cracking sound comes from a gas bubble forming when the joints separate."
+  },
+  {
+    "id": 13,
+    "title": "Taste Zones",
+    "fact": "There are no distinct \"zones\" for sweet, bitter, sour, and salty on your tongue. All different tastes can be detected on all parts of the tongue by all taste buds."
+  },
+  {
+    "id": 14,
+    "title": "Diet Detoxification\u00a0",
+    "fact": "There is a common myth that specific diets aid \"detoxification\" and can remove substances from your body. In reality, your liver and kidney do it automatically."
+  },
+  {
+    "id": 15,
+    "title": "Alcohol Kills Brain Cells",
+    "fact": "While it's certainly not a health food, alcohol does not necessarily kill brain cells. This is different for alcoholics who can lose brain cells from withdrawal (excitotoxicity)."
+  },
+  {
+    "id": 16,
+    "title": "Vegans Lack Protein",
+    "fact": "A vegetarian or\u00a0vegan\u00a0diet can provide enough protein for adequate nutrition and in most cases does. However, \u00a0vitamin B12 supplementation can be required."
+  },
+  {
+    "id": 17,
+    "title": "Sex Hurts Performance",
+    "fact": "There is no scientific basis for the belief that having sex in the days before a sporting event reduces performance. In fact, sex can increase testosterone which could help."
+  },
+  {
+    "id": 18,
+    "title": "10% of Your Brain",
+    "fact": "We don't only use\u00a0only ten percent of our brains. In reality, a small minority of neurons in the brain are actively firing at a given time, but the others have important functions, too."
+  },
+  {
+    "id": 19,
+    "title": "Waking Sleepwalkers",
+    "fact": "Sleepwalkers can get confused when woken, but not harmed. In fact, if you let them sleepwalk they can lose their balance and fall. They're not zombies, wake them!"
+  },
+  {
+    "id": 20,
+    "title": "Rust Causes Tetanus",
+    "fact": "Since the same (anoxic) conditions that harbor tetanus bacteria (Clostridium tetani) also promote rusting of metal, the two have incorrectly become synonymous."
+  },
+  {
+    "id": 21,
+    "title": "Drowning is Visible",
+    "fact": "Drowning\u00a0is often inconspicuous to onlookers. In many cases, raising the arms and screaming are impossible due to the\u00a0instinctive drowning response."
+  },
+  {
+    "id": 22,
+    "title": "Veins Have a Blue Color",
+    "fact": "Hemoglobin\u00a0gives blood its red color. Deoxygenated blood has a deep red color, and oxygenated blood has a cherry-red color.\u00a0Skin light scattering causes a blue appearance."
+  },
+  {
+    "id": 23,
+    "title": "Vacuums Explode Bodies",
+    "fact": "It's perfect for movies, but not true. Vacuums and de-compression do not cause the body to explode or internal fluids to boil. Instead, they lead to a slower death from hypoxia."
+  },
+  {
+    "id": 24,
+    "title": "We Have Five Senses",
+    "fact": "In addition to sight, smell, taste, touch, and hearing, humans can sense at least 20 things including balance, acceleration, position, pain, temperature, pressure, and thirst."
+  },
+  {
+    "id": 25,
+    "title": "Water Causes Wrinkles",
+    "fact": "\"Water wrinkles\" are not caused by skin absorption. They are caused by the nervous system, which triggers localized vasoconstriction (narrowing) in response to wet skin."
+  },
+  {
+    "id": 26,
+    "title": "Shaving Thickens Hair",
+    "fact": "Shaving\u00a0does not cause hair\u00a0to grow back thicker, denser, or darker.\u00a0 In reality, shaving cuts hair tips and causes them to be more blunt, making them feel coarser."
+  },
+  {
+    "id": 27,
+    "title": "Conditioners Repair",
+    "fact": "Hair products cannot actually \"repair\"\u00a0split ends\u00a0and damaged hair. They can prevent damage from occurring, and they smooth the cuticle like glue so that it looks repaired."
+  },
+  {
+    "id": 28,
+    "title": "Hair Grows After Death",
+    "fact": "Hair and fingernails do not continue to grow after a person dies. Rather, the skin dries and shrinks away from the bases of hairs and nails, giving the appearance of growth."
+  },
+  {
+    "id": 29,
+    "title": "Food",
+    "fact": "Despite being associated with\u00a0Chinese cuisine, they were invented in Japan and introduced to the US by the Japanese. The cookies are extremely rare in China."
+  },
+  {
+    "id": 30,
+    "title": "Chinese Fortune Cookies",
+    "fact": "Despite being associated with\u00a0Chinese cuisine, they were invented in Japan and introduced to the US by the Japanese. The cookies are extremely rare in China."
+  },
+  {
+    "id": 31,
+    "title": "Heat Removes Alcohol",
+    "fact": "A study showed that after 2 hours of cooking, 10% of the original alcohol was still present. The amount wasn't enough to cause intoxication, though."
+  },
+  {
+    "id": 32,
+    "title": "Espresso vs. Coffee",
+    "fact": "A standard cup of brewed coffee has more caffeine than a single shot of espresso. In fact, the much larger volume of regular Joe offsets the caffeine to water ratio."
+  },
+  {
+    "id": 33,
+    "title": "MSG Headaches",
+    "fact": "\"Chinese restaurant syndrome\" is largely a myth. There is no large study that shows that MSG triggers migraines. Some early studies hint at potentials for sensitivity."
+  },
+  {
+    "id": 34,
+    "title": "Spicy Food Causes Ulcers",
+    "fact": "Another popular misconception. Evidence does not support a significant role for spicy food or coffee in the development of peptic ulcers in healthy people."
+  },
+  {
+    "id": 35,
+    "title": "Metal Breaks Microwaves",
+    "fact": "Placing metal inside a\u00a0microwave oven\u00a0does not damage the oven's electronics. But it's still not safe! Electrical arching makes metal hot and can harm you."
+  },
+  {
+    "id": 36,
+    "title": "Carrots Improve Vision",
+    "fact": "This myth originated in World War 2. While carrots are healthy, they don't give you supervision. They can help people with vitamin A deficiency see better, though."
+  },
+  {
+    "id": 37,
+    "title": "Twinkies Never Expire",
+    "fact": "Twinkies\u00a0have a\u00a0shelf life\u00a0of approximately 45 days and only remain on the shelf for about ten days. In any case, they won't stay fresh and edible for decades."
+  },
+  {
+    "id": 38,
+    "title": "Animals",
+    "fact": "Dogs do not sweat by salivating. They have sweat glands and sweat mainly through their footpads. However, dogs do regulate their body temperature through panting."
+  },
+  {
+    "id": 39,
+    "title": "Sweating Dogs",
+    "fact": "Dogs do not sweat by salivating. They have sweat glands and sweat mainly through their footpads. However, dogs do regulate their body temperature through panting."
+  },
+  {
+    "id": 40,
+    "title": "Elephant Graveyards",
+    "fact": "Older elephants that are near death do not leave their herd and instinctively direct themselves toward a specific location known as an\u00a0elephants' graveyard\u00a0to die."
+  },
+  {
+    "id": 41,
+    "title": "Toads Cause Warts",
+    "fact": "Humans cannot catch warts from\u00a0toads\u00a0or other animals. In fact, the bumps on a toad are not even warts. Human warts are caused by the papillomavirus."
+  },
+  {
+    "id": 42,
+    "title": "Seeing Red",
+    "fact": "Bulls are not enraged by the color red, used in capes by matadors. Cattle are dichromats so red does not stand to them. Instead, the matador looks like a threat."
+  },
+  {
+    "id": 43,
+    "title": "Blind Bats",
+    "fact": "Bats\u00a0are not blind. While about 70 percent of bat species, mainly in the\u00a0microbat\u00a0family, use\u00a0echolocation\u00a0to navigate, all bat species have eyes and are capable of sight."
+  },
+  {
+    "id": 44,
+    "title": "Head in the Sand",
+    "fact": "Ostriches\u00a0do not stick their heads in the sand to hide from enemies.\u00a0This misconception was probably incorrectly promulgated by\u00a0Pliny the Elder\u00a0(23\u201379 CE)."
+  },
+  {
+    "id": 45,
+    "title": "Frog in Hot Water",
+    "fact": "Frogs\u00a0die immediately when cast into boiling water,\u00a0rather than leaping out. Frogs will attempt to escape cold water that is slowly heated past their\u00a0critical thermal maximum."
+  },
+  {
+    "id": 46,
+    "title": "Alpha Wolves",
+    "fact": "There is no such thing as an \"alpha\" in a\u00a0wolf\u00a0pack. Wolf packs operate like human families: there is no sense of rank, parents are in charge, and none are overthrowing elders."
+  },
+  {
+    "id": 47,
+    "title": "Bumblebees Can't Fly",
+    "fact": "The flight mechanism and aerodynamics of the bumblebee are quite well understood, despite the urban legend that calculations show that they can't fly."
+  },
+  {
+    "id": 48,
+    "title": "Earwigs in Your Ears",
+    "fact": "Earwigs don't climb into ear canals. Entomologists suggest that the name is a reference to the appearance of unfolded hindwings, which resemble human ears."
+  },
+  {
+    "id": 49,
+    "title": "Short-Lived Flies",
+    "fact": "Houseflies\u00a0have a lifespan of 20 to 30 days, not 24 hours.\u00a0Some species of mayflies do have the lifespan attributed to the housefly. Housefly maggot hatch within 24\u00a0hours."
+  },
+  {
+    "id": 50,
+    "title": "Swallowing Spiders",
+    "fact": "The urban legend that one swallows lots of spiders\u00a0during sleep in one's life has no basis in reality. A sleeping person causes noise and vibrations, making spiders flee."
+  },
+  {
+    "id": 51,
+    "title": "Science",
+    "fact": "Flowering\u00a0sunflowers point in one fixed direction (often east) all day long. Young sunflowers, before growing flower heads, do track the sun (through heliotropism), then stay fixed."
+  },
+  {
+    "id": 52,
+    "title": "Sunflowers Face the Sun",
+    "fact": "Flowering\u00a0sunflowers point in one fixed direction (often east) all day long. Young sunflowers, before growing flower heads, do track the sun (through heliotropism), then stay fixed."
+  },
+  {
+    "id": 53,
+    "title": "50-50 Coin Flip",
+    "fact": "A coin has a slightly higher chance of landing on the side that was facing up before the flip. Students at Stanford University recorded thousands of flips. The result? 49-50!"
+  },
+  {
+    "id": 54,
+    "title": "Yellow Sunshine",
+    "fact": "The\u00a0Sun's color is white, when viewed from space or when high in the sky. Atmospheric scattering renders the Sun's appearance yellow, red, orange, or magenta."
+  },
+  {
+    "id": 55,
+    "title": "Spinning Toilet Water",
+    "fact": "Water does not consistently drain in a counter-clockwise\u00a0vortex\u00a0in basins in the Northern Hemisphere and clockwise in the Southern due to the\u00a0Coriolis effect."
+  },
+  {
+    "id": 56,
+    "title": "Lightning Strikes Twice",
+    "fact": "The idea that lightning never strikes the same place twice is one of the best-known superstitions. Lighting Empire State Building in New York City about 100 times per year."
+  },
+  {
+    "id": 57,
+    "title": "Great Wall of China",
+    "fact": "The\u00a0Great Wall of China\u00a0is not, as is claimed, the only human-made object visible from the Moon or from space. What can be seen are the many city lights at night."
+  },
+  {
+    "id": 58,
+    "title": "Sun and Seasons",
+    "fact": "Seasons are not caused by the\u00a0Earth\u00a0being closer to the\u00a0Sun\u00a0in the summer than in the winter. Seasons are actually caused by Earth's 23.4-degree axial tilt."
+  },
+  {
+    "id": 59,
+    "title": "Burning Hot Meteorites",
+    "fact": "Meteorites\u00a0are often cold when they reach the Earth's surface. In fact, many meteorites are found with frost on them. As they enter the atmosphere, they're still below freezing."
+  },
+  {
+    "id": 60,
+    "title": "Genetic Determinism",
+    "fact": "Not every aspect of the biology of an organism can be predicted from genes. Some behavior is genetically-based, others from learning and epigenetic inheritance."
+  },
+  {
+    "id": 61,
+    "title": "Theory of Evolution\u00a0",
+    "fact": "The word theory in \"theory of evolution\" does not imply any scientific doubt regarding its validity. The words theory and hypothesis have specific meanings in a scientific context."
+  },
+  {
+    "id": 62,
+    "title": "A Gene for X",
+    "fact": "In early genetics, it was assumed that there is \"a gene for\" a range of characteristics (e.g. \"gay gene\"). However, gene expression is much more complex and subtle."
+  },
+  {
+    "id": 63,
+    "title": "Glass Slowly Flows",
+    "fact": "Glass\u00a0does not flow at\u00a0room temperature. Old glass looks like it flowed over the centuries. However, this unevenness is due to the manufacturing processes used at the time."
+  },
+  {
+    "id": 64,
+    "title": "Black Holes",
+    "fact": "Black holes are not inter-dimensional portals. Instead, they're hugely dense objects with gravitational pull. They're \"cosmic vacuum cleaners\" that sucks in everything."
+  },
+  {
+    "id": 65,
+    "title": "Evolved From Chimps",
+    "fact": "Humans did not evolve from either of the living species of\u00a0chimpanzees.\u00a0Humans and chimpanzees actually evolved from a\u00a0common ancestor (CHLCA) 8 mil. years ago."
+  },
+  {
+    "id": 66,
+    "title": "Dropped Pennies Kill",
+    "fact": "A\u00a0penny\u00a0dropped from the Empire State Building will not kill a person or crack the sidewalk (but can harm). It falls at \"only\" 30\u201350 miles per hour from any height. Don't try it!"
+  },
+  {
+    "id": 67,
+    "title": "Photographic Memory",
+    "fact": "There is no scientific evidence for the existence of \"photographic\" memory. Outlier memory is often the result of using mnemonic devices rather than a natural capacity."
+  },
+  {
+    "id": 68,
+    "title": "Salt Water Boils Quicker",
+    "fact": "Salt doesn't make water boil quicker, in fact, it does the opposite! In reality, so called \"Boiling Point Elevation\" happens, making the salt water mixture take longer to heat."
+  },
+  {
+    "id": 69,
+    "title": "Multiple Personalities",
+    "fact": "Schizophrenia\u00a0is not the same as\u00a0dissociative identity disorder (having multiple personalities). The confusion comes misinterpreting the Greek words for \"split\" and \"mind.\""
+  },
+  {
+    "id": 70,
+    "title": "Oil Unsticks Food",
+    "fact": "Adding oil to pasta doesn't make it stick less. In fact, it will only make the pasta more slippery and therefore sauces run off. Plus, you add a bunch of extra calories."
+  },
+  {
+    "id": 71,
+    "title": "Lightweight Cloud",
+    "fact": "Despite their appearance, clouds are made of water. The average cumulus cloud weighs about 1 million pounds, while a big storm cloud can exceed 2 billion pounds."
+  },
+  {
+    "id": 72,
+    "title": "Earth's First Continent",
+    "fact": "Pangea wasn't the original supercontinent. It was the last in a series of seven, which joined and split at regular intervals. The first was Vaalbara, 3.6 billion years ago."
+  },
+  {
+    "id": 73,
+    "title": "Everything Dies",
+    "fact": "While most species die, some get lucky. Turritopsis dohrnii (the \"immortal jellyfish\") can bounce between a sexually immature stage and adulthood, again and again."
+  },
+  {
+    "id": 74,
+    "title": "Bananas Grow on Trees",
+    "fact": "Although it's often called a \u201cbanana tree\u201d the stem of the banana plant does not contain any wood. In fact, it is actually a herbaceous plant (i.e. an herb). A very big herb\u2026"
+  },
+  {
+    "id": 75,
+    "title": "Chameleons\u00a0Camouflage",
+    "fact": "Color change in chameleons rarely is used for camouflage. Instead, it's most commonly used for social signaling and to regulate their body temperature."
+  },
+  {
+    "id": 76,
+    "title": "History",
+    "fact": "Vomiting was not a regular part of\u00a0Roman dining. In ancient Rome, the architectural feature called a\u00a0vomitorium\u00a0was an entranceway for a stadium, not a \u00a0room used for purging."
+  },
+  {
+    "id": 77,
+    "title": "Vomiting Romans",
+    "fact": "Vomiting was not a regular part of\u00a0Roman dining. In ancient Rome, the architectural feature called a\u00a0vomitorium\u00a0was an entranceway for a stadium, not a \u00a0room used for purging."
+  },
+  {
+    "id": 78,
+    "title": "People Lived to 30",
+    "fact": "Life expectancy in the Middle Ages and earlier was lower than today, but not 30 years. The average was skewed by high infant mortality. People often lived to 65 and older."
+  },
+  {
+    "id": 79,
+    "title": "Viking Horns",
+    "fact": "There is no evidence that Vikings wore horned helmets. \u00a0The image stems from a scenography of the Der Ring des Nibelungen opera by Wagner and stuck."
+  },
+  {
+    "id": 80,
+    "title": "Medieval Torture",
+    "fact": "Iron maidens\u00a0weren't invented in the\u00a0Middle Ages\u00a0or used for torture. They were pieced together in the 18th century from artifacts to sell more exhibition tickets."
+  },
+  {
+    "id": 81,
+    "title": "Chastity Belts",
+    "fact": "Modern historians have found no evidence that chastity belts were invented in the middle ages. Most artifacts turned out to be 20th century fakes to discourage masturbation."
+  },
+  {
+    "id": 82,
+    "title": "Flat Earth",
+    "fact": "Medieval Europeans did not believe the Earth was flat. Since the ancient Greek philosophers Plato and Aristotle, belief in a spherical Earth was universal among intellectuals."
+  },
+  {
+    "id": 83,
+    "title": "Columbus'\u00a0America",
+    "fact": "Columbus never reached any land that now forms part of the mainland United States of America. Most of the landings were on the beaches of the Carribean."
+  },
+  {
+    "id": 84,
+    "title": "Pilgrims Wore Black",
+    "fact": "The settlers of the\u00a0Plymouth Colony\u00a0did not wear all black (and didn't have hats with buckles). Fashion was based on the Elizabethan era: Colorful doublets, jerkins, and ruffs."
+  },
+  {
+    "id": 85,
+    "title": "Marco Polo's Pasta",
+    "fact": "Marco Polo did not import pasta from China. Instead, durum wheat pasta was introduced by Arabs from Libya, during their conquest of Sicily in the late 7th century."
+  },
+  {
+    "id": 86,
+    "title": "Salem Witch Trials",
+    "fact": "The falsely accused at the\u00a0Salem witch trials\u00a0were not burned at the stake; about 15 died in prison, 19 were hanged, and one was\u00a0pressed to death. Still, very sad."
+  },
+  {
+    "id": 87,
+    "title": "Let Them Eat Cake",
+    "fact": "Marie Antoinette\u00a0did not say \"let them eat cake\" when she heard that the French peasantry was starving. The phrase was first published by Rousseau."
+  },
+  {
+    "id": 88,
+    "title": "Washington's Teeth",
+    "fact": "George Washington\u00a0did not have wooden teeth. His dentures were made of gold, hippopotamus ivory, lead, and animal teeth (including horse and donkey). Bling, bling."
+  },
+  {
+    "id": 89,
+    "title": "July 4, 1776",
+    "fact": "The signing of the United States Declaration of Independence did not occur on July 4, 1776. After the Second Continental Congress voted on July 2, the signing was on August 2, 1776."
+  },
+  {
+    "id": 90,
+    "title": "Napoleon Was Short",
+    "fact": "At 5'7\", Napoleon Bonaparte was actually \u00a0taller than the average Frenchman of his time. The nickname le Petit Caporal (The Little Corporal) was a term of affection."
+  },
+  {
+    "id": 91,
+    "title": "Cowboy Hats",
+    "fact": "Cowboy hats\u00a0were not popular in the\u00a0Western American frontier, with\u00a0derby or bowler hats\u00a0being the headgear of choice. Heavy marketing after the Civil War changed that."
+  },
+  {
+    "id": 92,
+    "title": "New World, New Name",
+    "fact": "Immigrants' last names were not Americanized (voluntarily, mistakenly, or otherwise) upon arrival at\u00a0Ellis Island.\u00a0There was no law to record immigrant names at that time."
+  },
+  {
+    "id": 93,
+    "title": "War of the Worlds",
+    "fact": "There was no widespread outbreak of panic across the United States in response to Orson Welles' 1938 radio adaptation of H.G. Wells' The War of the Worlds."
+  },
+  {
+    "id": 94,
+    "title": "Einstein Flunked Math",
+    "fact": "Albert Einstein\u00a0did not fail math classes. \u00a0Upon seeing a column making this claim, Einstein said: \"Before I was fifteen I had mastered differential and integral calculus.\""
+  },
+  {
+    "id": 95,
+    "title": "\"Ich bin ein Berliner\"",
+    "fact": "JFK's words \"Ich bin ein Berliner\" are standard German for \"I am a Berliner.\" An urban legend says that Berliner is translated to jelly donut and that Berliners were amused."
+  },
+  {
+    "id": 96,
+    "title": "The Red Telephone",
+    "fact": "The\u00a0Moscow\u2013Washington hotline\u00a0was never a telephone line, nor at the White House. It is a Moscow-Pentagon link that used teletype, then fax, and since 2008 secure email."
+  },
+  {
+    "id": 97,
+    "title": "Society",
+    "fact": "Entrapment\u00a0law in the U.S. does not require police officers to identify themselves as police during stings or undercover work. Plus, police officers may lie during such work."
+  },
+  {
+    "id": 98,
+    "title": "Yes, I'm a Cop",
+    "fact": "Entrapment\u00a0law in the U.S. does not require police officers to identify themselves as police during stings or undercover work. Plus, police officers may lie during such work."
+  },
+  {
+    "id": 99,
+    "title": "Chubby Buddha",
+    "fact": "The\u00a0historical Buddha\u00a0was not obese. The \"chubby Buddha\" or \"laughing Buddha\" is actually based on a jolly 10th-century Chinese folk hero by the name of\u00a0Budai."
+  },
+  {
+    "id": 100,
+    "title": "24 Hours Missing",
+    "fact": "It is not necessary to wait 24 hours before filing a missing person report. If there is evidence of violence or an unusual absence, police wants to act quickly."
+  },
+  {
+    "id": 101,
+    "title": "Sign Language",
+    "fact": "Aside from the\u00a0Pidgin\u00a0International Sign, each country generally has its own, native sign language, and some have more than one (although many are similar)."
+  },
+  {
+    "id": 102,
+    "title": "Edison's Light Bulb",
+    "fact": "Thomas Edison\u00a0did not invent the\u00a0light bulb.\u00a0He did, however, develop the first\u00a0practical\u00a0light bulb in 1880 (employing a carbonized\u00a0bamboo\u00a0filament)."
+  },
+  {
+    "id": 103,
+    "title": "Ford's Assembly Line",
+    "fact": "Henry Ford\u00a0did not invent the automobile (Karl Benz did) or the\u00a0assembly line. But Ford improved the process, through engineering and by sponsoring his employees' work."
+  },
+  {
+    "id": 104,
+    "title": "Cameras Prevent Crime",
+    "fact": "Despite numerous studies, there is little evidence that cameras directly reduce crime rates. Instead, they are often used to detect and prosecute crime after the fact."
+  },
+  {
+    "id": 105,
+    "title": "Toilet Door Handles",
+    "fact": "While 30% of people don't wash their hands, door handles have fewer bacteria than other parts of the room. Warm surfaces and larger doses are needed for bacteria to grow."
+  }
+]

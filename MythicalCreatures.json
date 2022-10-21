@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Werewolf",
+    "description": " Wolf-human shapeshifter (Global Culture)"
+  },
+  {
+    "name": "Dragon",
+    "description": " Depicted as fire-breathing and winged (Global Culture)"
+  },
+  {
+    "name": "Chimera",
+    "description": " Hybrid Fire-breathing creature (Greek Mythology)"
+  },
+  {
+    "name": "Loch Ness Monster",
+    "description": " Aquatic monster (Scottish Folklore)"
+  },
+  {
+    "name": "Mermaid",
+    "description": " Human-fish Hybrid (Global Culture)"
+  },
+  {
+    "name": "Yeti",
+    "description": " Ape-like being/entity (Nepalese Folklore)"
+  },
+  {
+    "name": "Basilisk",
+    "description": " Legendary reptile often called the \u201cKing of Reptiles\u201d (European Mythology)"
+  },
+  {
+    "name": "Sphinx",
+    "description": " Human-headed lion (Greek Mythology)"
+  },
+  {
+    "name": "Medusa",
+    "description": " Winged female monster who had venomous in place of hair (Greek Mythology)"
+  },
+  {
+    "name": "Griffin",
+    "description": " Tail, legs and body of a lion and wings and head of an eagle (Ancient Egyptian Mythology)"
+  },
+  {
+    "name": "Centaur",
+    "description": " Horse with an upper human body (Greek Mythology)"
+  },
+  {
+    "name": "Hippogriff",
+    "description": " Hind half of horse and front half of an eagle (Medieval Bestiaries)"
+  },
+  {
+    "name": "Fairy",
+    "description": " Metaphysical form of spirit (European Folklore)"
+  },
+  {
+    "name": "Kappa",
+    "description": " Demon or Imp (Japanese Folklore)"
+  },
+  {
+    "name": "Pegasus",
+    "description": " Divine winged stallion (Greek Mythology)"
+  },
+  {
+    "name": "Ghoul",
+    "description": " A monster associated with eating flesh in graveyards (Arabian Mythology)"
+  },
+  {
+    "name": "Pixie",
+    "description": " Nature spirits and little people (Cornish Folklore)"
+  },
+  {
+    "name": "Cyclops",
+    "description": " One-Eyed Giants (Greek Mythology)"
+  },
+  {
+    "name": "Redcap",
+    "description": " Murderous goblin (Border Folklore)"
+  },
+  {
+    "name": "Manticore",
+    "description": " Similar to the Sphinx consisting of a human head, lion's body with tail of poisonous spines (Persian Folklore)"
+  },
+  {
+    "name": "Typhon",
+    "description": " Deadly Serpentine Giant (Greek Mythology)"
+  },
+  {
+    "name": "Sea Serpent",
+    "description": " A large type of dragon-snake monster found in the sea (Greek Mythology)"
+  },
+  {
+    "name": "Leprechaun",
+    "description": " Fairies depicted as little men (Irish Folklore)"
+  },
+  {
+    "name": "Fenrir",
+    "description": " Gigantic monstrous wolf (Norse Mythology)"
+  },
+  {
+    "name": "Hippocampus",
+    "description": " Lower body of a fish and upper body of a horse (Etruscan Mythology)"
+  },
+  {
+    "name": "Cipactli",
+    "description": " Sea monster associated with being part frog, part fish and part crocodilian (Aztec Mythology)"
+  },
+  {
+    "name": "Imp",
+    "description": " Similar to goblin or fairy (European Folklore)"
+  },
+  {
+    "name": "Minotaur",
+    "description": " Creature with Human body and Bull\u2019s head (Greek Mythology)"
+  },
+  {
+    "name": "Hydra",
+    "description": " Serpentine water Monster (Roman Mythology/Greek Mythology)"
+  },
+  {
+    "name": "Fomorians",
+    "description": " Monstrous and hostile beings (Irish Mythology)"
+  },
+  {
+    "name": "Charybdis",
+    "description": " Deadly Sea Monster (Greek Mythology)"
+  },
+  {
+    "name": "Behemoth",
+    "description": " Massive beast, believed to be like a hybrid of dinosaur or crocodile (Ancient Jewish)"
+  },
+  {
+    "name": "Cerberus",
+    "description": " Three-headed dog referred to as \u201cHound of Hades\u201d associated with guarding the gates of the Underworld. (Greek Mythology)"
+  },
+  {
+    "name": "Echidna",
+    "description": " Monster that was half-snake and half woman referred to as the \u201cmother of Monsters\u201d (Greek Mythology)"
+  },
+  {
+    "name": "Adlet",
+    "description": " Creature with upper human body and lower body of a canine (Inuit Mythology)"
+  },
+  {
+    "name": "Cacus",
+    "description": " Fire-Breathing Giant (Roman Mythology)"
+  },
+  {
+    "name": "Hecatoncheires",
+    "description": " Three Ferocious giants with incredible strength (Greek Mythology)"
+  },
+  {
+    "name": "Geryon",
+    "description": " Monster with three human-like heads (Greek Mythology)"
+  },
+  {
+    "name": "Scorpion Man",
+    "description": " Creature with body of scorpion and arms, torso and head of human (Akkadian Mythology)"
+  },
+  {
+    "name": "Fachan",
+    "description": " Ferocious Giant with Half a body (Scottish-Irish Mythology)"
+  },
+  {
+    "name": "Ogre",
+    "description": " Predatory grotesque hominid monster (European Mythology/Folklore)"
+  },
+  {
+    "name": "Humbaba",
+    "description": " Lion-Faced Giant (Ancient Mesopotamian Mythology)"
+  },
+  {
+    "name": "Scylla",
+    "description": " Monster that lived by the water (Greek Mythology)"
+  },
+  {
+    "name": "Hadhayosh",
+    "description": " Gigantic land Creature (Persian Mythology)"
+  },
+  {
+    "name": "Kee-wakw",
+    "description": " Cannibalistic Giant half-human and half-animal (Abenaki Mythology)"
+  },
+  {
+    "name": "Abaia",
+    "description": " A magical eel (Melanesian Mythology)"
+  },
+  {
+    "name": "Calygreyhound",
+    "description": " Creature with torso of antelope, head of a wild cat and claws on an eagle (Medieval Heraldry)"
+  },
+  {
+    "name": "Phoenix",
+    "description": " A mythical bird with long life (Greek Mythology)"
+  },
+  {
+    "name": "Tarasque",
+    "description": " Fearsome Dragon-like hybrid (French Mythology)"
+  },
+  {
+    "name": "Cockatrice",
+    "description": " Two-legged serpent like dragon creature with head of a rooster (Medieval Bestiaries)"
+  },
+  {
+    "name": "Harpy",
+    "description": " Half-bird and half human associated with storm winds (Greek Mythology)"
+  },
+  {
+    "name": "Makara",
+    "description": " Sea Creature often depicted as a terrestrial animal (Hindu Mythology)"
+  },
+  {
+    "name": "Ammit",
+    "description": " Human devourer with a body believed to be part hippopotamus, crocodile, and lion (Egyptian Mythology)"
+  },
+  {
+    "name": "Garuda",
+    "description": " Human-eagle hybrid known to be a protector (Hindu/Jain/Buddhist Mythology)"
+  },
+  {
+    "name": "Winged Lion",
+    "description": " Mythical beast lion with bird-like wings (Medieval Bestiaries)"
+  },
+  {
+    "name": "Leviathan",
+    "description": " Huge Sea Monster (Jewish Mythology)"
+  },
+  {
+    "name": "Wyvern",
+    "description": " A creature with reptilian body and dragon\u2019s wings and head (European Heraldry)"
+  },
+  {
+    "name": "Namazu",
+    "description": " Giant Catfish known to cause earthquakes (Japanese Mythology)"
+  },
+  {
+    "name": "Yale/Centicore",
+    "description": " Four-legged beast creature with boar-like tusks, large horns and resembling a goat-antelope (European Mythology)"
+  },
+  {
+    "name": "Questing Beast",
+    "description": " Serpent-leopard-lion-hart hybrid (Arthurian legend)"
+  },
+  {
+    "name": "Elf",
+    "description": " Supernatural beings with magical powers (Germanic Mythology/Folklore)"
+  },
+  {
+    "name": "Mares of Diomedes",
+    "description": " Quartet of flesh-eating/Man-eating horses (Greek Mythology)"
+  },
+  {
+    "name": "Serpopard",
+    "description": " Mythical animal with body of a leopard and neck of a snake (Egyptian Mythology)"
+  },
+  {
+    "name": "Antero Vipunen",
+    "description": " A giant known to possess knowledge and spells (Finish Mythology)"
+  },
+  {
+    "name": "Indus Worm",
+    "description": " Gigantic white carnivorous worm (Medieval Bestiaries)"
+  },
+  {
+    "name": "Ahuizotl",
+    "description": " Dog-like creature (Aztec Mythology)"
+  },
+  {
+    "name": "Psoglav",
+    "description": " Dog-headed monster with human body and horse legs (Serbian Mythology)"
+  },
+  {
+    "name": "Aspidochelone",
+    "description": " Giant Sea Monster with spines on back (Medieval folklore)"
+  },
+  {
+    "name": "Sirin",
+    "description": " Creature with Body of a bird and chest and head of a woman (Russian Mythology)"
+  },
+  {
+    "name": "Cynocephaly",
+    "description": " Jackal-headed humanoid (Medieval Bestiaries)"
+  },
+  {
+    "name": "Myrmecoleon",
+    "description": " Ant-Lion hybrid (Medieval Bestiaries)"
+  },
+  {
+    "name": "Argus Panoptes",
+    "description": " Multi-eyed monster (Greek Mythology)"
+  },
+  {
+    "name": "Ekek",
+    "description": " Bird-like flesh-eating creature (Philippine Mythology)"
+  },
+  {
+    "name": "Oozlum Bird",
+    "description": " Mythical bird known to fly backward (Australian Folklore)"
+  },
+  {
+    "name": "Hellhound",
+    "description": " Underworld dog with super-strength and agility (Global Culture)"
+  },
+  {
+    "name": "Monocerus",
+    "description": " Horse with tail of a boar, feet of elephant, and head of stag with a single horn (Medieval Bestiaries)"
+  },
+  {
+    "name": "Water Leper",
+    "description": " Gigantic frog with a tail similar to lizard and bat wings in place of forelegs (Welsh Mythology/Folklore)"
+  },
+  {
+    "name": "Ophiotaurus",
+    "description": " Serpent-Bull hybrid (Greek Mythology)"
+  },
+  {
+    "name": "Unktehila",
+    "description": " Reptilian monster or Serpentoid creature (Lakota Mythology)"
+  },
+  {
+    "name": "Capacun",
+    "description": " Monstrous humanoid associated with evil (Romanian Mythology/Folklore)"
+  },
+  {
+    "name": "Mapinguari",
+    "description": " Ape-like giant sloth (Brazilian Mythology/South American Folklore)"
+  },
+  {
+    "name": "Yali",
+    "description": " Lion-like creature (Hindu Mythology)"
+  },
+  {
+    "name": "Fish-Man",
+    "description": " Amphibian Human-looking Cryptid (Cantabrian Mythology)"
+  },
+  {
+    "name": "Asakku",
+    "description": " Monsters and evil spirits known to kill humans (Babylonian Mythology)"
+  },
+  {
+    "name": "Sleipnir",
+    "description": " Eight-legged Horse believed to be ridden by Odin (Norse Mythology)"
+  },
+  {
+    "name": "A-senee-ki-wakw",
+    "description": " Stone giant race (Abenaki Mythology)"
+  },
+  {
+    "name": "Ushi-oni",
+    "description": " Bull-headed monster with a horn (Japanese Mythology)"
+  },
+  {
+    "name": "Longma",
+    "description": " Winged Horse that had scales of a dragon (Chinese Mythology)"
+  },
+  {
+    "name": "Nguruvilu",
+    "description": " Fox-like snake found by water beds. (Mapuche Mythology/Folklore)"
+  },
+  {
+    "name": "Lou Carcolh",
+    "description": " Hybrid of Snake-Mollusk (French Mythology/Folklore)"
+  },
+  {
+    "name": "Yacuruna",
+    "description": " Mythical people with head and feet backward believed to live in underwater colonies. (indigenous Amazonian Mythology)"
+  },
+  {
+    "name": "Bashee",
+    "description": " Giant snake known to eat elephants (Chinese Mythology)"
+  },
+  {
+    "name": "Teju Jagua",
+    "description": " Lizard-dog hybrid with seven dog heads (Guarani Mythology)"
+  },
+  {
+    "name": "Indrik",
+    "description": " One-horned gigantic bull with deer legs and head of a horse vaguely resembling a rhinoceros (Russian Mythology/Folklore)"
+  },
+  {
+    "name": "Onocentaur",
+    "description": " Human-Donkey Hybrid (Medieval Bestiaries)"
+  },
+  {
+    "name": "Simargl",
+    "description": " Winged dog or lion (Slavic Mythology)"
+  },
+  {
+    "name": "Erchitu",
+    "description": " Ox-humanoid (Sardinian Mythology)"
+  },
+  {
+    "name": "Huay Chay",
+    "description": " Half-man, half beast creature (Mayan Mythology)"
+  },
+  {
+    "name": "Laestrygonians",
+    "description": " Man-eating giants (Greek Mythology)"
+  },
+  {
+    "name": "Mboi Tui",
+    "description": " Hybrid serpent-peacock monster (Guarani Mythology)"
+  }
+]
