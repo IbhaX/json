@@ -1,0 +1,5859 @@
+{
+    "states": [
+        {
+            "Andhra Pradesh": [
+                {
+                    "district": "Adilabad, Mancherial, Nirmal",
+                    "code": "AP-01",
+                    "abv": "AP",
+                    "code_num": "01"
+                },
+                {
+                    "district": "Anantapur, Hindupur",
+                    "code": "AP-02",
+                    "abv": "AP",
+                    "code_num": "02"
+                },
+                {
+                    "district": "Chittoor, Tirupati, Madanapalle, Rajampet",
+                    "code": "AP-03",
+                    "abv": "AP",
+                    "code_num": "03"
+                },
+                {
+                    "district": "Kadapa, Proddatur",
+                    "code": "AP-04",
+                    "abv": "AP",
+                    "code_num": "04"
+                },
+                {
+                    "district": "Kakinada, Amalapuram, Rajahmundry",
+                    "code": "AP-05",
+                    "abv": "AP",
+                    "code_num": "05"
+                },
+                {
+                    "district": "Kakinada",
+                    "code": "AP-06",
+                    "abv": "AP",
+                    "code_num": "06"
+                },
+                {
+                    "district": "Guntur, Piduguralla, Narasaraopet, Repalle",
+                    "code": "AP-07",
+                    "abv": "AP",
+                    "code_num": "07"
+                },
+                {
+                    "district": "Guntur",
+                    "code": "AP-08",
+                    "abv": "AP",
+                    "code_num": "08"
+                },
+                {
+                    "district": "Khairtabad, Hyderabad District",
+                    "code": "AP-09",
+                    "abv": "AP",
+                    "code_num": "09"
+                },
+                {
+                    "district": "Secunderabad, Hyderabad District",
+                    "code": "AP-10",
+                    "abv": "AP",
+                    "code_num": "10"
+                },
+                {
+                    "district": "Malakpet, Hyderabad District",
+                    "code": "AP-11",
+                    "abv": "AP",
+                    "code_num": "11"
+                },
+                {
+                    "district": "Bahadurpura, Hyderabad District",
+                    "code": "AP-12",
+                    "abv": "AP",
+                    "code_num": "12"
+                },
+                {
+                    "district": "Mehdipatnam, Hyderabad District",
+                    "code": "AP-13",
+                    "abv": "AP",
+                    "code_num": "13"
+                },
+                {
+                    "district": "Karimnagar",
+                    "code": "AP-14",
+                    "abv": "AP",
+                    "code_num": "14"
+                },
+                {
+                    "district": "Karimnagar, Jagtial, Peddapalli",
+                    "code": "AP-15",
+                    "abv": "AP",
+                    "code_num": "15"
+                },
+                {
+                    "district": "Bejawada, Gudivada, Machilipatnam, Nandigama",
+                    "code": "AP-16 & AP-17",
+                    "abv": "AP",
+                    "code_num": "16 & AP"
+                },
+                {
+                    "district": "Nuzvid",
+                    "code": "AP-18 & AP-19",
+                    "abv": "AP",
+                    "code_num": "18 & AP"
+                },
+                {
+                    "district": "Khammam, Kothagudem, Sathupally, Yellandu",
+                    "code": "AP-20",
+                    "abv": "AP",
+                    "code_num": "20"
+                },
+                {
+                    "district": "Kurnool, Adoni, Nandyal",
+                    "code": "AP-21",
+                    "abv": "AP",
+                    "code_num": "21"
+                },
+                {
+                    "district": "Mahaboobnagar, Pebbair, Gadwal",
+                    "code": "AP-22",
+                    "abv": "AP",
+                    "code_num": "22"
+                },
+                {
+                    "district": "Medak, Siddipet, Sangareddy (RC puram)",
+                    "code": "AP-23",
+                    "abv": "AP",
+                    "code_num": "23"
+                },
+                {
+                    "district": "Nalgonda, Bhongir, Suryapet",
+                    "code": "AP-24",
+                    "abv": "AP",
+                    "code_num": "24"
+                },
+                {
+                    "district": "Nizamabad, Kamareddy",
+                    "code": "AP-25",
+                    "abv": "AP",
+                    "code_num": "25"
+                },
+                {
+                    "district": "Nellore, Kavali, Gudur, Sullurpeta",
+                    "code": "AP-26",
+                    "abv": "AP",
+                    "code_num": "26"
+                },
+                {
+                    "district": "Ongole, Chirala, Markapur, Prakasam",
+                    "code": "AP-27",
+                    "abv": "AP",
+                    "code_num": "27"
+                },
+                {
+                    "district": "Rangareddy",
+                    "code": "AP-28 & AP-29",
+                    "abv": "AP",
+                    "code_num": "28 & AP"
+                },
+                {
+                    "district": "Srikakulam /Tekkali /Palasa/Sompeta/Ichchapuram/Kaviti",
+                    "code": "AP-30",
+                    "abv": "AP",
+                    "code_num": "30"
+                },
+                {
+                    "district": "Visakhapatnam, Gajuwaka, Anakapalli",
+                    "code": "AP-31",
+                    "abv": "AP",
+                    "code_num": "31"
+                },
+                {
+                    "district": "Visakhapatnam",
+                    "code": "AP-32",
+                    "abv": "AP",
+                    "code_num": "32"
+                },
+                {
+                    "district": "Gajuwaka",
+                    "code": "AP-33 & AP-34",
+                    "abv": "AP",
+                    "code_num": "33 & AP"
+                },
+                {
+                    "district": "Vizianagaram",
+                    "code": "AP-35",
+                    "abv": "AP",
+                    "code_num": "35"
+                },
+                {
+                    "district": "Warangal, Jangaon, Mahabubabad",
+                    "code": "AP-36",
+                    "abv": "AP",
+                    "code_num": "36"
+                },
+                {
+                    "district": "Eluru, Jangareddygudem, Kovvur, Tadepalligudem, Tanuku, Bhimavaram, Palakollu, Chintalapudi",
+                    "code": "AP-37",
+                    "abv": "AP",
+                    "code_num": "37"
+                }
+            ]
+        },
+        {
+            "Assam": [
+                {
+                    "district": "Guwahati, Kamrup",
+                    "code": "AS-01",
+                    "abv": "AS",
+                    "code_num": "01"
+                },
+                {
+                    "district": "Nagaon",
+                    "code": "AS-02",
+                    "abv": "AS",
+                    "code_num": "02"
+                },
+                {
+                    "district": "Jorhat",
+                    "code": "AS-03",
+                    "abv": "AS",
+                    "code_num": "03"
+                },
+                {
+                    "district": "Sibsagar",
+                    "code": "AS-04",
+                    "abv": "AS",
+                    "code_num": "04"
+                },
+                {
+                    "district": "Golaghat",
+                    "code": "AS-05",
+                    "abv": "AS",
+                    "code_num": "05"
+                },
+                {
+                    "district": "Dibrugarh",
+                    "code": "AS-06",
+                    "abv": "AS",
+                    "code_num": "06"
+                },
+                {
+                    "district": "Lakhimpur district",
+                    "code": "AS-07",
+                    "abv": "AS",
+                    "code_num": "07"
+                },
+                {
+                    "district": "Dima Hasao",
+                    "code": "AS-08",
+                    "abv": "AS",
+                    "code_num": "08"
+                },
+                {
+                    "district": "Karbi Anglong",
+                    "code": "AS-09",
+                    "abv": "AS",
+                    "code_num": "09"
+                },
+                {
+                    "district": "Karimganj",
+                    "code": "AS-10",
+                    "abv": "AS",
+                    "code_num": "10"
+                },
+                {
+                    "district": "Cachar",
+                    "code": "AS-11",
+                    "abv": "AS",
+                    "code_num": "11"
+                },
+                {
+                    "district": "Sonitpur",
+                    "code": "AS-12",
+                    "abv": "AS",
+                    "code_num": "12"
+                },
+                {
+                    "district": "Darrang",
+                    "code": "AS-13",
+                    "abv": "AS",
+                    "code_num": "13"
+                },
+                {
+                    "district": "Nalbari",
+                    "code": "AS-14",
+                    "abv": "AS",
+                    "code_num": "14"
+                },
+                {
+                    "district": "Barpeta",
+                    "code": "AS-15",
+                    "abv": "AS",
+                    "code_num": "15"
+                },
+                {
+                    "district": "Kokrajhar",
+                    "code": "AS-16",
+                    "abv": "AS",
+                    "code_num": "16"
+                },
+                {
+                    "district": "Dhubri",
+                    "code": "AS-17",
+                    "abv": "AS",
+                    "code_num": "17"
+                },
+                {
+                    "district": "Goalpara",
+                    "code": "AS-18",
+                    "abv": "AS",
+                    "code_num": "18"
+                },
+                {
+                    "district": "Bongaigaon",
+                    "code": "AS-19",
+                    "abv": "AS",
+                    "code_num": "19"
+                },
+                {
+                    "district": "Marigaon",
+                    "code": "AS-21",
+                    "abv": "AS",
+                    "code_num": "21"
+                },
+                {
+                    "district": "Dhemaji",
+                    "code": "AS-22",
+                    "abv": "AS",
+                    "code_num": "22"
+                },
+                {
+                    "district": "Tinsukia",
+                    "code": "AS-23",
+                    "abv": "AS",
+                    "code_num": "23"
+                },
+                {
+                    "district": "Hailakandi",
+                    "code": "AS-24",
+                    "abv": "AS",
+                    "code_num": "24"
+                },
+                {
+                    "district": "Guwahati no longer used",
+                    "code": "AS-25",
+                    "abv": "AS",
+                    "code_num": "25"
+                },
+                {
+                    "district": "Udalguri",
+                    "code": "AS-27",
+                    "abv": "AS",
+                    "code_num": "27"
+                },
+                {
+                    "district": "Assam State Transport Corporation (ASTC)",
+                    "code": "AS-20",
+                    "abv": "AS",
+                    "code_num": "20"
+                },
+                {
+                    "district": "Assam Police vehicles",
+                    "code": "AS-30",
+                    "abv": "AS",
+                    "code_num": "30"
+                },
+                {
+                    "district": "Assam Police",
+                    "code": "AS-31",
+                    "abv": "AS",
+                    "code_num": "31"
+                }
+            ]
+        },
+        {
+            "Chhattisgarh": [
+                {
+                    "district": "Governor of Chattisgarh",
+                    "code": "CG-01",
+                    "abv": "CG",
+                    "code_num": "01"
+                },
+                {
+                    "district": "Government of Chattisgarh",
+                    "code": "CG-02",
+                    "abv": "CG",
+                    "code_num": "02"
+                },
+                {
+                    "district": "Chattisgarh Police",
+                    "code": "CG-03",
+                    "abv": "CG",
+                    "code_num": "03"
+                },
+                {
+                    "district": "Raipur",
+                    "code": "CG-04",
+                    "abv": "CG",
+                    "code_num": "04"
+                },
+                {
+                    "district": "Dhamtari",
+                    "code": "CG-05",
+                    "abv": "CG",
+                    "code_num": "05"
+                },
+                {
+                    "district": "Mahasamund",
+                    "code": "CG-06",
+                    "abv": "CG",
+                    "code_num": "06"
+                },
+                {
+                    "district": "Durg",
+                    "code": "CG-07",
+                    "abv": "CG",
+                    "code_num": "07"
+                },
+                {
+                    "district": "Rajnandgaon",
+                    "code": "CG-08",
+                    "abv": "CG",
+                    "code_num": "08"
+                },
+                {
+                    "district": "Kawardha",
+                    "code": "CG-09",
+                    "abv": "CG",
+                    "code_num": "09"
+                },
+                {
+                    "district": "Bilaspur",
+                    "code": "CG-10",
+                    "abv": "CG",
+                    "code_num": "10"
+                },
+                {
+                    "district": "JanjgirChampa",
+                    "code": "CG-11",
+                    "abv": "CG",
+                    "code_num": "11"
+                },
+                {
+                    "district": "Korba",
+                    "code": "CG-12",
+                    "abv": "CG",
+                    "code_num": "12"
+                },
+                {
+                    "district": "Raigarh",
+                    "code": "CG-13",
+                    "abv": "CG",
+                    "code_num": "13"
+                },
+                {
+                    "district": "Jashpur",
+                    "code": "CG-14",
+                    "abv": "CG",
+                    "code_num": "14"
+                },
+                {
+                    "district": "Ambikapur",
+                    "code": "CG-15",
+                    "abv": "CG",
+                    "code_num": "15"
+                },
+                {
+                    "district": "Baikunthpur",
+                    "code": "CG-16",
+                    "abv": "CG",
+                    "code_num": "16"
+                },
+                {
+                    "district": "Jagdalpur",
+                    "code": "CG-17",
+                    "abv": "CG",
+                    "code_num": "17"
+                },
+                {
+                    "district": "Dantewada",
+                    "code": "CG-18",
+                    "abv": "CG",
+                    "code_num": "18"
+                },
+                {
+                    "district": "Kanker",
+                    "code": "CG-19",
+                    "abv": "CG",
+                    "code_num": "19"
+                },
+                {
+                    "district": "Bijapur",
+                    "code": "CG-20",
+                    "abv": "CG",
+                    "code_num": "20"
+                }
+            ]
+        },
+        {
+            "Gujarat": [
+                {
+                    "district": "Ahmedabad",
+                    "code": "GJ-01",
+                    "abv": "GJ",
+                    "code_num": "01"
+                },
+                {
+                    "district": "Mehsana",
+                    "code": "GJ-02",
+                    "abv": "GJ",
+                    "code_num": "02"
+                },
+                {
+                    "district": "Rajkot",
+                    "code": "GJ-03",
+                    "abv": "GJ",
+                    "code_num": "03"
+                },
+                {
+                    "district": "Bhavnagar",
+                    "code": "GJ-04",
+                    "abv": "GJ",
+                    "code_num": "04"
+                },
+                {
+                    "district": "Surat",
+                    "code": "GJ-05",
+                    "abv": "GJ",
+                    "code_num": "05"
+                },
+                {
+                    "district": "Vadodara",
+                    "code": "GJ-06",
+                    "abv": "GJ",
+                    "code_num": "06"
+                },
+                {
+                    "district": "Kheda",
+                    "code": "GJ-07",
+                    "abv": "GJ",
+                    "code_num": "07"
+                },
+                {
+                    "district": "Palanpur",
+                    "code": "GJ-08",
+                    "abv": "GJ",
+                    "code_num": "08"
+                },
+                {
+                    "district": "Sabarkantha",
+                    "code": "GJ-09",
+                    "abv": "GJ",
+                    "code_num": "09"
+                },
+                {
+                    "district": "Jamnagar",
+                    "code": "GJ-10",
+                    "abv": "GJ",
+                    "code_num": "10"
+                },
+                {
+                    "district": "Junagadh",
+                    "code": "GJ-11",
+                    "abv": "GJ",
+                    "code_num": "11"
+                },
+                {
+                    "district": "Kutch",
+                    "code": "GJ-12",
+                    "abv": "GJ",
+                    "code_num": "12"
+                },
+                {
+                    "district": "Surendranagar",
+                    "code": "GJ-13",
+                    "abv": "GJ",
+                    "code_num": "13"
+                },
+                {
+                    "district": "Amreli",
+                    "code": "GJ-14",
+                    "abv": "GJ",
+                    "code_num": "14"
+                },
+                {
+                    "district": "Valsad",
+                    "code": "GJ-15",
+                    "abv": "GJ",
+                    "code_num": "15"
+                },
+                {
+                    "district": "Bharuch",
+                    "code": "GJ-16",
+                    "abv": "GJ",
+                    "code_num": "16"
+                },
+                {
+                    "district": "Panchmahal (Godhara)",
+                    "code": "GJ-17",
+                    "abv": "GJ",
+                    "code_num": "17"
+                },
+                {
+                    "district": "Gandhinagar",
+                    "code": "GJ-18",
+                    "abv": "GJ",
+                    "code_num": "18"
+                },
+                {
+                    "district": "Bardoli",
+                    "code": "GJ-19",
+                    "abv": "GJ",
+                    "code_num": "19"
+                },
+                {
+                    "district": "Dahod",
+                    "code": "GJ-20",
+                    "abv": "GJ",
+                    "code_num": "20"
+                },
+                {
+                    "district": "Navsari",
+                    "code": "GJ-21",
+                    "abv": "GJ",
+                    "code_num": "21"
+                },
+                {
+                    "district": "Narmada",
+                    "code": "GJ-22",
+                    "abv": "GJ",
+                    "code_num": "22"
+                },
+                {
+                    "district": "Anand",
+                    "code": "GJ-23",
+                    "abv": "GJ",
+                    "code_num": "23"
+                },
+                {
+                    "district": "Patan",
+                    "code": "GJ-24",
+                    "abv": "GJ",
+                    "code_num": "24"
+                },
+                {
+                    "district": "Porbandar",
+                    "code": "GJ-25",
+                    "abv": "GJ",
+                    "code_num": "25"
+                },
+                {
+                    "district": "Vyara",
+                    "code": "GJ-26",
+                    "abv": "GJ",
+                    "code_num": "26"
+                },
+                {
+                    "district": "East Ahmedabad",
+                    "code": "GJ-27",
+                    "abv": "GJ",
+                    "code_num": "27"
+                },
+                {
+                    "district": "West Surat",
+                    "code": "GJ-28",
+                    "abv": "GJ",
+                    "code_num": "28"
+                },
+                {
+                    "district": "Vadodara rural",
+                    "code": "GJ-29",
+                    "abv": "GJ",
+                    "code_num": "29"
+                },
+                {
+                    "district": "East Rajkot",
+                    "code": "GJ-30",
+                    "abv": "GJ",
+                    "code_num": "30"
+                }
+            ]
+        },
+        {
+            "Himachal Pradesh": [
+                {
+                    "district": "Shimla Urban (tourist buses & taxis)",
+                    "code": "HP-01 & HP-02",
+                    "abv": "HP",
+                    "code_num": "01 & HP"
+                },
+                {
+                    "district": "Shimla Urban",
+                    "code": "HP-03",
+                    "abv": "HP",
+                    "code_num": "03"
+                },
+                {
+                    "district": "Dharamsala (autorikshaws)",
+                    "code": "HP-04",
+                    "abv": "HP",
+                    "code_num": "04"
+                },
+                {
+                    "district": "Mandi (autorikshaws)",
+                    "code": "HP-05",
+                    "abv": "HP",
+                    "code_num": "05"
+                },
+                {
+                    "district": "Rampur Bushar",
+                    "code": "HP-06",
+                    "abv": "HP",
+                    "code_num": "06"
+                },
+                {
+                    "district": "Shimla",
+                    "code": "HP-07",
+                    "abv": "HP",
+                    "code_num": "07"
+                },
+                {
+                    "district": "Chaupal",
+                    "code": "HP-08",
+                    "abv": "HP",
+                    "code_num": "08"
+                },
+                {
+                    "district": "Theog",
+                    "code": "HP-09",
+                    "abv": "HP",
+                    "code_num": "09"
+                },
+                {
+                    "district": "Rohru",
+                    "code": "HP-10",
+                    "abv": "HP",
+                    "code_num": "10"
+                },
+                {
+                    "district": "Arki",
+                    "code": "HP-11",
+                    "abv": "HP",
+                    "code_num": "11"
+                },
+                {
+                    "district": "Nalagarh",
+                    "code": "HP-12",
+                    "abv": "HP",
+                    "code_num": "12"
+                },
+                {
+                    "district": "Kandaghat",
+                    "code": "HP-13",
+                    "abv": "HP",
+                    "code_num": "13"
+                },
+                {
+                    "district": "Solan",
+                    "code": "HP-14",
+                    "abv": "HP",
+                    "code_num": "14"
+                },
+                {
+                    "district": "Parwanoo",
+                    "code": "HP-15",
+                    "abv": "HP",
+                    "code_num": "15"
+                },
+                {
+                    "district": "Rajgarh",
+                    "code": "HP-16",
+                    "abv": "HP",
+                    "code_num": "16"
+                },
+                {
+                    "district": "Paonta Sahib",
+                    "code": "HP-17",
+                    "abv": "HP",
+                    "code_num": "17"
+                },
+                {
+                    "district": "Nahan",
+                    "code": "HP-18",
+                    "abv": "HP",
+                    "code_num": "18"
+                },
+                {
+                    "district": "Amb",
+                    "code": "HP-19",
+                    "abv": "HP",
+                    "code_num": "19"
+                },
+                {
+                    "district": "Una",
+                    "code": "HP-20",
+                    "abv": "HP",
+                    "code_num": "20"
+                },
+                {
+                    "district": "Barsar",
+                    "code": "HP-21",
+                    "abv": "HP",
+                    "code_num": "21"
+                },
+                {
+                    "district": "Hamirpur",
+                    "code": "HP-22",
+                    "abv": "HP",
+                    "code_num": "22"
+                },
+                {
+                    "district": "Ghumarwin",
+                    "code": "HP-23",
+                    "abv": "HP",
+                    "code_num": "23"
+                },
+                {
+                    "district": "Bilaspur",
+                    "code": "HP-24",
+                    "abv": "HP",
+                    "code_num": "24"
+                },
+                {
+                    "district": "Kalpa",
+                    "code": "HP-25",
+                    "abv": "HP",
+                    "code_num": "25"
+                },
+                {
+                    "district": "Nichar (Bhaba Nagar)",
+                    "code": "HP-26",
+                    "abv": "HP",
+                    "code_num": "26"
+                },
+                {
+                    "district": "Pooh",
+                    "code": "HP-27",
+                    "abv": "HP",
+                    "code_num": "27"
+                },
+                {
+                    "district": "Sarkaghat",
+                    "code": "HP-28",
+                    "abv": "HP",
+                    "code_num": "28"
+                },
+                {
+                    "district": "Jogindernagar",
+                    "code": "HP-29",
+                    "abv": "HP",
+                    "code_num": "29"
+                },
+                {
+                    "district": "Karsog",
+                    "code": "HP-30",
+                    "abv": "HP",
+                    "code_num": "30"
+                },
+                {
+                    "district": "Sundernagar",
+                    "code": "HP-31",
+                    "abv": "HP",
+                    "code_num": "31"
+                },
+                {
+                    "district": "Mandi",
+                    "code": "HP-32",
+                    "abv": "HP",
+                    "code_num": "32"
+                },
+                {
+                    "district": "Mandi",
+                    "code": "HP-33",
+                    "abv": "HP",
+                    "code_num": "33"
+                },
+                {
+                    "district": "Kullu",
+                    "code": "HP-34",
+                    "abv": "HP",
+                    "code_num": "34"
+                },
+                {
+                    "district": "Anni",
+                    "code": "HP-35",
+                    "abv": "HP",
+                    "code_num": "35"
+                },
+                {
+                    "district": "Dehra",
+                    "code": "HP-36",
+                    "abv": "HP",
+                    "code_num": "36"
+                },
+                {
+                    "district": "Palampur",
+                    "code": "HP-37",
+                    "abv": "HP",
+                    "code_num": "37"
+                },
+                {
+                    "district": "Nurpur",
+                    "code": "HP-38",
+                    "abv": "HP",
+                    "code_num": "38"
+                },
+                {
+                    "district": "Dharamshala",
+                    "code": "HP-39",
+                    "abv": "HP",
+                    "code_num": "39"
+                },
+                {
+                    "district": "Kangra",
+                    "code": "HP-40",
+                    "abv": "HP",
+                    "code_num": "40"
+                },
+                {
+                    "district": "Kaza",
+                    "code": "HP-41",
+                    "abv": "HP",
+                    "code_num": "41"
+                },
+                {
+                    "district": "Keylong",
+                    "code": "HP-42",
+                    "abv": "HP",
+                    "code_num": "42"
+                },
+                {
+                    "district": "Udaipur",
+                    "code": "HP-43",
+                    "abv": "HP",
+                    "code_num": "43"
+                },
+                {
+                    "district": "Churah",
+                    "code": "HP-44",
+                    "abv": "HP",
+                    "code_num": "44"
+                },
+                {
+                    "district": "Pangi",
+                    "code": "HP-45",
+                    "abv": "HP",
+                    "code_num": "45"
+                },
+                {
+                    "district": "Bharmour",
+                    "code": "HP-46",
+                    "abv": "HP",
+                    "code_num": "46"
+                },
+                {
+                    "district": "Dalhousie",
+                    "code": "HP-47",
+                    "abv": "HP",
+                    "code_num": "47"
+                },
+                {
+                    "district": "Chamba",
+                    "code": "HP-48",
+                    "abv": "HP",
+                    "code_num": "48"
+                },
+                {
+                    "district": "Banjar",
+                    "code": "HP-49",
+                    "abv": "HP",
+                    "code_num": "49"
+                },
+                {
+                    "district": "Shimla (autorikshaws)",
+                    "code": "HP-50",
+                    "abv": "HP",
+                    "code_num": "50"
+                },
+                {
+                    "district": "Shimla (rural)",
+                    "code": "HP-51 & HP-52",
+                    "abv": "HP",
+                    "code_num": "51 & HP"
+                },
+                {
+                    "district": "Baijnath",
+                    "code": "HP-53",
+                    "abv": "HP",
+                    "code_num": "53"
+                },
+                {
+                    "district": "Jawali",
+                    "code": "HP-54",
+                    "abv": "HP",
+                    "code_num": "54"
+                },
+                {
+                    "district": "Nadaun, Hamirpur",
+                    "code": "HP-55",
+                    "abv": "HP",
+                    "code_num": "55"
+                },
+                {
+                    "district": "Jaisinghpur",
+                    "code": "HP-56",
+                    "abv": "HP",
+                    "code_num": "56"
+                },
+                {
+                    "district": "Chowari",
+                    "code": "HP-57",
+                    "abv": "HP",
+                    "code_num": "57"
+                },
+                {
+                    "district": "Manali",
+                    "code": "HP-58",
+                    "abv": "HP",
+                    "code_num": "58"
+                },
+                {
+                    "district": "DodraKwar",
+                    "code": "HP-62",
+                    "abv": "HP",
+                    "code_num": "62"
+                },
+                {
+                    "district": "Shimla",
+                    "code": "HP-63",
+                    "abv": "HP",
+                    "code_num": "63"
+                },
+                {
+                    "district": "Solan",
+                    "code": "HP-64",
+                    "abv": "HP",
+                    "code_num": "64"
+                },
+                {
+                    "district": "Mandi",
+                    "code": "HP-65",
+                    "abv": "HP",
+                    "code_num": "65"
+                },
+                {
+                    "district": "Kullu",
+                    "code": "HP-66",
+                    "abv": "HP",
+                    "code_num": "66"
+                },
+                {
+                    "district": "Hamirpur",
+                    "code": "HP-67",
+                    "abv": "HP",
+                    "code_num": "67"
+                },
+                {
+                    "district": "Kangra",
+                    "code": "HP-68",
+                    "abv": "HP",
+                    "code_num": "68"
+                },
+                {
+                    "district": "Bilaspur",
+                    "code": "HP-69",
+                    "abv": "HP",
+                    "code_num": "69"
+                },
+                {
+                    "district": "Nahan",
+                    "code": "HP-71",
+                    "abv": "HP",
+                    "code_num": "71"
+                },
+                {
+                    "district": "Una",
+                    "code": "HP-72",
+                    "abv": "HP",
+                    "code_num": "72"
+                },
+                {
+                    "district": "Chamba",
+                    "code": "HP-73",
+                    "abv": "HP",
+                    "code_num": "73"
+                },
+                {
+                    "district": "Bhoranj",
+                    "code": "HP-74",
+                    "abv": "HP",
+                    "code_num": "74"
+                },
+                {
+                    "district": "Paddhar",
+                    "code": "HP-76",
+                    "abv": "HP",
+                    "code_num": "76"
+                }
+            ]
+        },
+        {
+            "Jharkhand": [
+                {
+                    "district": "Ranchi",
+                    "code": "JH-01",
+                    "abv": "JH",
+                    "code_num": "01"
+                },
+                {
+                    "district": "Hazaribagh, Ramgarh",
+                    "code": "JH-02",
+                    "abv": "JH",
+                    "code_num": "02"
+                },
+                {
+                    "district": "Daltonganj",
+                    "code": "JH-03",
+                    "abv": "JH",
+                    "code_num": "03"
+                },
+                {
+                    "district": "Dumka",
+                    "code": "JH-04",
+                    "abv": "JH",
+                    "code_num": "04"
+                },
+                {
+                    "district": "Jamshedpur",
+                    "code": "JH-05",
+                    "abv": "JH",
+                    "code_num": "05"
+                },
+                {
+                    "district": "Chaibasa",
+                    "code": "JH-06",
+                    "abv": "JH",
+                    "code_num": "06"
+                },
+                {
+                    "district": "Gumla",
+                    "code": "JH-07",
+                    "abv": "JH",
+                    "code_num": "07"
+                },
+                {
+                    "district": "Lohardaga",
+                    "code": "JH-08",
+                    "abv": "JH",
+                    "code_num": "08"
+                },
+                {
+                    "district": "Bokaro Steel City",
+                    "code": "JH-09",
+                    "abv": "JH",
+                    "code_num": "09"
+                },
+                {
+                    "district": "Dhanbad",
+                    "code": "JH-10",
+                    "abv": "JH",
+                    "code_num": "10"
+                },
+                {
+                    "district": "Giridih",
+                    "code": "JH-11",
+                    "abv": "JH",
+                    "code_num": "11"
+                },
+                {
+                    "district": "Koderma",
+                    "code": "JH-12",
+                    "abv": "JH",
+                    "code_num": "12"
+                },
+                {
+                    "district": "Chatra",
+                    "code": "JH-13",
+                    "abv": "JH",
+                    "code_num": "13"
+                },
+                {
+                    "district": "Garhwa",
+                    "code": "JH-14",
+                    "abv": "JH",
+                    "code_num": "14"
+                },
+                {
+                    "district": "Deoghar",
+                    "code": "JH-15",
+                    "abv": "JH",
+                    "code_num": "15"
+                },
+                {
+                    "district": "Pakur",
+                    "code": "JH-16",
+                    "abv": "JH",
+                    "code_num": "16"
+                },
+                {
+                    "district": "Godda",
+                    "code": "JH-17",
+                    "abv": "JH",
+                    "code_num": "17"
+                },
+                {
+                    "district": "Sahibganj",
+                    "code": "JH-18",
+                    "abv": "JH",
+                    "code_num": "18"
+                },
+                {
+                    "district": "Latehar",
+                    "code": "JH-19",
+                    "abv": "JH",
+                    "code_num": "19"
+                },
+                {
+                    "district": "Simdega",
+                    "code": "JH-20",
+                    "abv": "JH",
+                    "code_num": "20"
+                },
+                {
+                    "district": "Jamtara",
+                    "code": "JH-21",
+                    "abv": "JH",
+                    "code_num": "21"
+                },
+                {
+                    "district": "SaraikelaKharsawan",
+                    "code": "JH-22",
+                    "abv": "JH",
+                    "code_num": "22"
+                }
+            ]
+        },
+        {
+            "Kerala": [
+                {
+                    "district": "Thiruvananthapuram City",
+                    "code": "KL-01",
+                    "abv": "KL",
+                    "code_num": "01"
+                },
+                {
+                    "district": "Kollam",
+                    "code": "KL-02",
+                    "abv": "KL",
+                    "code_num": "02"
+                },
+                {
+                    "district": "Pathanamthitta",
+                    "code": "KL-03",
+                    "abv": "KL",
+                    "code_num": "03"
+                },
+                {
+                    "district": "Alappuzha",
+                    "code": "KL-04",
+                    "abv": "KL",
+                    "code_num": "04"
+                },
+                {
+                    "district": "Kottayam",
+                    "code": "KL-05",
+                    "abv": "KL",
+                    "code_num": "05"
+                },
+                {
+                    "district": "Idukki",
+                    "code": "KL-06",
+                    "abv": "KL",
+                    "code_num": "06"
+                },
+                {
+                    "district": "Eranakulam",
+                    "code": "KL-07",
+                    "abv": "KL",
+                    "code_num": "07"
+                },
+                {
+                    "district": "Thrissur",
+                    "code": "KL-08",
+                    "abv": "KL",
+                    "code_num": "08"
+                },
+                {
+                    "district": "Palakkad",
+                    "code": "KL-09",
+                    "abv": "KL",
+                    "code_num": "09"
+                },
+                {
+                    "district": "Malappuram",
+                    "code": "KL-10",
+                    "abv": "KL",
+                    "code_num": "10"
+                },
+                {
+                    "district": "Kozhikode",
+                    "code": "KL-11",
+                    "abv": "KL",
+                    "code_num": "11"
+                },
+                {
+                    "district": "Wayanad",
+                    "code": "KL-12",
+                    "abv": "KL",
+                    "code_num": "12"
+                },
+                {
+                    "district": "Kannur",
+                    "code": "KL-13",
+                    "abv": "KL",
+                    "code_num": "13"
+                },
+                {
+                    "district": "Kasargode",
+                    "code": "KL-14",
+                    "abv": "KL",
+                    "code_num": "14"
+                },
+                {
+                    "district": "Thiruvananthapuram (Kerala State Road Transport Corporation buses)",
+                    "code": "KL-15",
+                    "abv": "KL",
+                    "code_num": "15"
+                },
+                {
+                    "district": "ThiruvananthapuramAttingal",
+                    "code": "KL-16",
+                    "abv": "KL",
+                    "code_num": "16"
+                },
+                {
+                    "district": "Muvattupuzha",
+                    "code": "KL-17",
+                    "abv": "KL",
+                    "code_num": "17"
+                },
+                {
+                    "district": "Vadakara",
+                    "code": "KL-18",
+                    "abv": "KL",
+                    "code_num": "18"
+                },
+                {
+                    "district": "ThiruvananthapuramParassala",
+                    "code": "KL-19",
+                    "abv": "KL",
+                    "code_num": "19"
+                },
+                {
+                    "district": "ThiruvananthapuramNeyyattinkara",
+                    "code": "KL-20",
+                    "abv": "KL",
+                    "code_num": "20"
+                },
+                {
+                    "district": "ThiruvananthapuramNedumangad",
+                    "code": "KL-21",
+                    "abv": "KL",
+                    "code_num": "21"
+                },
+                {
+                    "district": "Kazhakkoottam",
+                    "code": "KL-22",
+                    "abv": "KL",
+                    "code_num": "22"
+                },
+                {
+                    "district": "Karunagapally",
+                    "code": "KL-23",
+                    "abv": "KL",
+                    "code_num": "23"
+                },
+                {
+                    "district": "Kottarakara",
+                    "code": "KL-24",
+                    "abv": "KL",
+                    "code_num": "24"
+                },
+                {
+                    "district": "Punalur",
+                    "code": "KL-25",
+                    "abv": "KL",
+                    "code_num": "25"
+                },
+                {
+                    "district": "Adoor",
+                    "code": "KL-26",
+                    "abv": "KL",
+                    "code_num": "26"
+                },
+                {
+                    "district": "Thiruvalla",
+                    "code": "KL-27",
+                    "abv": "KL",
+                    "code_num": "27"
+                },
+                {
+                    "district": "Mallappally",
+                    "code": "KL-28",
+                    "abv": "KL",
+                    "code_num": "28"
+                },
+                {
+                    "district": "Kayamkulam",
+                    "code": "KL-29",
+                    "abv": "KL",
+                    "code_num": "29"
+                },
+                {
+                    "district": "Chengannur",
+                    "code": "KL-30",
+                    "abv": "KL",
+                    "code_num": "30"
+                },
+                {
+                    "district": "Mavelikara",
+                    "code": "KL-31",
+                    "abv": "KL",
+                    "code_num": "31"
+                },
+                {
+                    "district": "Cherthala",
+                    "code": "KL-32",
+                    "abv": "KL",
+                    "code_num": "32"
+                },
+                {
+                    "district": "Changanassery",
+                    "code": "KL-33",
+                    "abv": "KL",
+                    "code_num": "33"
+                },
+                {
+                    "district": "Kanjirappally",
+                    "code": "KL-34",
+                    "abv": "KL",
+                    "code_num": "34"
+                },
+                {
+                    "district": "Pala",
+                    "code": "KL-35",
+                    "abv": "KL",
+                    "code_num": "35"
+                },
+                {
+                    "district": "Vaikom",
+                    "code": "KL-36",
+                    "abv": "KL",
+                    "code_num": "36"
+                },
+                {
+                    "district": "Vandiperiyar",
+                    "code": "KL-37",
+                    "abv": "KL",
+                    "code_num": "37"
+                },
+                {
+                    "district": "Thodupuzha",
+                    "code": "KL-38",
+                    "abv": "KL",
+                    "code_num": "38"
+                },
+                {
+                    "district": "Thripunithura",
+                    "code": "KL-39",
+                    "abv": "KL",
+                    "code_num": "39"
+                },
+                {
+                    "district": "Perumbavoor",
+                    "code": "KL-40",
+                    "abv": "KL",
+                    "code_num": "40"
+                },
+                {
+                    "district": "Aluva",
+                    "code": "KL-41",
+                    "abv": "KL",
+                    "code_num": "41"
+                },
+                {
+                    "district": "North Paravur",
+                    "code": "KL-42",
+                    "abv": "KL",
+                    "code_num": "42"
+                },
+                {
+                    "district": "Mattancherry",
+                    "code": "KL-43",
+                    "abv": "KL",
+                    "code_num": "43"
+                },
+                {
+                    "district": "kothamangalam",
+                    "code": "KL-44",
+                    "abv": "KL",
+                    "code_num": "44"
+                },
+                {
+                    "district": "Irinjalakuda",
+                    "code": "KL-45",
+                    "abv": "KL",
+                    "code_num": "45"
+                },
+                {
+                    "district": "Guruvayur",
+                    "code": "KL-46",
+                    "abv": "KL",
+                    "code_num": "46"
+                },
+                {
+                    "district": "Kodungallur",
+                    "code": "KL-47",
+                    "abv": "KL",
+                    "code_num": "47"
+                },
+                {
+                    "district": "Wadakkancherry",
+                    "code": "KL-48",
+                    "abv": "KL",
+                    "code_num": "48"
+                },
+                {
+                    "district": "Alathur",
+                    "code": "KL-49",
+                    "abv": "KL",
+                    "code_num": "49"
+                },
+                {
+                    "district": "Mannarghat",
+                    "code": "KL-50",
+                    "abv": "KL",
+                    "code_num": "50"
+                },
+                {
+                    "district": "Ottappalam",
+                    "code": "KL-51",
+                    "abv": "KL",
+                    "code_num": "51"
+                },
+                {
+                    "district": "Pattambi",
+                    "code": "KL-52",
+                    "abv": "KL",
+                    "code_num": "52"
+                },
+                {
+                    "district": "Perinthalmanna",
+                    "code": "KL-53",
+                    "abv": "KL",
+                    "code_num": "53"
+                },
+                {
+                    "district": "Ponnani",
+                    "code": "KL-54",
+                    "abv": "KL",
+                    "code_num": "54"
+                },
+                {
+                    "district": "Tirur",
+                    "code": "KL-55",
+                    "abv": "KL",
+                    "code_num": "55"
+                },
+                {
+                    "district": "Koyilandi",
+                    "code": "KL-56",
+                    "abv": "KL",
+                    "code_num": "56"
+                },
+                {
+                    "district": "Koduvally",
+                    "code": "KL-57",
+                    "abv": "KL",
+                    "code_num": "57"
+                },
+                {
+                    "district": "Thalassery",
+                    "code": "KL-58",
+                    "abv": "KL",
+                    "code_num": "58"
+                },
+                {
+                    "district": "Thaliparamba",
+                    "code": "KL-59",
+                    "abv": "KL",
+                    "code_num": "59"
+                },
+                {
+                    "district": "Kanhangad",
+                    "code": "KL-60",
+                    "abv": "KL",
+                    "code_num": "60"
+                },
+                {
+                    "district": "Kunnathur",
+                    "code": "KL-61",
+                    "abv": "KL",
+                    "code_num": "61"
+                },
+                {
+                    "district": "Ranni",
+                    "code": "KL-62",
+                    "abv": "KL",
+                    "code_num": "62"
+                },
+                {
+                    "district": "Angamaly",
+                    "code": "KL-63",
+                    "abv": "KL",
+                    "code_num": "63"
+                },
+                {
+                    "district": "Chalakkudy",
+                    "code": "KL-64",
+                    "abv": "KL",
+                    "code_num": "64"
+                },
+                {
+                    "district": "Thirurangadi",
+                    "code": "KL-65",
+                    "abv": "KL",
+                    "code_num": "65"
+                }
+            ]
+        },
+        {
+            "Maharashtra": [
+                {
+                    "district": "Mumbai (Central) RTO is located in Tardeo",
+                    "code": "MH-01",
+                    "abv": "MH",
+                    "code_num": "01"
+                },
+                {
+                    "district": "Mumbai (West) RTO is located in Andheri West",
+                    "code": "MH-02",
+                    "abv": "MH",
+                    "code_num": "02"
+                },
+                {
+                    "district": "Mumbai (East) RTO is located in Wadala",
+                    "code": "MH-03",
+                    "abv": "MH",
+                    "code_num": "03"
+                },
+                {
+                    "district": "Thane",
+                    "code": "MH-04",
+                    "abv": "MH",
+                    "code_num": "04"
+                },
+                {
+                    "district": "Thane (Central Suburbs): Kalyan, Dombivli, Ulhasnagar, Ambernath and Badlapur RTO is located in Kalyan",
+                    "code": "MH-05",
+                    "abv": "MH",
+                    "code_num": "05"
+                },
+                {
+                    "district": "Raigad RTO is located in Pen (does not include Navi Mumbai, Kharghar to Panvel to Pen)",
+                    "code": "MH-06",
+                    "abv": "MH",
+                    "code_num": "06"
+                },
+                {
+                    "district": "Sindhudurg",
+                    "code": "MH-07",
+                    "abv": "MH",
+                    "code_num": "07"
+                },
+                {
+                    "district": "Ratnagiri",
+                    "code": "MH-08",
+                    "abv": "MH",
+                    "code_num": "08"
+                },
+                {
+                    "district": "Kolhapur",
+                    "code": "MH-09",
+                    "abv": "MH",
+                    "code_num": "09"
+                },
+                {
+                    "district": "Sangli",
+                    "code": "MH-10",
+                    "abv": "MH",
+                    "code_num": "10"
+                },
+                {
+                    "district": "Satara",
+                    "code": "MH-11",
+                    "abv": "MH",
+                    "code_num": "11"
+                },
+                {
+                    "district": "Pune",
+                    "code": "MH-12",
+                    "abv": "MH",
+                    "code_num": "12"
+                },
+                {
+                    "district": "Solapur",
+                    "code": "MH-13",
+                    "abv": "MH",
+                    "code_num": "13"
+                },
+                {
+                    "district": "Pune (Outskirts) RTO is located in PimpriChinchwad",
+                    "code": "MH-14",
+                    "abv": "MH",
+                    "code_num": "14"
+                },
+                {
+                    "district": "Nashik",
+                    "code": "MH-15",
+                    "abv": "MH",
+                    "code_num": "15"
+                },
+                {
+                    "district": "Ahmednagar",
+                    "code": "MH-16",
+                    "abv": "MH",
+                    "code_num": "16"
+                },
+                {
+                    "district": "Shrirampur",
+                    "code": "MH-17",
+                    "abv": "MH",
+                    "code_num": "17"
+                },
+                {
+                    "district": "Dhule",
+                    "code": "MH-18",
+                    "abv": "MH",
+                    "code_num": "18"
+                },
+                {
+                    "district": "Jalgaon",
+                    "code": "MH-19",
+                    "abv": "MH",
+                    "code_num": "19"
+                },
+                {
+                    "district": "Aurangabad",
+                    "code": "MH-20",
+                    "abv": "MH",
+                    "code_num": "20"
+                },
+                {
+                    "district": "Jalna",
+                    "code": "MH-21",
+                    "abv": "MH",
+                    "code_num": "21"
+                },
+                {
+                    "district": "Parbhani",
+                    "code": "MH-22",
+                    "abv": "MH",
+                    "code_num": "22"
+                },
+                {
+                    "district": "Beed",
+                    "code": "MH-23",
+                    "abv": "MH",
+                    "code_num": "23"
+                },
+                {
+                    "district": "Latur",
+                    "code": "MH-24",
+                    "abv": "MH",
+                    "code_num": "24"
+                },
+                {
+                    "district": "Osmanabad",
+                    "code": "MH-25",
+                    "abv": "MH",
+                    "code_num": "25"
+                },
+                {
+                    "district": "Nanded",
+                    "code": "MH-26",
+                    "abv": "MH",
+                    "code_num": "26"
+                },
+                {
+                    "district": "Amravati",
+                    "code": "MH-27",
+                    "abv": "MH",
+                    "code_num": "27"
+                },
+                {
+                    "district": "Buldana",
+                    "code": "MH-28",
+                    "abv": "MH",
+                    "code_num": "28"
+                },
+                {
+                    "district": "Yavatmal RTO is located on Nagpur Road",
+                    "code": "MH-29",
+                    "abv": "MH",
+                    "code_num": "29"
+                },
+                {
+                    "district": "Akola",
+                    "code": "MH-30",
+                    "abv": "MH",
+                    "code_num": "30"
+                },
+                {
+                    "district": "Nagpur",
+                    "code": "MH-31",
+                    "abv": "MH",
+                    "code_num": "31"
+                },
+                {
+                    "district": "Wardha",
+                    "code": "MH-32",
+                    "abv": "MH",
+                    "code_num": "32"
+                },
+                {
+                    "district": "Gadchiroli",
+                    "code": "MH-33",
+                    "abv": "MH",
+                    "code_num": "33"
+                },
+                {
+                    "district": "Chandrapur",
+                    "code": "MH-34",
+                    "abv": "MH",
+                    "code_num": "34"
+                },
+                {
+                    "district": "Gondia",
+                    "code": "MH-35",
+                    "abv": "MH",
+                    "code_num": "35"
+                },
+                {
+                    "district": "Bhandara",
+                    "code": "MH-36",
+                    "abv": "MH",
+                    "code_num": "36"
+                },
+                {
+                    "district": "Washim",
+                    "code": "MH-37",
+                    "abv": "MH",
+                    "code_num": "37"
+                },
+                {
+                    "district": "Hingoli",
+                    "code": "MH-38",
+                    "abv": "MH",
+                    "code_num": "38"
+                },
+                {
+                    "district": "Nandurbar",
+                    "code": "MH-39",
+                    "abv": "MH",
+                    "code_num": "39"
+                },
+                {
+                    "district": "Wadi, Nagpur (rural)",
+                    "code": "MH-40",
+                    "abv": "MH",
+                    "code_num": "40"
+                },
+                {
+                    "district": "Malegaon",
+                    "code": "MH-41",
+                    "abv": "MH",
+                    "code_num": "41"
+                },
+                {
+                    "district": "Baramati",
+                    "code": "MH-42",
+                    "abv": "MH",
+                    "code_num": "42"
+                },
+                {
+                    "district": "Navi Mumbai RTO is located in Vashi (Sanpada)",
+                    "code": "MH-43",
+                    "abv": "MH",
+                    "code_num": "43"
+                },
+                {
+                    "district": "Ambejogai",
+                    "code": "MH-44",
+                    "abv": "MH",
+                    "code_num": "44"
+                },
+                {
+                    "district": "Akluj",
+                    "code": "MH-45",
+                    "abv": "MH",
+                    "code_num": "45"
+                },
+                {
+                    "district": "Panvel",
+                    "code": "MH-46",
+                    "abv": "MH",
+                    "code_num": "46"
+                },
+                {
+                    "district": "Borivali, Mumbai (Western Suburbs from Goregaon to Dahisar)[2]",
+                    "code": "MH-47",
+                    "abv": "MH",
+                    "code_num": "47"
+                },
+                {
+                    "district": "Vasai Thane (Western Suburbs from Vasai) RTO is located in Virar",
+                    "code": "MH-48",
+                    "abv": "MH",
+                    "code_num": "48"
+                },
+                {
+                    "district": "Nagpur (East) RTO is located on Bhandara Road",
+                    "code": "MH-49",
+                    "abv": "MH",
+                    "code_num": "49"
+                },
+                {
+                    "district": "Karad (Satara Rural) RTO is located in Karad",
+                    "code": "MH-50",
+                    "abv": "MH",
+                    "code_num": "50"
+                }
+            ]
+        },
+        {
+            "Meghalaya": [
+                {
+                    "district": "Shillong (government vehicles)",
+                    "code": "ML-01",
+                    "abv": "ML",
+                    "code_num": "01"
+                },
+                {
+                    "district": "Shillong (police vehicles)",
+                    "code": "ML-02",
+                    "abv": "ML",
+                    "code_num": "02"
+                },
+                {
+                    "district": "Shillong (vehicles owned by transport corporations)",
+                    "code": "ML-03",
+                    "abv": "ML",
+                    "code_num": "03"
+                },
+                {
+                    "district": "Jaintia Hills",
+                    "code": "ML-04",
+                    "abv": "ML",
+                    "code_num": "04"
+                },
+                {
+                    "district": "East Khasi Hills",
+                    "code": "ML-05",
+                    "abv": "ML",
+                    "code_num": "05"
+                },
+                {
+                    "district": "West Khasi Hills",
+                    "code": "ML-06",
+                    "abv": "ML",
+                    "code_num": "06"
+                },
+                {
+                    "district": "East Garo Hills",
+                    "code": "ML-07",
+                    "abv": "ML",
+                    "code_num": "07"
+                },
+                {
+                    "district": "West Garo Hills",
+                    "code": "ML-08",
+                    "abv": "ML",
+                    "code_num": "08"
+                },
+                {
+                    "district": "South Garo Hills",
+                    "code": "ML-09",
+                    "abv": "ML",
+                    "code_num": "09"
+                },
+                {
+                    "district": "RiBhoi",
+                    "code": "ML-10",
+                    "abv": "ML",
+                    "code_num": "10"
+                }
+            ]
+        },
+        {
+            "Nagaland": [
+                {
+                    "district": "Kohima",
+                    "code": "NL-01",
+                    "abv": "NL",
+                    "code_num": "01"
+                },
+                {
+                    "district": "Mokokchung",
+                    "code": "NL-02",
+                    "abv": "NL",
+                    "code_num": "02"
+                },
+                {
+                    "district": "Tuensang",
+                    "code": "NL-03",
+                    "abv": "NL",
+                    "code_num": "03"
+                },
+                {
+                    "district": "Mon",
+                    "code": "NL-04",
+                    "abv": "NL",
+                    "code_num": "04"
+                },
+                {
+                    "district": "Wokha",
+                    "code": "NL-05",
+                    "abv": "NL",
+                    "code_num": "05"
+                },
+                {
+                    "district": "Zunheboto",
+                    "code": "NL-06",
+                    "abv": "NL",
+                    "code_num": "06"
+                },
+                {
+                    "district": "Dimapur",
+                    "code": "NL-07",
+                    "abv": "NL",
+                    "code_num": "07"
+                },
+                {
+                    "district": "Phek",
+                    "code": "NL-08",
+                    "abv": "NL",
+                    "code_num": "08"
+                }
+            ]
+        },
+        {
+            "Punjab": [
+                {
+                    "district": "Taxis",
+                    "code": "PB-01",
+                    "abv": "PB",
+                    "code_num": "01"
+                },
+                {
+                    "district": "Amritsar",
+                    "code": "PB-02",
+                    "abv": "PB",
+                    "code_num": "02"
+                },
+                {
+                    "district": "Bathinda",
+                    "code": "PB-03",
+                    "abv": "PB",
+                    "code_num": "03"
+                },
+                {
+                    "district": "Faridkot",
+                    "code": "PB-04",
+                    "abv": "PB",
+                    "code_num": "04"
+                },
+                {
+                    "district": "Ferozepur",
+                    "code": "PB-05",
+                    "abv": "PB",
+                    "code_num": "05"
+                },
+                {
+                    "district": "Gurdaspur",
+                    "code": "PB-06",
+                    "abv": "PB",
+                    "code_num": "06"
+                },
+                {
+                    "district": "Hoshiarpur",
+                    "code": "PB-07",
+                    "abv": "PB",
+                    "code_num": "07"
+                },
+                {
+                    "district": "Jalandhar",
+                    "code": "PB-08",
+                    "abv": "PB",
+                    "code_num": "08"
+                },
+                {
+                    "district": "Kapurthala",
+                    "code": "PB-09",
+                    "abv": "PB",
+                    "code_num": "09"
+                },
+                {
+                    "district": "Ludhiana",
+                    "code": "PB-10",
+                    "abv": "PB",
+                    "code_num": "10"
+                },
+                {
+                    "district": "Patiala",
+                    "code": "PB-11",
+                    "abv": "PB",
+                    "code_num": "11"
+                },
+                {
+                    "district": "Ropar",
+                    "code": "PB-12",
+                    "abv": "PB",
+                    "code_num": "12"
+                },
+                {
+                    "district": "Sangrur",
+                    "code": "PB-13",
+                    "abv": "PB",
+                    "code_num": "13"
+                },
+                {
+                    "district": "Ajnala",
+                    "code": "PB-14",
+                    "abv": "PB",
+                    "code_num": "14"
+                },
+                {
+                    "district": "Abohar",
+                    "code": "PB-15",
+                    "abv": "PB",
+                    "code_num": "15"
+                },
+                {
+                    "district": "Anandpur Sahib",
+                    "code": "PB-16",
+                    "abv": "PB",
+                    "code_num": "16"
+                },
+                {
+                    "district": "Baba Bakala",
+                    "code": "PB-17",
+                    "abv": "PB",
+                    "code_num": "17"
+                },
+                {
+                    "district": "Batala",
+                    "code": "PB-18",
+                    "abv": "PB",
+                    "code_num": "18"
+                },
+                {
+                    "district": "Barnala",
+                    "code": "PB-19",
+                    "abv": "PB",
+                    "code_num": "19"
+                },
+                {
+                    "district": "Balachaur",
+                    "code": "PB-20",
+                    "abv": "PB",
+                    "code_num": "20"
+                },
+                {
+                    "district": "Dasua",
+                    "code": "PB-21",
+                    "abv": "PB",
+                    "code_num": "21"
+                },
+                {
+                    "district": "Fazilka",
+                    "code": "PB-22",
+                    "abv": "PB",
+                    "code_num": "22"
+                },
+                {
+                    "district": "Fatehgarh Sahib",
+                    "code": "PB-23",
+                    "abv": "PB",
+                    "code_num": "23"
+                },
+                {
+                    "district": "Garhshankar",
+                    "code": "PB-24",
+                    "abv": "PB",
+                    "code_num": "24"
+                },
+                {
+                    "district": "Jagraon",
+                    "code": "PB-25",
+                    "abv": "PB",
+                    "code_num": "25"
+                },
+                {
+                    "district": "Khanna",
+                    "code": "PB-26",
+                    "abv": "PB",
+                    "code_num": "26"
+                },
+                {
+                    "district": "Kharar",
+                    "code": "PB-27",
+                    "abv": "PB",
+                    "code_num": "27"
+                },
+                {
+                    "district": "Malerkotla",
+                    "code": "PB-28",
+                    "abv": "PB",
+                    "code_num": "28"
+                },
+                {
+                    "district": "Moga",
+                    "code": "PB-29",
+                    "abv": "PB",
+                    "code_num": "29"
+                },
+                {
+                    "district": "Muktsar",
+                    "code": "PB-30",
+                    "abv": "PB",
+                    "code_num": "30"
+                },
+                {
+                    "district": "Mansa",
+                    "code": "PB-31",
+                    "abv": "PB",
+                    "code_num": "31"
+                },
+                {
+                    "district": "Nawanshahr",
+                    "code": "PB-32",
+                    "abv": "PB",
+                    "code_num": "32"
+                },
+                {
+                    "district": "Nakodar",
+                    "code": "PB-33",
+                    "abv": "PB",
+                    "code_num": "33"
+                },
+                {
+                    "district": "Nabha",
+                    "code": "PB-34",
+                    "abv": "PB",
+                    "code_num": "34"
+                },
+                {
+                    "district": "Pathankot",
+                    "code": "PB-35",
+                    "abv": "PB",
+                    "code_num": "35"
+                },
+                {
+                    "district": "Phagwara",
+                    "code": "PB-36",
+                    "abv": "PB",
+                    "code_num": "36"
+                },
+                {
+                    "district": "Phillaur",
+                    "code": "PB-37",
+                    "abv": "PB",
+                    "code_num": "37"
+                },
+                {
+                    "district": "Patti",
+                    "code": "PB-38",
+                    "abv": "PB",
+                    "code_num": "38"
+                },
+                {
+                    "district": "Rajpura",
+                    "code": "PB-39",
+                    "abv": "PB",
+                    "code_num": "39"
+                },
+                {
+                    "district": "Rampura Phul",
+                    "code": "PB-40",
+                    "abv": "PB",
+                    "code_num": "40"
+                },
+                {
+                    "district": "Sultanpur Lodhi",
+                    "code": "PB-41",
+                    "abv": "PB",
+                    "code_num": "41"
+                },
+                {
+                    "district": "Samana",
+                    "code": "PB-42",
+                    "abv": "PB",
+                    "code_num": "42"
+                },
+                {
+                    "district": "Samrala",
+                    "code": "PB-43",
+                    "abv": "PB",
+                    "code_num": "43"
+                },
+                {
+                    "district": "Sunam",
+                    "code": "PB-44",
+                    "abv": "PB",
+                    "code_num": "44"
+                },
+                {
+                    "district": "Talwandi Sabo",
+                    "code": "PB-45",
+                    "abv": "PB",
+                    "code_num": "45"
+                },
+                {
+                    "district": "Tarn Taran",
+                    "code": "PB-46",
+                    "abv": "PB",
+                    "code_num": "46"
+                },
+                {
+                    "district": "Zira",
+                    "code": "PB-47",
+                    "abv": "PB",
+                    "code_num": "47"
+                },
+                {
+                    "district": "Amloh",
+                    "code": "PB-48",
+                    "abv": "PB",
+                    "code_num": "48"
+                },
+                {
+                    "district": "Khamano",
+                    "code": "PB-49",
+                    "abv": "PB",
+                    "code_num": "49"
+                },
+                {
+                    "district": "Budhlada",
+                    "code": "PB-50",
+                    "abv": "PB",
+                    "code_num": "50"
+                },
+                {
+                    "district": "Jhunir, Sardulgarh",
+                    "code": "PB-51",
+                    "abv": "PB",
+                    "code_num": "51"
+                },
+                {
+                    "district": "Bassi Pathana",
+                    "code": "PB-52",
+                    "abv": "PB",
+                    "code_num": "52"
+                },
+                {
+                    "district": "Malout",
+                    "code": "PB-53",
+                    "abv": "PB",
+                    "code_num": "53"
+                },
+                {
+                    "district": "Mukerian",
+                    "code": "PB-54",
+                    "abv": "PB",
+                    "code_num": "54"
+                },
+                {
+                    "district": "Payal",
+                    "code": "PB-55",
+                    "abv": "PB",
+                    "code_num": "55"
+                },
+                {
+                    "district": "Raikot",
+                    "code": "PB-56",
+                    "abv": "PB",
+                    "code_num": "56"
+                },
+                {
+                    "district": "Bhulath",
+                    "code": "PB-57",
+                    "abv": "PB",
+                    "code_num": "57"
+                },
+                {
+                    "district": "Dera Baba Nanak",
+                    "code": "PB-58",
+                    "abv": "PB",
+                    "code_num": "58"
+                },
+                {
+                    "district": "Dhuri",
+                    "code": "PB-59",
+                    "abv": "PB",
+                    "code_num": "59"
+                },
+                {
+                    "district": "Gidderbaha",
+                    "code": "PB-60",
+                    "abv": "PB",
+                    "code_num": "60"
+                },
+                {
+                    "district": "Jalalabad",
+                    "code": "PB-61",
+                    "abv": "PB",
+                    "code_num": "61"
+                },
+                {
+                    "district": "Jaitu",
+                    "code": "PB-62",
+                    "abv": "PB",
+                    "code_num": "62"
+                },
+                {
+                    "district": "Khadoor Sahib",
+                    "code": "PB-63",
+                    "abv": "PB",
+                    "code_num": "63"
+                },
+                {
+                    "district": "Moonak",
+                    "code": "PB-64",
+                    "abv": "PB",
+                    "code_num": "64"
+                },
+                {
+                    "district": "Mohali",
+                    "code": "PB-65",
+                    "abv": "PB",
+                    "code_num": "65"
+                },
+                {
+                    "district": "Nihal Singh Wala",
+                    "code": "PB-66",
+                    "abv": "PB",
+                    "code_num": "66"
+                },
+                {
+                    "district": "Shahkot",
+                    "code": "PB-67",
+                    "abv": "PB",
+                    "code_num": "67"
+                },
+                {
+                    "district": "Dhar",
+                    "code": "PB-68",
+                    "abv": "PB",
+                    "code_num": "68"
+                },
+                {
+                    "district": "Bagha Purana",
+                    "code": "PB-69",
+                    "abv": "PB",
+                    "code_num": "69"
+                },
+                {
+                    "district": "Dera Bassi",
+                    "code": "PB-70",
+                    "abv": "PB",
+                    "code_num": "70"
+                },
+                {
+                    "district": "Chamkaur Sahib",
+                    "code": "PB-71",
+                    "abv": "PB",
+                    "code_num": "71"
+                },
+                {
+                    "district": "Patran",
+                    "code": "PB-72",
+                    "abv": "PB",
+                    "code_num": "72"
+                },
+                {
+                    "district": "Tappa Mandi",
+                    "code": "PB-73",
+                    "abv": "PB",
+                    "code_num": "73"
+                },
+                {
+                    "district": "Nangal",
+                    "code": "PB-74",
+                    "abv": "PB",
+                    "code_num": "74"
+                },
+                {
+                    "district": "Lehra",
+                    "code": "PB-75",
+                    "abv": "PB",
+                    "code_num": "75"
+                }
+            ]
+        },
+        {
+            "Sikkim": [
+                {
+                    "district": "Gangtok, East Sikkim",
+                    "code": "SK-01",
+                    "abv": "SK",
+                    "code_num": "01"
+                },
+                {
+                    "district": "Gyalshing, West Sikkim",
+                    "code": "SK-02",
+                    "abv": "SK",
+                    "code_num": "02"
+                },
+                {
+                    "district": "Mangan, North Sikkim",
+                    "code": "SK-03",
+                    "abv": "SK",
+                    "code_num": "03"
+                },
+                {
+                    "district": "Jorethang, South Sikkim",
+                    "code": "SK-04",
+                    "abv": "SK",
+                    "code_num": "04"
+                }
+            ]
+        },
+        {
+            "Tripura": []
+        },
+        {
+            "Uttarakhanad": [
+                {
+                    "district": "Almora",
+                    "code": "UK-01",
+                    "abv": "UK",
+                    "code_num": "01"
+                },
+                {
+                    "district": "Bageshwar",
+                    "code": "UK-02",
+                    "abv": "UK",
+                    "code_num": "02"
+                },
+                {
+                    "district": "Champawat",
+                    "code": "UK-03",
+                    "abv": "UK",
+                    "code_num": "03"
+                },
+                {
+                    "district": "Nanital",
+                    "code": "UK-04",
+                    "abv": "UK",
+                    "code_num": "04"
+                },
+                {
+                    "district": "Pithoragarh",
+                    "code": "UK-05",
+                    "abv": "UK",
+                    "code_num": "05"
+                },
+                {
+                    "district": "Udham Singh Nagar",
+                    "code": "UK-06",
+                    "abv": "UK",
+                    "code_num": "06"
+                },
+                {
+                    "district": "Dehra Dun (UK07TC for taxis)",
+                    "code": "UA07",
+                    "abv": "UA07",
+                    "code_num": null
+                },
+                {
+                    "district": "Haridwar",
+                    "code": "UK-08",
+                    "abv": "UK",
+                    "code_num": "08"
+                },
+                {
+                    "district": "Tehri",
+                    "code": "UK-09",
+                    "abv": "UK",
+                    "code_num": "09"
+                },
+                {
+                    "district": "Uttarkashi",
+                    "code": "UK-10",
+                    "abv": "UK",
+                    "code_num": "10"
+                },
+                {
+                    "district": "Chamoli",
+                    "code": "UK-11",
+                    "abv": "UK",
+                    "code_num": "11"
+                },
+                {
+                    "district": "Pauri",
+                    "code": "UK-12",
+                    "abv": "UK",
+                    "code_num": "12"
+                },
+                {
+                    "district": "Rudraprayag",
+                    "code": "UK-13",
+                    "abv": "UK",
+                    "code_num": "13"
+                }
+            ]
+        },
+        {
+            "Telangana": []
+        },
+        {
+            "Arunachal Pradesh": []
+        },
+        {
+            "Bihar": []
+        },
+        {
+            "Goa": [
+                {
+                    "district": "Panaji",
+                    "code": "GA-01",
+                    "abv": "GA",
+                    "code_num": "01"
+                },
+                {
+                    "district": "Margao",
+                    "code": "GA-02",
+                    "abv": "GA",
+                    "code_num": "02"
+                },
+                {
+                    "district": "Mapusa",
+                    "code": "GA-03",
+                    "abv": "GA",
+                    "code_num": "03"
+                },
+                {
+                    "district": "Bicholim",
+                    "code": "GA-04",
+                    "abv": "GA",
+                    "code_num": "04"
+                },
+                {
+                    "district": "Ponda",
+                    "code": "GA-05",
+                    "abv": "GA",
+                    "code_num": "05"
+                },
+                {
+                    "district": "Vasco da Gama",
+                    "code": "GA-06",
+                    "abv": "GA",
+                    "code_num": "06"
+                },
+                {
+                    "district": "Panaji",
+                    "code": "GA-07",
+                    "abv": "GA",
+                    "code_num": "07"
+                },
+                {
+                    "district": "Margao",
+                    "code": "GA-08",
+                    "abv": "GA",
+                    "code_num": "08"
+                },
+                {
+                    "district": "Quepem",
+                    "code": "GA-09",
+                    "abv": "GA",
+                    "code_num": "09"
+                },
+                {
+                    "district": "Canacona",
+                    "code": "GA-10",
+                    "abv": "GA",
+                    "code_num": "10"
+                },
+                {
+                    "district": "Pernem",
+                    "code": "GA-11",
+                    "abv": "GA",
+                    "code_num": "11"
+                }
+            ]
+        },
+        {
+            "Haryana": [
+                {
+                    "district": "Ambala (HR 01 GA for trucks; HR 01 PA, PB, PC so on for tourist buses; see also HR37)",
+                    "code": "HR-01",
+                    "abv": "HR",
+                    "code_num": "01"
+                },
+                {
+                    "district": "Yamuna Nagar",
+                    "code": "HR-02",
+                    "abv": "HR",
+                    "code_num": "02"
+                },
+                {
+                    "district": "Panchkula",
+                    "code": "HR-03",
+                    "abv": "HR",
+                    "code_num": "03"
+                },
+                {
+                    "district": "Naraingarh",
+                    "code": "HR-04",
+                    "abv": "HR",
+                    "code_num": "04"
+                },
+                {
+                    "district": "Karnal",
+                    "code": "HR-05",
+                    "abv": "HR",
+                    "code_num": "05"
+                },
+                {
+                    "district": "Panipat",
+                    "code": "HR-06",
+                    "abv": "HR",
+                    "code_num": "06"
+                },
+                {
+                    "district": "Kuru",
+                    "code": "HR-07",
+                    "abv": "HR",
+                    "code_num": "07"
+                },
+                {
+                    "district": "Kaithal",
+                    "code": "HR-08",
+                    "abv": "HR",
+                    "code_num": "08"
+                },
+                {
+                    "district": "Guhla",
+                    "code": "HR-09",
+                    "abv": "HR",
+                    "code_num": "09"
+                },
+                {
+                    "district": "Sonepat",
+                    "code": "HR-10",
+                    "abv": "HR",
+                    "code_num": "10"
+                },
+                {
+                    "district": "Gohana",
+                    "code": "HR-11",
+                    "abv": "HR",
+                    "code_num": "11"
+                },
+                {
+                    "district": "Rohtak",
+                    "code": "HR-12",
+                    "abv": "HR",
+                    "code_num": "12"
+                },
+                {
+                    "district": "Bahadurgarh",
+                    "code": "HR-13",
+                    "abv": "HR",
+                    "code_num": "13"
+                },
+                {
+                    "district": "Jhajjar",
+                    "code": "HR-14",
+                    "abv": "HR",
+                    "code_num": "14"
+                },
+                {
+                    "district": "Meham",
+                    "code": "HR-15",
+                    "abv": "HR",
+                    "code_num": "15"
+                },
+                {
+                    "district": "Bhiwani",
+                    "code": "HR-16",
+                    "abv": "HR",
+                    "code_num": "16"
+                },
+                {
+                    "district": "Siwani",
+                    "code": "HR-17",
+                    "abv": "HR",
+                    "code_num": "17"
+                },
+                {
+                    "district": "Loharu",
+                    "code": "HR-18",
+                    "abv": "HR",
+                    "code_num": "18"
+                },
+                {
+                    "district": "Charkhi Dadri",
+                    "code": "HR-19",
+                    "abv": "HR",
+                    "code_num": "19"
+                },
+                {
+                    "district": "Hisar",
+                    "code": "HR-20",
+                    "abv": "HR",
+                    "code_num": "20"
+                },
+                {
+                    "district": "Hansi",
+                    "code": "HR-21",
+                    "abv": "HR",
+                    "code_num": "21"
+                },
+                {
+                    "district": "Fatehabad",
+                    "code": "HR-22",
+                    "abv": "HR",
+                    "code_num": "22"
+                },
+                {
+                    "district": "Tohana",
+                    "code": "HR-23",
+                    "abv": "HR",
+                    "code_num": "23"
+                },
+                {
+                    "district": "Sirsa",
+                    "code": "HR-24",
+                    "abv": "HR",
+                    "code_num": "24"
+                },
+                {
+                    "district": "Dabwali",
+                    "code": "HR-25",
+                    "abv": "HR",
+                    "code_num": "25"
+                },
+                {
+                    "district": "Gurgaon",
+                    "code": "HR-26",
+                    "abv": "HR",
+                    "code_num": "26"
+                },
+                {
+                    "district": "Nuh",
+                    "code": "HR-27",
+                    "abv": "HR",
+                    "code_num": "27"
+                },
+                {
+                    "district": "Ferozepur Jhirka",
+                    "code": "HR-28",
+                    "abv": "HR",
+                    "code_num": "28"
+                },
+                {
+                    "district": "Ballabgarh",
+                    "code": "HR-29",
+                    "abv": "HR",
+                    "code_num": "29"
+                },
+                {
+                    "district": "Palwal",
+                    "code": "HR-30",
+                    "abv": "HR",
+                    "code_num": "30"
+                },
+                {
+                    "district": "Jind",
+                    "code": "HR-31",
+                    "abv": "HR",
+                    "code_num": "31"
+                },
+                {
+                    "district": "Narwana",
+                    "code": "HR-32",
+                    "abv": "HR",
+                    "code_num": "32"
+                },
+                {
+                    "district": "Safidon",
+                    "code": "HR-33",
+                    "abv": "HR",
+                    "code_num": "33"
+                },
+                {
+                    "district": "Mohindergarh",
+                    "code": "HR-34",
+                    "abv": "HR",
+                    "code_num": "34"
+                },
+                {
+                    "district": "Narnaul",
+                    "code": "HR-35",
+                    "abv": "HR",
+                    "code_num": "35"
+                },
+                {
+                    "district": "Rewari",
+                    "code": "HR-36",
+                    "abv": "HR",
+                    "code_num": "36"
+                },
+                {
+                    "district": "Ambala (commercial vehicles only)",
+                    "code": "HR-37",
+                    "abv": "HR",
+                    "code_num": "37"
+                },
+                {
+                    "district": "Faridabad (commercial vehicles only)",
+                    "code": "HR-38",
+                    "abv": "HR",
+                    "code_num": "38"
+                },
+                {
+                    "district": "Hisar (commercial vehicles only)",
+                    "code": "HR-39",
+                    "abv": "HR",
+                    "code_num": "39"
+                },
+                {
+                    "district": "Assandh",
+                    "code": "HR-40",
+                    "abv": "HR",
+                    "code_num": "40"
+                },
+                {
+                    "district": "Pehowa",
+                    "code": "HR-41",
+                    "abv": "HR",
+                    "code_num": "41"
+                },
+                {
+                    "district": "Ganaur",
+                    "code": "HR-42",
+                    "abv": "HR",
+                    "code_num": "42"
+                },
+                {
+                    "district": "Kosli",
+                    "code": "HR-43",
+                    "abv": "HR",
+                    "code_num": "43"
+                },
+                {
+                    "district": "Ellenabad",
+                    "code": "HR-44",
+                    "abv": "HR",
+                    "code_num": "44"
+                },
+                {
+                    "district": "Karnal (commercial vehicles only)",
+                    "code": "HR-45",
+                    "abv": "HR",
+                    "code_num": "45"
+                },
+                {
+                    "district": "Rohtak (commercial vehicles only)",
+                    "code": "HR-46",
+                    "abv": "HR",
+                    "code_num": "46"
+                },
+                {
+                    "district": "Rewari (commercial vehicles only)",
+                    "code": "HR-47",
+                    "abv": "HR",
+                    "code_num": "47"
+                },
+                {
+                    "district": "Tosham",
+                    "code": "HR-48",
+                    "abv": "HR",
+                    "code_num": "48"
+                },
+                {
+                    "district": "Kalka",
+                    "code": "HR-49",
+                    "abv": "HR",
+                    "code_num": "49"
+                },
+                {
+                    "district": "Hodal",
+                    "code": "HR-50",
+                    "abv": "HR",
+                    "code_num": "50"
+                },
+                {
+                    "district": "Faridabad",
+                    "code": "HR-51",
+                    "abv": "HR",
+                    "code_num": "51"
+                },
+                {
+                    "district": "Hatin",
+                    "code": "HR-52",
+                    "abv": "HR",
+                    "code_num": "52"
+                },
+                {
+                    "district": "Adampur",
+                    "code": "HR-53",
+                    "abv": "HR",
+                    "code_num": "53"
+                },
+                {
+                    "district": "Ambala Barara",
+                    "code": "HR-54",
+                    "abv": "HR",
+                    "code_num": "54"
+                },
+                {
+                    "district": "Gurgaon (commercial vehicles only)",
+                    "code": "HR-55",
+                    "abv": "HR",
+                    "code_num": "55"
+                },
+                {
+                    "district": "Jind (commercial vehicles only)",
+                    "code": "HR-56",
+                    "abv": "HR",
+                    "code_num": "56"
+                },
+                {
+                    "district": "Sirsa (commercial vehicles only)",
+                    "code": "HR-57",
+                    "abv": "HR",
+                    "code_num": "57"
+                },
+                {
+                    "district": "Jagadhari, Yamuna Nagar (commercial vehicles only)",
+                    "code": "HR-58",
+                    "abv": "HR",
+                    "code_num": "58"
+                },
+                {
+                    "district": "Ratia",
+                    "code": "HR-59",
+                    "abv": "HR",
+                    "code_num": "59"
+                },
+                {
+                    "district": "Samalkha",
+                    "code": "HR-60",
+                    "abv": "HR",
+                    "code_num": "60"
+                },
+                {
+                    "district": "Bhiwani (commercial vehicles only)",
+                    "code": "HR-61",
+                    "abv": "HR",
+                    "code_num": "61"
+                },
+                {
+                    "district": "Fatehabad (commercial vehicles only)",
+                    "code": "HR-62",
+                    "abv": "HR",
+                    "code_num": "62"
+                },
+                {
+                    "district": "Jhajjar (commercial vehicles only)",
+                    "code": "HR-63",
+                    "abv": "HR",
+                    "code_num": "63"
+                },
+                {
+                    "district": "Kaithal (commercial vehicles only)",
+                    "code": "HR-64",
+                    "abv": "HR",
+                    "code_num": "64"
+                },
+                {
+                    "district": "Kurukshetra (commercial vehicles only)",
+                    "code": "HR-65",
+                    "abv": "HR",
+                    "code_num": "65"
+                },
+                {
+                    "district": "Narnaul (commercial vehicles only)",
+                    "code": "HR-66",
+                    "abv": "HR",
+                    "code_num": "66"
+                },
+                {
+                    "district": "Panipat (commercial vehicles only)",
+                    "code": "HR-67",
+                    "abv": "HR",
+                    "code_num": "67"
+                },
+                {
+                    "district": "Panchkula (commercial vehicles only)",
+                    "code": "HR-68",
+                    "abv": "HR",
+                    "code_num": "68"
+                },
+                {
+                    "district": "Sonipat (commercial vehicles only)",
+                    "code": "HR-69",
+                    "abv": "HR",
+                    "code_num": "69"
+                },
+                {
+                    "district": "This series belongs to the Transport Commissioner in Chandigarh",
+                    "code": "HR-70",
+                    "abv": "HR",
+                    "code_num": "70"
+                },
+                {
+                    "district": "Bilaspur",
+                    "code": "HR-71",
+                    "abv": "HR",
+                    "code_num": "71"
+                },
+                {
+                    "district": "Gurgaon (South)",
+                    "code": "HR-72",
+                    "abv": "HR",
+                    "code_num": "72"
+                },
+                {
+                    "district": "Palwal",
+                    "code": "HR-73",
+                    "abv": "HR",
+                    "code_num": "73"
+                },
+                {
+                    "district": "Mewat (Nuh)",
+                    "code": "HR-74",
+                    "abv": "HR",
+                    "code_num": "74"
+                },
+                {
+                    "district": "Indri",
+                    "code": "HR-75",
+                    "abv": "HR",
+                    "code_num": "75"
+                },
+                {
+                    "district": "Pataudi",
+                    "code": "HR-76",
+                    "abv": "HR",
+                    "code_num": "76"
+                },
+                {
+                    "district": "Beri",
+                    "code": "HR-77",
+                    "abv": "HR",
+                    "code_num": "77"
+                },
+                {
+                    "district": "Sahabad",
+                    "code": "HR-78",
+                    "abv": "HR",
+                    "code_num": "78"
+                },
+                {
+                    "district": "Kharkhoda",
+                    "code": "HR-79",
+                    "abv": "HR",
+                    "code_num": "79"
+                },
+                {
+                    "district": "Barwala",
+                    "code": "HR-80",
+                    "abv": "HR",
+                    "code_num": "80"
+                },
+                {
+                    "district": "Sonipat",
+                    "code": "HR-86",
+                    "abv": "HR",
+                    "code_num": "86"
+                },
+                {
+                    "district": "Kundli",
+                    "code": "HR-88",
+                    "abv": "HR",
+                    "code_num": "88"
+                },
+                {
+                    "district": "(temporary numbers)",
+                    "code": "HR-99",
+                    "abv": "HR",
+                    "code_num": "99"
+                }
+            ]
+        },
+        {
+            "Jammu And Kashmir": [
+                {
+                    "district": "Srinagar",
+                    "code": "JK-01",
+                    "abv": "JK",
+                    "code_num": "01"
+                },
+                {
+                    "district": "Jammu",
+                    "code": "JK-02",
+                    "abv": "JK",
+                    "code_num": "02"
+                },
+                {
+                    "district": "Anantnag",
+                    "code": "JK-03",
+                    "abv": "JK",
+                    "code_num": "03"
+                },
+                {
+                    "district": "Budgam",
+                    "code": "JK-04",
+                    "abv": "JK",
+                    "code_num": "04"
+                },
+                {
+                    "district": "Baramulla",
+                    "code": "JK-05",
+                    "abv": "JK",
+                    "code_num": "05"
+                },
+                {
+                    "district": "Doda",
+                    "code": "JK-06",
+                    "abv": "JK",
+                    "code_num": "06"
+                },
+                {
+                    "district": "Kargil",
+                    "code": "JK-07",
+                    "abv": "JK",
+                    "code_num": "07"
+                },
+                {
+                    "district": "Kathua",
+                    "code": "JK-08",
+                    "abv": "JK",
+                    "code_num": "08"
+                },
+                {
+                    "district": "Kupwara",
+                    "code": "JK-09",
+                    "abv": "JK",
+                    "code_num": "09"
+                },
+                {
+                    "district": "Leh",
+                    "code": "JK-10",
+                    "abv": "JK",
+                    "code_num": "10"
+                },
+                {
+                    "district": "Rajouri",
+                    "code": "JK-11",
+                    "abv": "JK",
+                    "code_num": "11"
+                },
+                {
+                    "district": "Poonch",
+                    "code": "JK-12",
+                    "abv": "JK",
+                    "code_num": "12"
+                },
+                {
+                    "district": "Pulwama",
+                    "code": "JK-13",
+                    "abv": "JK",
+                    "code_num": "13"
+                },
+                {
+                    "district": "Udhampur",
+                    "code": "JK-14",
+                    "abv": "JK",
+                    "code_num": "14"
+                },
+                {
+                    "district": "Bandipora",
+                    "code": "JK-15",
+                    "abv": "JK",
+                    "code_num": "15"
+                },
+                {
+                    "district": "Ganderbal",
+                    "code": "JK-16",
+                    "abv": "JK",
+                    "code_num": "16"
+                },
+                {
+                    "district": "Kishtwar",
+                    "code": "JK-17",
+                    "abv": "JK",
+                    "code_num": "17"
+                },
+                {
+                    "district": "Kulgam",
+                    "code": "JK-18",
+                    "abv": "JK",
+                    "code_num": "18"
+                },
+                {
+                    "district": "Ramban",
+                    "code": "JK-19",
+                    "abv": "JK",
+                    "code_num": "19"
+                },
+                {
+                    "district": "Reasi",
+                    "code": "JK-20",
+                    "abv": "JK",
+                    "code_num": "20"
+                },
+                {
+                    "district": "Samba",
+                    "code": "JK-21",
+                    "abv": "JK",
+                    "code_num": "21"
+                },
+                {
+                    "district": "Shopian",
+                    "code": "JK-22",
+                    "abv": "JK",
+                    "code_num": "22"
+                }
+            ]
+        },
+        {
+            "Karnataka": [
+                {
+                    "district": "Bangalore Central (Koramangala)",
+                    "code": "KA-01",
+                    "abv": "KA",
+                    "code_num": "01"
+                },
+                {
+                    "district": "Bangalore West (Rajajinagar)",
+                    "code": "KA-02",
+                    "abv": "KA",
+                    "code_num": "02"
+                },
+                {
+                    "district": "Bangalore East (Indiranagar)",
+                    "code": "KA-03",
+                    "abv": "KA",
+                    "code_num": "03"
+                },
+                {
+                    "district": "Bangalore North (Yeshwanthpur)",
+                    "code": "KA-04",
+                    "abv": "KA",
+                    "code_num": "04"
+                },
+                {
+                    "district": "Bangalore South (Jayanagar)]]",
+                    "code": "KA-05",
+                    "abv": "KA",
+                    "code_num": "05"
+                },
+                {
+                    "district": "Tumkur",
+                    "code": "KA-06",
+                    "abv": "KA",
+                    "code_num": "06"
+                },
+                {
+                    "district": "Kolar",
+                    "code": "KA-07",
+                    "abv": "KA",
+                    "code_num": "07"
+                },
+                {
+                    "district": "Kolar Gold Fields (KGF)",
+                    "code": "KA-08",
+                    "abv": "KA",
+                    "code_num": "08"
+                },
+                {
+                    "district": "Mysore West",
+                    "code": "KA-09",
+                    "abv": "KA",
+                    "code_num": "09"
+                },
+                {
+                    "district": "Chamrajnagar",
+                    "code": "KA-10",
+                    "abv": "KA",
+                    "code_num": "10"
+                },
+                {
+                    "district": "Mandya",
+                    "code": "KA-11",
+                    "abv": "KA",
+                    "code_num": "11"
+                },
+                {
+                    "district": "Madikeri",
+                    "code": "KA-12",
+                    "abv": "KA",
+                    "code_num": "12"
+                },
+                {
+                    "district": "Hassan",
+                    "code": "KA-13",
+                    "abv": "KA",
+                    "code_num": "13"
+                },
+                {
+                    "district": "Shimoga",
+                    "code": "KA-14",
+                    "abv": "KA",
+                    "code_num": "14"
+                },
+                {
+                    "district": "Sagara",
+                    "code": "KA-15",
+                    "abv": "KA",
+                    "code_num": "15"
+                },
+                {
+                    "district": "Chitradurga",
+                    "code": "KA-16",
+                    "abv": "KA",
+                    "code_num": "16"
+                },
+                {
+                    "district": "Davangere",
+                    "code": "KA-17",
+                    "abv": "KA",
+                    "code_num": "17"
+                },
+                {
+                    "district": "Chickmagalur",
+                    "code": "KA-18",
+                    "abv": "KA",
+                    "code_num": "18"
+                },
+                {
+                    "district": "Mangalore",
+                    "code": "KA-19",
+                    "abv": "KA",
+                    "code_num": "19"
+                },
+                {
+                    "district": "Udupi",
+                    "code": "KA-20",
+                    "abv": "KA",
+                    "code_num": "20"
+                },
+                {
+                    "district": "Puttur, Sullia",
+                    "code": "KA-21",
+                    "abv": "KA",
+                    "code_num": "21"
+                },
+                {
+                    "district": "Belgaum",
+                    "code": "KA-22",
+                    "abv": "KA",
+                    "code_num": "22"
+                },
+                {
+                    "district": "Chikkodi",
+                    "code": "KA-23",
+                    "abv": "KA",
+                    "code_num": "23"
+                },
+                {
+                    "district": "Bailhongal",
+                    "code": "KA-24",
+                    "abv": "KA",
+                    "code_num": "24"
+                },
+                {
+                    "district": "Dharwad",
+                    "code": "KA-25",
+                    "abv": "KA",
+                    "code_num": "25"
+                },
+                {
+                    "district": "Gadag",
+                    "code": "KA-26",
+                    "abv": "KA",
+                    "code_num": "26"
+                },
+                {
+                    "district": "Haveri",
+                    "code": "KA-27",
+                    "abv": "KA",
+                    "code_num": "27"
+                },
+                {
+                    "district": "Bijapur",
+                    "code": "KA-28",
+                    "abv": "KA",
+                    "code_num": "28"
+                },
+                {
+                    "district": "Bagalkot",
+                    "code": "KA-29",
+                    "abv": "KA",
+                    "code_num": "29"
+                },
+                {
+                    "district": "Karwar",
+                    "code": "KA-30",
+                    "abv": "KA",
+                    "code_num": "30"
+                },
+                {
+                    "district": "Sirsi",
+                    "code": "KA-31",
+                    "abv": "KA",
+                    "code_num": "31"
+                },
+                {
+                    "district": "Gulbarga",
+                    "code": "KA-32",
+                    "abv": "KA",
+                    "code_num": "32"
+                },
+                {
+                    "district": "Yadgir",
+                    "code": "KA-33",
+                    "abv": "KA",
+                    "code_num": "33"
+                },
+                {
+                    "district": "Bellary",
+                    "code": "KA-34",
+                    "abv": "KA",
+                    "code_num": "34"
+                },
+                {
+                    "district": "Hospet",
+                    "code": "KA-35",
+                    "abv": "KA",
+                    "code_num": "35"
+                },
+                {
+                    "district": "Raichur",
+                    "code": "KA-36",
+                    "abv": "KA",
+                    "code_num": "36"
+                },
+                {
+                    "district": "Koppal",
+                    "code": "KA-37",
+                    "abv": "KA",
+                    "code_num": "37"
+                },
+                {
+                    "district": "Bidar",
+                    "code": "KA-38",
+                    "abv": "KA",
+                    "code_num": "38"
+                },
+                {
+                    "district": "Bhalki",
+                    "code": "KA-39",
+                    "abv": "KA",
+                    "code_num": "39"
+                },
+                {
+                    "district": "Chikkaballapur",
+                    "code": "KA-40",
+                    "abv": "KA",
+                    "code_num": "40"
+                },
+                {
+                    "district": "Rajarajeshwari Nagar, Bangalore Urban district",
+                    "code": "KA-41",
+                    "abv": "KA",
+                    "code_num": "41"
+                },
+                {
+                    "district": "Ramanagara",
+                    "code": "KA-42",
+                    "abv": "KA",
+                    "code_num": "42"
+                },
+                {
+                    "district": "Devanahalli, Bangalore Rural district",
+                    "code": "KA-43",
+                    "abv": "KA",
+                    "code_num": "43"
+                },
+                {
+                    "district": "Tiptur",
+                    "code": "KA-44",
+                    "abv": "KA",
+                    "code_num": "44"
+                },
+                {
+                    "district": "Hunsur",
+                    "code": "KA-45",
+                    "abv": "KA",
+                    "code_num": "45"
+                },
+                {
+                    "district": "Sakleshpur",
+                    "code": "KA-46",
+                    "abv": "KA",
+                    "code_num": "46"
+                },
+                {
+                    "district": "Honnavar",
+                    "code": "KA-47",
+                    "abv": "KA",
+                    "code_num": "47"
+                },
+                {
+                    "district": "Jamkhandi",
+                    "code": "KA-48",
+                    "abv": "KA",
+                    "code_num": "48"
+                },
+                {
+                    "district": "Gokak",
+                    "code": "KA-49",
+                    "abv": "KA",
+                    "code_num": "49"
+                },
+                {
+                    "district": "Yelahanka, Bangalore Urban district",
+                    "code": "KA-50",
+                    "abv": "KA",
+                    "code_num": "50"
+                },
+                {
+                    "district": "Electronics City, Bangalore Urban district",
+                    "code": "KA-51",
+                    "abv": "KA",
+                    "code_num": "51"
+                },
+                {
+                    "district": "Nelamangala, Bangalore Urban district",
+                    "code": "KA-52",
+                    "abv": "KA",
+                    "code_num": "52"
+                },
+                {
+                    "district": "K.R. Puram, Bangalore Urban district",
+                    "code": "KA-53",
+                    "abv": "KA",
+                    "code_num": "53"
+                },
+                {
+                    "district": "Nagamangala",
+                    "code": "KA-54",
+                    "abv": "KA",
+                    "code_num": "54"
+                },
+                {
+                    "district": "Mysore East",
+                    "code": "KA-55",
+                    "abv": "KA",
+                    "code_num": "55"
+                },
+                {
+                    "district": "Basavakalyan",
+                    "code": "KA-56",
+                    "abv": "KA",
+                    "code_num": "56"
+                },
+                {
+                    "district": "Shantinagar, Bangalore Urban district (only for KSRTC, BMTC and autos[1])",
+                    "code": "KA-57",
+                    "abv": "KA",
+                    "code_num": "57"
+                }
+            ]
+        },
+        {
+            "Madhya Pradesh": [
+                {
+                    "district": "State Governor\u2019s Vehicle",
+                    "code": "MP-01",
+                    "abv": "MP",
+                    "code_num": "01"
+                },
+                {
+                    "district": "M.P. Government Vehicle",
+                    "code": "MP-02",
+                    "abv": "MP",
+                    "code_num": "02"
+                },
+                {
+                    "district": "M.P. Police Vehicle",
+                    "code": "MP-03",
+                    "abv": "MP",
+                    "code_num": "03"
+                },
+                {
+                    "district": "Bhopal",
+                    "code": "MP-04",
+                    "abv": "MP",
+                    "code_num": "04"
+                },
+                {
+                    "district": "Hoshangabad",
+                    "code": "MP-05",
+                    "abv": "MP",
+                    "code_num": "05"
+                },
+                {
+                    "district": "Morena",
+                    "code": "MP-06",
+                    "abv": "MP",
+                    "code_num": "06"
+                },
+                {
+                    "district": "Gwalior",
+                    "code": "MP-07",
+                    "abv": "MP",
+                    "code_num": "07"
+                },
+                {
+                    "district": "Guna",
+                    "code": "MP-08",
+                    "abv": "MP",
+                    "code_num": "08"
+                },
+                {
+                    "district": "Indore",
+                    "code": "MP-09",
+                    "abv": "MP",
+                    "code_num": "09"
+                },
+                {
+                    "district": "Khargone",
+                    "code": "MP-10",
+                    "abv": "MP",
+                    "code_num": "10"
+                },
+                {
+                    "district": "Dhar",
+                    "code": "MP-11",
+                    "abv": "MP",
+                    "code_num": "11"
+                },
+                {
+                    "district": "Khandwa",
+                    "code": "MP-12",
+                    "abv": "MP",
+                    "code_num": "12"
+                },
+                {
+                    "district": "Ujjain",
+                    "code": "MP-13",
+                    "abv": "MP",
+                    "code_num": "13"
+                },
+                {
+                    "district": "Mandsaur",
+                    "code": "MP-14",
+                    "abv": "MP",
+                    "code_num": "14"
+                },
+                {
+                    "district": "Sagar",
+                    "code": "MP-15",
+                    "abv": "MP",
+                    "code_num": "15"
+                },
+                {
+                    "district": "Chhatarpur",
+                    "code": "MP-16",
+                    "abv": "MP",
+                    "code_num": "16"
+                },
+                {
+                    "district": "Rewa",
+                    "code": "MP-17",
+                    "abv": "MP",
+                    "code_num": "17"
+                },
+                {
+                    "district": "Shahdol",
+                    "code": "MP-18",
+                    "abv": "MP",
+                    "code_num": "18"
+                },
+                {
+                    "district": "Satna",
+                    "code": "MP-19",
+                    "abv": "MP",
+                    "code_num": "19"
+                },
+                {
+                    "district": "Jabalpur",
+                    "code": "MP-20",
+                    "abv": "MP",
+                    "code_num": "20"
+                },
+                {
+                    "district": "Katni",
+                    "code": "MP-21",
+                    "abv": "MP",
+                    "code_num": "21"
+                },
+                {
+                    "district": "Seoni",
+                    "code": "MP-22",
+                    "abv": "MP",
+                    "code_num": "22"
+                },
+                {
+                    "district": "Raipur (not in use)",
+                    "code": "MP-23",
+                    "abv": "MP",
+                    "code_num": "23"
+                },
+                {
+                    "district": "Durg (not in use)",
+                    "code": "MP-24",
+                    "abv": "MP",
+                    "code_num": "24"
+                },
+                {
+                    "district": "Jagdalpur (not in use)",
+                    "code": "MP-25",
+                    "abv": "MP",
+                    "code_num": "25"
+                },
+                {
+                    "district": "Bilaspur (not in use)",
+                    "code": "MP-26",
+                    "abv": "MP",
+                    "code_num": "26"
+                },
+                {
+                    "district": "Ambikapur (not in use)",
+                    "code": "MP-27",
+                    "abv": "MP",
+                    "code_num": "27"
+                },
+                {
+                    "district": "Chhindwara",
+                    "code": "MP-28",
+                    "abv": "MP",
+                    "code_num": "28"
+                },
+                {
+                    "district": "Rajnandgaon (not in use)",
+                    "code": "MP-29",
+                    "abv": "MP",
+                    "code_num": "29"
+                },
+                {
+                    "district": "Bhind",
+                    "code": "MP-30",
+                    "abv": "MP",
+                    "code_num": "30"
+                },
+                {
+                    "district": "Sheopur",
+                    "code": "MP-31",
+                    "abv": "MP",
+                    "code_num": "31"
+                },
+                {
+                    "district": "Datia",
+                    "code": "MP-32",
+                    "abv": "MP",
+                    "code_num": "32"
+                },
+                {
+                    "district": "Shivpuri",
+                    "code": "MP-33",
+                    "abv": "MP",
+                    "code_num": "33"
+                },
+                {
+                    "district": "Damoh",
+                    "code": "MP-34",
+                    "abv": "MP",
+                    "code_num": "34"
+                },
+                {
+                    "district": "Panna",
+                    "code": "MP-35",
+                    "abv": "MP",
+                    "code_num": "35"
+                },
+                {
+                    "district": "Tikamgarh",
+                    "code": "MP-36",
+                    "abv": "MP",
+                    "code_num": "36"
+                },
+                {
+                    "district": "Sehore",
+                    "code": "MP-37",
+                    "abv": "MP",
+                    "code_num": "37"
+                },
+                {
+                    "district": "Raisen",
+                    "code": "MP-38",
+                    "abv": "MP",
+                    "code_num": "38"
+                },
+                {
+                    "district": "Rajgarh",
+                    "code": "MP-39",
+                    "abv": "MP",
+                    "code_num": "39"
+                },
+                {
+                    "district": "Vidisha",
+                    "code": "MP-40",
+                    "abv": "MP",
+                    "code_num": "40"
+                },
+                {
+                    "district": "Dewas",
+                    "code": "MP-41",
+                    "abv": "MP",
+                    "code_num": "41"
+                },
+                {
+                    "district": "Shajapur",
+                    "code": "MP-42",
+                    "abv": "MP",
+                    "code_num": "42"
+                },
+                {
+                    "district": "Ratlam",
+                    "code": "MP-43",
+                    "abv": "MP",
+                    "code_num": "43"
+                },
+                {
+                    "district": "Neemuch",
+                    "code": "MP-44",
+                    "abv": "MP",
+                    "code_num": "44"
+                },
+                {
+                    "district": "Jhabua",
+                    "code": "MP-45",
+                    "abv": "MP",
+                    "code_num": "45"
+                },
+                {
+                    "district": "Badwani",
+                    "code": "MP-46",
+                    "abv": "MP",
+                    "code_num": "46"
+                },
+                {
+                    "district": "Harda",
+                    "code": "MP-47",
+                    "abv": "MP",
+                    "code_num": "47"
+                },
+                {
+                    "district": "Betul",
+                    "code": "MP-48",
+                    "abv": "MP",
+                    "code_num": "48"
+                },
+                {
+                    "district": "Narsinghpur",
+                    "code": "MP-49",
+                    "abv": "MP",
+                    "code_num": "49"
+                },
+                {
+                    "district": "Balaghat",
+                    "code": "MP-50",
+                    "abv": "MP",
+                    "code_num": "50"
+                },
+                {
+                    "district": "Mandla",
+                    "code": "MP-51",
+                    "abv": "MP",
+                    "code_num": "51"
+                },
+                {
+                    "district": "Dindori",
+                    "code": "MP-52",
+                    "abv": "MP",
+                    "code_num": "52"
+                },
+                {
+                    "district": "Sidhi",
+                    "code": "MP-53",
+                    "abv": "MP",
+                    "code_num": "53"
+                },
+                {
+                    "district": "Umariya",
+                    "code": "MP-54",
+                    "abv": "MP",
+                    "code_num": "54"
+                },
+                {
+                    "district": "not in use",
+                    "code": "MP-55",
+                    "abv": "MP",
+                    "code_num": "55"
+                },
+                {
+                    "district": "not in use",
+                    "code": "MP-56",
+                    "abv": "MP",
+                    "code_num": "56"
+                },
+                {
+                    "district": "(not alloted)",
+                    "code": "MP-57",
+                    "abv": "MP",
+                    "code_num": "57"
+                },
+                {
+                    "district": "not in use",
+                    "code": "MP-58",
+                    "abv": "MP",
+                    "code_num": "58"
+                },
+                {
+                    "district": "(not alloted)",
+                    "code": "MP-59",
+                    "abv": "MP",
+                    "code_num": "59"
+                },
+                {
+                    "district": "(not alloted)",
+                    "code": "MP-60",
+                    "abv": "MP",
+                    "code_num": "60"
+                },
+                {
+                    "district": "(not alloted)",
+                    "code": "MP-61",
+                    "abv": "MP",
+                    "code_num": "61"
+                },
+                {
+                    "district": "(not alloted)",
+                    "code": "MP-62",
+                    "abv": "MP",
+                    "code_num": "62"
+                },
+                {
+                    "district": "(not alloted)",
+                    "code": "MP-63",
+                    "abv": "MP",
+                    "code_num": "63"
+                },
+                {
+                    "district": "(not alloted)",
+                    "code": "MP-64",
+                    "abv": "MP",
+                    "code_num": "64"
+                },
+                {
+                    "district": "Anoopur",
+                    "code": "MP-65",
+                    "abv": "MP",
+                    "code_num": "65"
+                },
+                {
+                    "district": "Singrauli",
+                    "code": "MP-66",
+                    "abv": "MP",
+                    "code_num": "66"
+                },
+                {
+                    "district": "Ashoknagar",
+                    "code": "MP-67",
+                    "abv": "MP",
+                    "code_num": "67"
+                },
+                {
+                    "district": "Burhanpur",
+                    "code": "MP-68",
+                    "abv": "MP",
+                    "code_num": "68"
+                },
+                {
+                    "district": "Alirajpur (upcoming)",
+                    "code": "MP-69",
+                    "abv": "MP",
+                    "code_num": "69"
+                }
+            ]
+        },
+        {
+            "Manipur": []
+        },
+        {
+            "Mizoram": [
+                {
+                    "district": "Aizawl",
+                    "code": "MZ-01",
+                    "abv": "MZ",
+                    "code_num": "01"
+                },
+                {
+                    "district": "Lunglei",
+                    "code": "MZ-02",
+                    "abv": "MZ",
+                    "code_num": "02"
+                },
+                {
+                    "district": "Saiha",
+                    "code": "MZ-03",
+                    "abv": "MZ",
+                    "code_num": "03"
+                },
+                {
+                    "district": "Champhai",
+                    "code": "MZ-04",
+                    "abv": "MZ",
+                    "code_num": "04"
+                },
+                {
+                    "district": "Kolasib",
+                    "code": "MZ-05",
+                    "abv": "MZ",
+                    "code_num": "05"
+                },
+                {
+                    "district": "Serchhip",
+                    "code": "MZ-06",
+                    "abv": "MZ",
+                    "code_num": "06"
+                },
+                {
+                    "district": "Lawngtlai",
+                    "code": "MZ-07",
+                    "abv": "MZ",
+                    "code_num": "07"
+                },
+                {
+                    "district": "Mamit",
+                    "code": "MZ-08",
+                    "abv": "MZ",
+                    "code_num": "08"
+                }
+            ]
+        },
+        {
+            "Odisha": []
+        },
+        {
+            "Rajasthan": [
+                {
+                    "district": "Ajmer",
+                    "code": "RJ-01",
+                    "abv": "RJ",
+                    "code_num": "01"
+                },
+                {
+                    "district": "Alwar",
+                    "code": "RJ-02",
+                    "abv": "RJ",
+                    "code_num": "02"
+                },
+                {
+                    "district": "Banswara",
+                    "code": "RJ-03",
+                    "abv": "RJ",
+                    "code_num": "03"
+                },
+                {
+                    "district": "Barmer",
+                    "code": "RJ-04",
+                    "abv": "RJ",
+                    "code_num": "04"
+                },
+                {
+                    "district": "Bharatpur",
+                    "code": "RJ-05",
+                    "abv": "RJ",
+                    "code_num": "05"
+                },
+                {
+                    "district": "Bhilwara",
+                    "code": "RJ-06",
+                    "abv": "RJ",
+                    "code_num": "06"
+                },
+                {
+                    "district": "Bikaner",
+                    "code": "RJ-07",
+                    "abv": "RJ",
+                    "code_num": "07"
+                },
+                {
+                    "district": "Bundi",
+                    "code": "RJ-08",
+                    "abv": "RJ",
+                    "code_num": "08"
+                },
+                {
+                    "district": "Chittaurgarh",
+                    "code": "RJ-09",
+                    "abv": "RJ",
+                    "code_num": "09"
+                },
+                {
+                    "district": "Churu",
+                    "code": "RJ-10",
+                    "abv": "RJ",
+                    "code_num": "10"
+                },
+                {
+                    "district": "Dholpur",
+                    "code": "RJ-11",
+                    "abv": "RJ",
+                    "code_num": "11"
+                },
+                {
+                    "district": "Dungarpur",
+                    "code": "RJ-12",
+                    "abv": "RJ",
+                    "code_num": "12"
+                },
+                {
+                    "district": "Sri Ganganagar",
+                    "code": "RJ-13",
+                    "abv": "RJ",
+                    "code_num": "13"
+                },
+                {
+                    "district": "Jaipur",
+                    "code": "RJ-14",
+                    "abv": "RJ",
+                    "code_num": "14"
+                },
+                {
+                    "district": "Jaisalmer",
+                    "code": "RJ-15",
+                    "abv": "RJ",
+                    "code_num": "15"
+                },
+                {
+                    "district": "Jalore",
+                    "code": "RJ-16",
+                    "abv": "RJ",
+                    "code_num": "16"
+                },
+                {
+                    "district": "Jhalawar",
+                    "code": "RJ-17",
+                    "abv": "RJ",
+                    "code_num": "17"
+                },
+                {
+                    "district": "Jhunjhunu",
+                    "code": "RJ-18",
+                    "abv": "RJ",
+                    "code_num": "18"
+                },
+                {
+                    "district": "Jodhpur",
+                    "code": "RJ-19",
+                    "abv": "RJ",
+                    "code_num": "19"
+                },
+                {
+                    "district": "Kota",
+                    "code": "RJ-20",
+                    "abv": "RJ",
+                    "code_num": "20"
+                },
+                {
+                    "district": "Nagaur",
+                    "code": "RJ-21",
+                    "abv": "RJ",
+                    "code_num": "21"
+                },
+                {
+                    "district": "Pali",
+                    "code": "RJ-22",
+                    "abv": "RJ",
+                    "code_num": "22"
+                },
+                {
+                    "district": "Sikar",
+                    "code": "RJ-23",
+                    "abv": "RJ",
+                    "code_num": "23"
+                },
+                {
+                    "district": "Sirohi",
+                    "code": "RJ-24",
+                    "abv": "RJ",
+                    "code_num": "24"
+                },
+                {
+                    "district": "Sawai Madhopur",
+                    "code": "RJ-25",
+                    "abv": "RJ",
+                    "code_num": "25"
+                },
+                {
+                    "district": "Tonk",
+                    "code": "RJ-26",
+                    "abv": "RJ",
+                    "code_num": "26"
+                },
+                {
+                    "district": "Udaipur",
+                    "code": "RJ-27",
+                    "abv": "RJ",
+                    "code_num": "27"
+                },
+                {
+                    "district": "Baran",
+                    "code": "RJ-28",
+                    "abv": "RJ",
+                    "code_num": "28"
+                },
+                {
+                    "district": "Dausa",
+                    "code": "RJ-29",
+                    "abv": "RJ",
+                    "code_num": "29"
+                },
+                {
+                    "district": "Rajsamand",
+                    "code": "RJ-30",
+                    "abv": "RJ",
+                    "code_num": "30"
+                },
+                {
+                    "district": "Hanumangarh",
+                    "code": "RJ-31",
+                    "abv": "RJ",
+                    "code_num": "31"
+                },
+                {
+                    "district": "Kotputli",
+                    "code": "RJ-32",
+                    "abv": "RJ",
+                    "code_num": "32"
+                },
+                {
+                    "district": "Ramganj Mandi",
+                    "code": "RJ-33",
+                    "abv": "RJ",
+                    "code_num": "33"
+                },
+                {
+                    "district": "Karauli",
+                    "code": "RJ-34",
+                    "abv": "RJ",
+                    "code_num": "34"
+                },
+                {
+                    "district": "Pratapgarh",
+                    "code": "RJ-35",
+                    "abv": "RJ",
+                    "code_num": "35"
+                },
+                {
+                    "district": "Beawar",
+                    "code": "RJ-36",
+                    "abv": "RJ",
+                    "code_num": "36"
+                },
+                {
+                    "district": "Didwana",
+                    "code": "RJ-37",
+                    "abv": "RJ",
+                    "code_num": "37"
+                },
+                {
+                    "district": "Rawhhuu",
+                    "code": "RJ-38",
+                    "abv": "RJ",
+                    "code_num": "38"
+                }
+            ]
+        },
+        {
+            "Tamil Nadu": [
+                {
+                    "district": "Chennai Central (Ayanavaram)",
+                    "code": "TN-01",
+                    "abv": "TN",
+                    "code_num": "01"
+                },
+                {
+                    "district": "Chennai West (Anna Nagar)",
+                    "code": "TN-02",
+                    "abv": "TN",
+                    "code_num": "02"
+                },
+                {
+                    "district": "Chennai North East (Tondiarpet)",
+                    "code": "TN-03",
+                    "abv": "TN",
+                    "code_num": "03"
+                },
+                {
+                    "district": "Chennai East (Basin Bridge)",
+                    "code": "TN-04",
+                    "abv": "TN",
+                    "code_num": "04"
+                },
+                {
+                    "district": "Chennai North (Vyasarpadi)",
+                    "code": "TN-05",
+                    "abv": "TN",
+                    "code_num": "05"
+                },
+                {
+                    "district": "Chennai South East (Mandaveli)",
+                    "code": "TN-06",
+                    "abv": "TN",
+                    "code_num": "06"
+                },
+                {
+                    "district": "Chennai South (Thiruvanmiyur)",
+                    "code": "TN-07",
+                    "abv": "TN",
+                    "code_num": "07"
+                },
+                {
+                    "district": "Chennai West (K.K. Nagar)",
+                    "code": "TN-09",
+                    "abv": "TN",
+                    "code_num": "09"
+                },
+                {
+                    "district": "Chennai South West (Valasarawakkam)",
+                    "code": "TN-10",
+                    "abv": "TN",
+                    "code_num": "10"
+                },
+                {
+                    "district": "Tambaram",
+                    "code": "TN-11",
+                    "abv": "TN",
+                    "code_num": "11"
+                },
+                {
+                    "district": "Tindivanam",
+                    "code": "TN-16",
+                    "abv": "TN",
+                    "code_num": "16"
+                },
+                {
+                    "district": "Sengundram",
+                    "code": "TN-18",
+                    "abv": "TN",
+                    "code_num": "18"
+                },
+                {
+                    "district": "Chengalpattu",
+                    "code": "TN-19",
+                    "abv": "TN",
+                    "code_num": "19"
+                },
+                {
+                    "district": "Tiruvallur",
+                    "code": "TN-20",
+                    "abv": "TN",
+                    "code_num": "20"
+                },
+                {
+                    "district": "Kanchipuram",
+                    "code": "TN-21",
+                    "abv": "TN",
+                    "code_num": "21"
+                },
+                {
+                    "district": "Meenambakkam",
+                    "code": "TN-22",
+                    "abv": "TN",
+                    "code_num": "22"
+                },
+                {
+                    "district": "Vellore",
+                    "code": "TN-23",
+                    "abv": "TN",
+                    "code_num": "23"
+                },
+                {
+                    "district": "Krishnagiri",
+                    "code": "TN-24",
+                    "abv": "TN",
+                    "code_num": "24"
+                },
+                {
+                    "district": "Tiruvannamalai",
+                    "code": "TN-25",
+                    "abv": "TN",
+                    "code_num": "25"
+                },
+                {
+                    "district": "Namakkal",
+                    "code": "TN-28",
+                    "abv": "TN",
+                    "code_num": "28"
+                },
+                {
+                    "district": "Dharmapuri",
+                    "code": "TN-29",
+                    "abv": "TN",
+                    "code_num": "29"
+                },
+                {
+                    "district": "Salem (West)",
+                    "code": "TN-30",
+                    "abv": "TN",
+                    "code_num": "30"
+                },
+                {
+                    "district": "Cuddalore",
+                    "code": "TN-31",
+                    "abv": "TN",
+                    "code_num": "31"
+                },
+                {
+                    "district": "Villupuram",
+                    "code": "TN-32",
+                    "abv": "TN",
+                    "code_num": "32"
+                },
+                {
+                    "district": "Erode",
+                    "code": "TN-33",
+                    "abv": "TN",
+                    "code_num": "33"
+                },
+                {
+                    "district": "Thiruchengode",
+                    "code": "TN-34",
+                    "abv": "TN",
+                    "code_num": "34"
+                },
+                {
+                    "district": "Gobichettipalayam",
+                    "code": "TN-36",
+                    "abv": "TN",
+                    "code_num": "36"
+                },
+                {
+                    "district": "Coimbatore (South)",
+                    "code": "TN-37",
+                    "abv": "TN",
+                    "code_num": "37"
+                },
+                {
+                    "district": "Coimbatore (North)",
+                    "code": "TN-38",
+                    "abv": "TN",
+                    "code_num": "38"
+                },
+                {
+                    "district": "Tirupur (North)",
+                    "code": "TN-39",
+                    "abv": "TN",
+                    "code_num": "39"
+                },
+                {
+                    "district": "Mettupalayam",
+                    "code": "TN-40",
+                    "abv": "TN",
+                    "code_num": "40"
+                },
+                {
+                    "district": "Pollachi",
+                    "code": "TN-41",
+                    "abv": "TN",
+                    "code_num": "41"
+                },
+                {
+                    "district": "Tirupur (South)",
+                    "code": "TN-42",
+                    "abv": "TN",
+                    "code_num": "42"
+                },
+                {
+                    "district": "Uthagamandalam",
+                    "code": "TN-43",
+                    "abv": "TN",
+                    "code_num": "43"
+                },
+                {
+                    "district": "Tiruchirapalli",
+                    "code": "TN-45",
+                    "abv": "TN",
+                    "code_num": "45"
+                },
+                {
+                    "district": "Perambalur",
+                    "code": "TN-46",
+                    "abv": "TN",
+                    "code_num": "46"
+                },
+                {
+                    "district": "Karur",
+                    "code": "TN-47",
+                    "abv": "TN",
+                    "code_num": "47"
+                },
+                {
+                    "district": "Srirangam (Tiruchirapalli)",
+                    "code": "TN-48",
+                    "abv": "TN",
+                    "code_num": "48"
+                },
+                {
+                    "district": "Thanjavur",
+                    "code": "TN-49",
+                    "abv": "TN",
+                    "code_num": "49"
+                },
+                {
+                    "district": "Tiruvarur",
+                    "code": "TN-50",
+                    "abv": "TN",
+                    "code_num": "50"
+                },
+                {
+                    "district": "Nagapattinam",
+                    "code": "TN-51",
+                    "abv": "TN",
+                    "code_num": "51"
+                },
+                {
+                    "district": "Sankagiri",
+                    "code": "TN-52",
+                    "abv": "TN",
+                    "code_num": "52"
+                },
+                {
+                    "district": "Salem (East)",
+                    "code": "TN-54",
+                    "abv": "TN",
+                    "code_num": "54"
+                },
+                {
+                    "district": "Pudukottai",
+                    "code": "TN-55",
+                    "abv": "TN",
+                    "code_num": "55"
+                },
+                {
+                    "district": "Perundurai",
+                    "code": "TN-56",
+                    "abv": "TN",
+                    "code_num": "56"
+                },
+                {
+                    "district": "Dindigul",
+                    "code": "TN-57",
+                    "abv": "TN",
+                    "code_num": "57"
+                },
+                {
+                    "district": "Madurai (South)",
+                    "code": "TN-58",
+                    "abv": "TN",
+                    "code_num": "58"
+                },
+                {
+                    "district": "Madurai (North)",
+                    "code": "TN-59",
+                    "abv": "TN",
+                    "code_num": "59"
+                },
+                {
+                    "district": "Theni",
+                    "code": "TN-60",
+                    "abv": "TN",
+                    "code_num": "60"
+                },
+                {
+                    "district": "Ariyalur",
+                    "code": "TN-61",
+                    "abv": "TN",
+                    "code_num": "61"
+                },
+                {
+                    "district": "Sivagangai",
+                    "code": "TN-63",
+                    "abv": "TN",
+                    "code_num": "63"
+                },
+                {
+                    "district": "Madurai (Central)",
+                    "code": "TN-64",
+                    "abv": "TN",
+                    "code_num": "64"
+                },
+                {
+                    "district": "Ramanathapuram",
+                    "code": "TN-65",
+                    "abv": "TN",
+                    "code_num": "65"
+                },
+                {
+                    "district": "Coimbatore (Central)",
+                    "code": "TN-66",
+                    "abv": "TN",
+                    "code_num": "66"
+                },
+                {
+                    "district": "Virudhunagar",
+                    "code": "TN-67",
+                    "abv": "TN",
+                    "code_num": "67"
+                },
+                {
+                    "district": "Kumbakonam",
+                    "code": "TN-68",
+                    "abv": "TN",
+                    "code_num": "68"
+                },
+                {
+                    "district": "Tuticorin",
+                    "code": "TN-69",
+                    "abv": "TN",
+                    "code_num": "69"
+                },
+                {
+                    "district": "Hosur",
+                    "code": "TN-70",
+                    "abv": "TN",
+                    "code_num": "70"
+                },
+                {
+                    "district": "Tirunelveli",
+                    "code": "TN-72",
+                    "abv": "TN",
+                    "code_num": "72"
+                },
+                {
+                    "district": "Ranipet",
+                    "code": "TN-73",
+                    "abv": "TN",
+                    "code_num": "73"
+                },
+                {
+                    "district": "Nagercoil",
+                    "code": "TN-74",
+                    "abv": "TN",
+                    "code_num": "74"
+                },
+                {
+                    "district": "Marthandam",
+                    "code": "TN-75",
+                    "abv": "TN",
+                    "code_num": "75"
+                },
+                {
+                    "district": "Tenkasi",
+                    "code": "TN-76",
+                    "abv": "TN",
+                    "code_num": "76"
+                },
+                {
+                    "district": "Attur",
+                    "code": "TN-77",
+                    "abv": "TN",
+                    "code_num": "77"
+                },
+                {
+                    "district": "Dharapuram",
+                    "code": "TN-78",
+                    "abv": "TN",
+                    "code_num": "78"
+                },
+                {
+                    "district": "State Transport Undertakings",
+                    "code": "TN-/N, TN-/AN-",
+                    "abv": "TN",
+                    "code_num": "/N, TN"
+                },
+                {
+                    "district": "State Government Vehicles",
+                    "code": "TN-/G, TN-/AG",
+                    "abv": "TN",
+                    "code_num": "/G, TN"
+                }
+            ]
+        },
+        {
+            "Uttar Pradesh": [
+                {
+                    "district": "Almora (not longer in use)",
+                    "code": "UP-01",
+                    "abv": "UP",
+                    "code_num": "01"
+                },
+                {
+                    "district": "Haldwani (not longer in use)",
+                    "code": "UP-02",
+                    "abv": "UP",
+                    "code_num": "02"
+                },
+                {
+                    "district": "Pithoragarh (not longer in use)",
+                    "code": "UP-03",
+                    "abv": "UP",
+                    "code_num": "03"
+                },
+                {
+                    "district": "Udham Singh Nagar (not longer in use)",
+                    "code": "UP-04",
+                    "abv": "UP",
+                    "code_num": "04"
+                },
+                {
+                    "district": "Chamoli (not longer in use)",
+                    "code": "UP-05",
+                    "abv": "UP",
+                    "code_num": "05"
+                },
+                {
+                    "district": "Pauri (not longer in use)",
+                    "code": "UP-06",
+                    "abv": "UP",
+                    "code_num": "06"
+                },
+                {
+                    "district": "Dehradun (not longer in use)",
+                    "code": "UP-07",
+                    "abv": "UP",
+                    "code_num": "07"
+                },
+                {
+                    "district": "Tehri (not longer in use)",
+                    "code": "UP-08",
+                    "abv": "UP",
+                    "code_num": "08"
+                },
+                {
+                    "district": "Uttarkashi (not longer in use)",
+                    "code": "UP-09",
+                    "abv": "UP",
+                    "code_num": "09"
+                },
+                {
+                    "district": "Haridwar (not longer in use)",
+                    "code": "UP-10",
+                    "abv": "UP",
+                    "code_num": "10"
+                },
+                {
+                    "district": "Saharanpur",
+                    "code": "UP-11",
+                    "abv": "UP",
+                    "code_num": "11"
+                },
+                {
+                    "district": "Muzaffarnagar",
+                    "code": "UP-12",
+                    "abv": "UP",
+                    "code_num": "12"
+                },
+                {
+                    "district": "Bulandshahr",
+                    "code": "UP-13",
+                    "abv": "UP",
+                    "code_num": "13"
+                },
+                {
+                    "district": "Ghaziabad",
+                    "code": "UP-14",
+                    "abv": "UP",
+                    "code_num": "14"
+                },
+                {
+                    "district": "Meerut (UP15AT for taxis, UP15AG for government vehicles",
+                    "code": "UP-15",
+                    "abv": "UP",
+                    "code_num": "15"
+                },
+                {
+                    "district": "NOIDA, Gautam Buddha Nagar",
+                    "code": "UP-16",
+                    "abv": "UP",
+                    "code_num": "16"
+                },
+                {
+                    "district": "Baghpat",
+                    "code": "UP-17",
+                    "abv": "UP",
+                    "code_num": "17"
+                },
+                {
+                    "district": "Prabudh Nagar",
+                    "code": "UP-18",
+                    "abv": "UP",
+                    "code_num": "18"
+                },
+                {
+                    "district": "Bijnor",
+                    "code": "UP-20",
+                    "abv": "UP",
+                    "code_num": "20"
+                },
+                {
+                    "district": "Moradabad",
+                    "code": "UP-21",
+                    "abv": "UP",
+                    "code_num": "21"
+                },
+                {
+                    "district": "Rampur",
+                    "code": "UP-22",
+                    "abv": "UP",
+                    "code_num": "22"
+                },
+                {
+                    "district": "Jyotiba Phule Nagar",
+                    "code": "UP-23",
+                    "abv": "UP",
+                    "code_num": "23"
+                },
+                {
+                    "district": "Badaun",
+                    "code": "UP-24",
+                    "abv": "UP",
+                    "code_num": "24"
+                },
+                {
+                    "district": "Bareilly",
+                    "code": "UP-25",
+                    "abv": "UP",
+                    "code_num": "25"
+                },
+                {
+                    "district": "Pilibhit",
+                    "code": "UP-26",
+                    "abv": "UP",
+                    "code_num": "26"
+                },
+                {
+                    "district": "Shahjahanpur",
+                    "code": "UP-27",
+                    "abv": "UP",
+                    "code_num": "27"
+                },
+                {
+                    "district": "Ayodhya",
+                    "code": "UP-28",
+                    "abv": "UP",
+                    "code_num": "28"
+                },
+                {
+                    "district": "to be alloted",
+                    "code": "UP-29",
+                    "abv": "UP",
+                    "code_num": "29"
+                },
+                {
+                    "district": "Hardoi",
+                    "code": "UP-30",
+                    "abv": "UP",
+                    "code_num": "30"
+                },
+                {
+                    "district": "Kheri",
+                    "code": "UP-31",
+                    "abv": "UP",
+                    "code_num": "31"
+                },
+                {
+                    "district": "Lucknow",
+                    "code": "UP-32",
+                    "abv": "UP",
+                    "code_num": "32"
+                },
+                {
+                    "district": "Raebareli",
+                    "code": "UP-33",
+                    "abv": "UP",
+                    "code_num": "33"
+                },
+                {
+                    "district": "Raebareli for commercial vehicles",
+                    "code": "UP-33T, AT, BT, CT & so on",
+                    "abv": "UP",
+                    "code_num": "33T, AT, BT, CT & so on"
+                },
+                {
+                    "district": "Raebareli for government vehicles",
+                    "code": "UP-33G, AG, BG, CG- & so on",
+                    "abv": "UP",
+                    "code_num": "33G, AG, BG, CG"
+                },
+                {
+                    "district": "Sitapur",
+                    "code": "UP-34",
+                    "abv": "UP",
+                    "code_num": "34"
+                },
+                {
+                    "district": "Unnao",
+                    "code": "UP-35",
+                    "abv": "UP",
+                    "code_num": "35"
+                },
+                {
+                    "district": "Unnao for commercial vehicles",
+                    "code": "UP-35B, H, T",
+                    "abv": "UP",
+                    "code_num": "35B, H, T"
+                },
+                {
+                    "district": "Lucknow (when UP32 will be exhausted)",
+                    "code": "UP-36",
+                    "abv": "UP",
+                    "code_num": "36"
+                },
+                {
+                    "district": "Hapur",
+                    "code": "UP-37",
+                    "abv": "UP",
+                    "code_num": "37"
+                },
+                {
+                    "district": "Bahraich",
+                    "code": "UP-40",
+                    "abv": "UP",
+                    "code_num": "40"
+                },
+                {
+                    "district": "Barabanki",
+                    "code": "UP-41",
+                    "abv": "UP",
+                    "code_num": "41"
+                },
+                {
+                    "district": "Faizabad",
+                    "code": "UP-42",
+                    "abv": "UP",
+                    "code_num": "42"
+                },
+                {
+                    "district": "Gonda",
+                    "code": "UP-43",
+                    "abv": "UP",
+                    "code_num": "43"
+                },
+                {
+                    "district": "Sultanpur",
+                    "code": "UP-44",
+                    "abv": "UP",
+                    "code_num": "44"
+                },
+                {
+                    "district": "Ambedkar Nagar",
+                    "code": "UP-45",
+                    "abv": "UP",
+                    "code_num": "45"
+                },
+                {
+                    "district": "Shrawasti",
+                    "code": "UP-46",
+                    "abv": "UP",
+                    "code_num": "46"
+                },
+                {
+                    "district": "Balrampur",
+                    "code": "UP-47",
+                    "abv": "UP",
+                    "code_num": "47"
+                },
+                {
+                    "district": "Azamgarh",
+                    "code": "UP-50",
+                    "abv": "UP",
+                    "code_num": "50"
+                },
+                {
+                    "district": "Azamgarh for commercial vehicles",
+                    "code": "UP-50T, AT, BT,& so on",
+                    "abv": "UP",
+                    "code_num": "50T, AT, BT,& so on"
+                },
+                {
+                    "district": "Azamgarh for government vehicles",
+                    "code": "UP-50, AG,BG & so on",
+                    "abv": "UP",
+                    "code_num": "50, AG,BG & so on"
+                },
+                {
+                    "district": "Basti",
+                    "code": "UP-51",
+                    "abv": "UP",
+                    "code_num": "51"
+                },
+                {
+                    "district": "Deoria",
+                    "code": "UP-52",
+                    "abv": "UP",
+                    "code_num": "52"
+                },
+                {
+                    "district": "Gorakhpur for private vehicles",
+                    "code": "UP-53",
+                    "abv": "UP",
+                    "code_num": "53"
+                },
+                {
+                    "district": "Gorakhpur for commercial vehicles",
+                    "code": "UP-53T, AT, BT, CT & so on",
+                    "abv": "UP",
+                    "code_num": "53T, AT, BT, CT & so on"
+                },
+                {
+                    "district": "Gorakhpur for government vehicles",
+                    "code": "UP-53AG",
+                    "abv": "UP",
+                    "code_num": "53AG"
+                },
+                {
+                    "district": "Mau",
+                    "code": "UP-54",
+                    "abv": "UP",
+                    "code_num": "54"
+                },
+                {
+                    "district": "Siddharth Nagar",
+                    "code": "UP-55",
+                    "abv": "UP",
+                    "code_num": "55"
+                },
+                {
+                    "district": "Mahrajganj",
+                    "code": "UP-56",
+                    "abv": "UP",
+                    "code_num": "56"
+                },
+                {
+                    "district": "Padrauna",
+                    "code": "UP-57",
+                    "abv": "UP",
+                    "code_num": "57"
+                },
+                {
+                    "district": "Sant Kabir Nagar",
+                    "code": "UP-58",
+                    "abv": "UP",
+                    "code_num": "58"
+                },
+                {
+                    "district": "to be alloted",
+                    "code": "UP-59",
+                    "abv": "UP",
+                    "code_num": "59"
+                },
+                {
+                    "district": "Ballia",
+                    "code": "UP-60",
+                    "abv": "UP",
+                    "code_num": "60"
+                },
+                {
+                    "district": "Ghazipur",
+                    "code": "UP-61",
+                    "abv": "UP",
+                    "code_num": "61"
+                },
+                {
+                    "district": "Jaunpur",
+                    "code": "UP-62",
+                    "abv": "UP",
+                    "code_num": "62"
+                },
+                {
+                    "district": "Jaunpur for taxis, private vehicle",
+                    "code": "UP-62T",
+                    "abv": "UP",
+                    "code_num": "62T"
+                },
+                {
+                    "district": "Mirzapur",
+                    "code": "UP-63",
+                    "abv": "UP",
+                    "code_num": "63"
+                },
+                {
+                    "district": "Sonbhadra",
+                    "code": "UP-64",
+                    "abv": "UP",
+                    "code_num": "64"
+                },
+                {
+                    "district": "Varanasi",
+                    "code": "UP-65",
+                    "abv": "UP",
+                    "code_num": "65"
+                },
+                {
+                    "district": "Bhadohi",
+                    "code": "UP-66",
+                    "abv": "UP",
+                    "code_num": "66"
+                },
+                {
+                    "district": "Chandauli",
+                    "code": "UP-67",
+                    "abv": "UP",
+                    "code_num": "67"
+                },
+                {
+                    "district": "to be alloted",
+                    "code": "UP-68",
+                    "abv": "UP",
+                    "code_num": "68"
+                },
+                {
+                    "district": "to be alloted",
+                    "code": "UP-69",
+                    "abv": "UP",
+                    "code_num": "69"
+                },
+                {
+                    "district": "Allahabad",
+                    "code": "UP-70",
+                    "abv": "UP",
+                    "code_num": "70"
+                },
+                {
+                    "district": "Fatehpur",
+                    "code": "UP-71",
+                    "abv": "UP",
+                    "code_num": "71"
+                },
+                {
+                    "district": "Pratapgarh",
+                    "code": "UP-72",
+                    "abv": "UP",
+                    "code_num": "72"
+                },
+                {
+                    "district": "Kaushambi",
+                    "code": "UP-73",
+                    "abv": "UP",
+                    "code_num": "73"
+                },
+                {
+                    "district": "Kannauj",
+                    "code": "UP-74",
+                    "abv": "UP",
+                    "code_num": "74"
+                },
+                {
+                    "district": "Etawah",
+                    "code": "UP-75",
+                    "abv": "UP",
+                    "code_num": "75"
+                },
+                {
+                    "district": "Etawah for government vehicles",
+                    "code": "UP-75G",
+                    "abv": "UP",
+                    "code_num": "75G"
+                },
+                {
+                    "district": "Farrukhabad",
+                    "code": "UP-76",
+                    "abv": "UP",
+                    "code_num": "76"
+                },
+                {
+                    "district": "Kanpur Dehat (rural)",
+                    "code": "UP-77",
+                    "abv": "UP",
+                    "code_num": "77"
+                },
+                {
+                    "district": "Kanpur Urban",
+                    "code": "UP-78",
+                    "abv": "UP",
+                    "code_num": "78"
+                },
+                {
+                    "district": "Kanpur Government Vehicles",
+                    "code": "UP-78G, AG, BG, CG- & so on",
+                    "abv": "UP",
+                    "code_num": "78G, AG, BG, CG"
+                },
+                {
+                    "district": "Kanpur CNG Vehicles",
+                    "code": "UP-78AN-, BN, CN & so on",
+                    "abv": "UP",
+                    "code_num": "78AN"
+                },
+                {
+                    "district": "Kanpur CNG Vehicles",
+                    "code": "UP-78AT, BT, CT & so on",
+                    "abv": "UP",
+                    "code_num": "78AT, BT, CT & so on"
+                },
+                {
+                    "district": "Auraiya",
+                    "code": "UP-79",
+                    "abv": "UP",
+                    "code_num": "79"
+                },
+                {
+                    "district": "Agra",
+                    "code": "UP-80",
+                    "abv": "UP",
+                    "code_num": "80"
+                },
+                {
+                    "district": "Aligarh",
+                    "code": "UP-81",
+                    "abv": "UP",
+                    "code_num": "81"
+                },
+                {
+                    "district": "Etah",
+                    "code": "UP-82",
+                    "abv": "UP",
+                    "code_num": "82"
+                },
+                {
+                    "district": "Firozabad",
+                    "code": "UP-83",
+                    "abv": "UP",
+                    "code_num": "83"
+                },
+                {
+                    "district": "Mainpuri",
+                    "code": "UP-84",
+                    "abv": "UP",
+                    "code_num": "84"
+                },
+                {
+                    "district": "Mathura",
+                    "code": "UP-85",
+                    "abv": "UP",
+                    "code_num": "85"
+                },
+                {
+                    "district": "Mahamaya Nagar",
+                    "code": "UP-86",
+                    "abv": "UP",
+                    "code_num": "86"
+                },
+                {
+                    "district": "Kanshiram Nagar",
+                    "code": "UP-87",
+                    "abv": "UP",
+                    "code_num": "87"
+                },
+                {
+                    "district": "to be alloted",
+                    "code": "UP-88",
+                    "abv": "UP",
+                    "code_num": "88"
+                },
+                {
+                    "district": "to be alloted",
+                    "code": "UP-89",
+                    "abv": "UP",
+                    "code_num": "89"
+                },
+                {
+                    "district": "Banda",
+                    "code": "UP-90",
+                    "abv": "UP",
+                    "code_num": "90"
+                },
+                {
+                    "district": "Hamirpur",
+                    "code": "UP-91",
+                    "abv": "UP",
+                    "code_num": "91"
+                },
+                {
+                    "district": "Jalaun",
+                    "code": "UP-92",
+                    "abv": "UP",
+                    "code_num": "92"
+                },
+                {
+                    "district": "Jhansi",
+                    "code": "UP-93",
+                    "abv": "UP",
+                    "code_num": "93"
+                },
+                {
+                    "district": "Jhansi for public transport",
+                    "code": "UP-93E",
+                    "abv": "UP",
+                    "code_num": "93E"
+                },
+                {
+                    "district": "Jhansi for government vehicles",
+                    "code": "UP-93AG",
+                    "abv": "UP",
+                    "code_num": "93AG"
+                },
+                {
+                    "district": "Lalitpur",
+                    "code": "UP-94",
+                    "abv": "UP",
+                    "code_num": "94"
+                },
+                {
+                    "district": "Mahoba",
+                    "code": "UP-95",
+                    "abv": "UP",
+                    "code_num": "95"
+                },
+                {
+                    "district": "Mahoba for commercial vehicles",
+                    "code": "UP-95B",
+                    "abv": "UP",
+                    "code_num": "95B"
+                },
+                {
+                    "district": "Mahoba for government vehicles",
+                    "code": "UP-95G",
+                    "abv": "UP",
+                    "code_num": "95G"
+                },
+                {
+                    "district": "Chitrakoot Dham (Karwi)",
+                    "code": "UP-96",
+                    "abv": "UP",
+                    "code_num": "96"
+                }
+            ]
+        },
+        {
+            "West Bengal": [
+                {
+                    "district": "Kolkata (twowheelers) exhausted",
+                    "code": "WB-01",
+                    "abv": "WB",
+                    "code_num": "01"
+                },
+                {
+                    "district": "Kolkata (private fourwheelers)",
+                    "code": "WB-02",
+                    "abv": "WB",
+                    "code_num": "02"
+                },
+                {
+                    "district": "Kolkata (goods carriages)",
+                    "code": "WB-03",
+                    "abv": "WB",
+                    "code_num": "03"
+                },
+                {
+                    "district": "Kolkata (passenger vehicles)",
+                    "code": "WB-04",
+                    "abv": "WB",
+                    "code_num": "04"
+                },
+                {
+                    "district": "Kolkata (tractors, trailers, cranes)",
+                    "code": "WB-05",
+                    "abv": "WB",
+                    "code_num": "05"
+                },
+                {
+                    "district": "Kolkata (private fourwheelers)",
+                    "code": "WB-06",
+                    "abv": "WB",
+                    "code_num": "06"
+                },
+                {
+                    "district": "Kolkata (twowheelers)",
+                    "code": "WB-07",
+                    "abv": "WB",
+                    "code_num": "07"
+                },
+                {
+                    "district": "Kolkata to be used",
+                    "code": "WB-08",
+                    "abv": "WB",
+                    "code_num": "08"
+                },
+                {
+                    "district": "Kolkata to be used",
+                    "code": "WB-09",
+                    "abv": "WB",
+                    "code_num": "09"
+                },
+                {
+                    "district": "Kolkata to be used",
+                    "code": "WB-10",
+                    "abv": "WB",
+                    "code_num": "10"
+                },
+                {
+                    "district": "Howrah (transport vehicles)",
+                    "code": "WB-11",
+                    "abv": "WB",
+                    "code_num": "11"
+                },
+                {
+                    "district": "Howrah (other than transport vehicles),",
+                    "code": "WB-12",
+                    "abv": "WB",
+                    "code_num": "12"
+                },
+                {
+                    "district": "Howrah to be used",
+                    "code": "WB-13",
+                    "abv": "WB",
+                    "code_num": "13"
+                },
+                {
+                    "district": "Howrah (other than transport vehicles) till WB14 K",
+                    "code": "WB-14",
+                    "abv": "WB",
+                    "code_num": "14"
+                },
+                {
+                    "district": "Hooghly (transport vehicles)",
+                    "code": "WB-15",
+                    "abv": "WB",
+                    "code_num": "15"
+                },
+                {
+                    "district": "Hooghly (other than transport vehicles) exhausted",
+                    "code": "WB-16",
+                    "abv": "WB",
+                    "code_num": "16"
+                },
+                {
+                    "district": "Hooghly (other than transport vehicles)",
+                    "code": "WB-18",
+                    "abv": "WB",
+                    "code_num": "18"
+                },
+                {
+                    "district": "South 24 Parganas, Alipore (transport vehicles)",
+                    "code": "WB-19",
+                    "abv": "WB",
+                    "code_num": "19"
+                },
+                {
+                    "district": "South 24 Parganas, Alipore (other than transport vehicles) exhausted for twowheelers",
+                    "code": "WB-20",
+                    "abv": "WB",
+                    "code_num": "20"
+                },
+                {
+                    "district": "South 24 Parganas, Alipore (other than transport vehicles)",
+                    "code": "WB-22",
+                    "abv": "WB",
+                    "code_num": "22"
+                },
+                {
+                    "district": "Barrackpore (transport vehicles)",
+                    "code": "WB-23",
+                    "abv": "WB",
+                    "code_num": "23"
+                },
+                {
+                    "district": "Barrackpore (other than transport vehicles)",
+                    "code": "WB-24",
+                    "abv": "WB",
+                    "code_num": "24"
+                },
+                {
+                    "district": "Barasat (transport vehicles)",
+                    "code": "WB-25",
+                    "abv": "WB",
+                    "code_num": "25"
+                },
+                {
+                    "district": "Barasat (other than transport vehicles)",
+                    "code": "WB-26",
+                    "abv": "WB",
+                    "code_num": "26"
+                },
+                {
+                    "district": "Tamluk (transport vehicles)",
+                    "code": "WB-29",
+                    "abv": "WB",
+                    "code_num": "29"
+                },
+                {
+                    "district": "Tamluk (other than transport vehicles)",
+                    "code": "WB-30",
+                    "abv": "WB",
+                    "code_num": "30"
+                },
+                {
+                    "district": "Contai (transport vehicles)",
+                    "code": "WB-31",
+                    "abv": "WB",
+                    "code_num": "31"
+                },
+                {
+                    "district": "Contai (other than transport vehicles)",
+                    "code": "WB-32",
+                    "abv": "WB",
+                    "code_num": "32"
+                },
+                {
+                    "district": "Midnapur (transport vehicles)",
+                    "code": "WB-33",
+                    "abv": "WB",
+                    "code_num": "33"
+                },
+                {
+                    "district": "Midnapur (other than transport vehicles)",
+                    "code": "WB-34",
+                    "abv": "WB",
+                    "code_num": "34"
+                },
+                {
+                    "district": "Asansol (transport vehicles)",
+                    "code": "WB-37",
+                    "abv": "WB",
+                    "code_num": "37"
+                },
+                {
+                    "district": "Asansol (other than transport vehicles)",
+                    "code": "WB-38",
+                    "abv": "WB",
+                    "code_num": "38"
+                },
+                {
+                    "district": "Durgapur (transport vehicles)",
+                    "code": "WB-39",
+                    "abv": "WB",
+                    "code_num": "39"
+                },
+                {
+                    "district": "Durgapur (other than transport vehicles)",
+                    "code": "WB-40",
+                    "abv": "WB",
+                    "code_num": "40"
+                },
+                {
+                    "district": "Burdwan (transport vehicles)",
+                    "code": "WB-41",
+                    "abv": "WB",
+                    "code_num": "41"
+                },
+                {
+                    "district": "Burdwan (other than transport vehicles)",
+                    "code": "WB-42",
+                    "abv": "WB",
+                    "code_num": "42"
+                },
+                {
+                    "district": "Asansol (other than transport vehicles)",
+                    "code": "WB-44",
+                    "abv": "WB",
+                    "code_num": "44"
+                },
+                {
+                    "district": "Nadia (transport vehicles)",
+                    "code": "WB-51",
+                    "abv": "WB",
+                    "code_num": "51"
+                },
+                {
+                    "district": "Nadia (other than transport vehicles)",
+                    "code": "WB-52",
+                    "abv": "WB",
+                    "code_num": "52"
+                },
+                {
+                    "district": "Birbhum (transport vehicles)",
+                    "code": "WB-53",
+                    "abv": "WB",
+                    "code_num": "53"
+                },
+                {
+                    "district": "Birbhum (other than transport vehicles)",
+                    "code": "WB-54",
+                    "abv": "WB",
+                    "code_num": "54"
+                },
+                {
+                    "district": "Purulia (transport vehicles)",
+                    "code": "WB-55",
+                    "abv": "WB",
+                    "code_num": "55"
+                },
+                {
+                    "district": "Purulia (other than transport vehicles)",
+                    "code": "WB-56",
+                    "abv": "WB",
+                    "code_num": "56"
+                },
+                {
+                    "district": "Murshidabad (transport vehicles)",
+                    "code": "WB-57",
+                    "abv": "WB",
+                    "code_num": "57"
+                },
+                {
+                    "district": "Murshidabad (other than transport vehicles)",
+                    "code": "WB-58",
+                    "abv": "WB",
+                    "code_num": "58"
+                },
+                {
+                    "district": "Raiganj (transport vehicles)",
+                    "code": "WB-59",
+                    "abv": "WB",
+                    "code_num": "59"
+                },
+                {
+                    "district": "Raiganj (other than transport vehicles)",
+                    "code": "WB-60",
+                    "abv": "WB",
+                    "code_num": "60"
+                },
+                {
+                    "district": "Balurghat (transport vehicles)",
+                    "code": "WB-61",
+                    "abv": "WB",
+                    "code_num": "61"
+                },
+                {
+                    "district": "Balurghat (other than transport vehicles)",
+                    "code": "WB-62",
+                    "abv": "WB",
+                    "code_num": "62"
+                },
+                {
+                    "district": "Cooch Behar (transport vehicles)",
+                    "code": "WB-63",
+                    "abv": "WB",
+                    "code_num": "63"
+                },
+                {
+                    "district": "Cooch Behar (other than transport vehicles)",
+                    "code": "WB-64",
+                    "abv": "WB",
+                    "code_num": "64"
+                },
+                {
+                    "district": "Malda (transport vehicles)",
+                    "code": "WB-65",
+                    "abv": "WB",
+                    "code_num": "65"
+                },
+                {
+                    "district": "Malda (other than transport vehicles)",
+                    "code": "WB-66",
+                    "abv": "WB",
+                    "code_num": "66"
+                },
+                {
+                    "district": "Bankura (transport vehicles)",
+                    "code": "WB-67",
+                    "abv": "WB",
+                    "code_num": "67"
+                },
+                {
+                    "district": "Bankura (other than transport vehicles)",
+                    "code": "WB-68",
+                    "abv": "WB",
+                    "code_num": "68"
+                },
+                {
+                    "district": "Alipurduar (transport vehicles)",
+                    "code": "WB-69",
+                    "abv": "WB",
+                    "code_num": "69"
+                },
+                {
+                    "district": "Alipurduar (other than transport vehicles)",
+                    "code": "WB-70",
+                    "abv": "WB",
+                    "code_num": "70"
+                },
+                {
+                    "district": "Jalpaiguri (transport vehicles)",
+                    "code": "WB-71",
+                    "abv": "WB",
+                    "code_num": "71"
+                },
+                {
+                    "district": "Jalpaiguri (other than transport vehicles)",
+                    "code": "WB-72",
+                    "abv": "WB",
+                    "code_num": "72"
+                },
+                {
+                    "district": "Siliguri (transport vehicles)",
+                    "code": "WB-73",
+                    "abv": "WB",
+                    "code_num": "73"
+                },
+                {
+                    "district": "Siliguri (other than transport vehicles)",
+                    "code": "WB-74",
+                    "abv": "WB",
+                    "code_num": "74"
+                },
+                {
+                    "district": "Darjeeling (transport vehicles)",
+                    "code": "WB-76",
+                    "abv": "WB",
+                    "code_num": "76"
+                },
+                {
+                    "district": "Darjeeling (other than transport vehicles)",
+                    "code": "WB-77",
+                    "abv": "WB",
+                    "code_num": "77"
+                },
+                {
+                    "district": "Kalimpong (transport vehicles)",
+                    "code": "WB-78",
+                    "abv": "WB",
+                    "code_num": "78"
+                },
+                {
+                    "district": "Kalimpong (other than transport vehicles)",
+                    "code": "WB-79",
+                    "abv": "WB",
+                    "code_num": "79"
+                }
+            ]
+        },
+        {
+            "Andaman And Nicobar Islands": []
+        },
+        {
+            "Chandigarh": []
+        },
+        {
+            "Dadra And Nagar Haveli": []
+        },
+        {
+            "Daman And Diu": []
+        },
+        {
+            "Lakshadweep": []
+        },
+        {
+            "Delhi": []
+        },
+        {
+            "Puducherry": []
+        }
+    ]
+}
