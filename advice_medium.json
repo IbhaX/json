@@ -1,0 +1,410 @@
+{
+    "advices": {
+        "work": [
+            {
+                "advice": "Cut back from 1-hour meetings",
+                "description": "No one likes meetings, especially the longer ones. Focus on meetings to be 30 minutes max, it keeps things concise and efficient."
+            },
+            {
+                "advice": "Walk like Steve Jobs",
+                "description": "Steve loved to have important talks while walking. This keeps conversations more flexible and easier process for brainstorming if needed to be. Not to mention we could all use more exercise in our life."
+            },
+            {
+                "advice": "Visualize your success",
+                "description": "There are conducted studies that have shown that people who practice and visualize their success were more likely to reach it than people who just practiced. It helps with job interviews, relationships, and hobbies."
+            },
+            {
+                "advice": "Listen more",
+                "description": "You\u2019ve probably heard this one a lot. Always seek to understand before having an opinion. You have two ears and one mouth. There\u2019s a reason for that."
+            },
+            {
+                "advice": "Limit your daily tasks",
+                "description": "I\u2019ve mentioned this before and what I stick to in The One Step Journal, just stick with 3 tasks you want to achieve today. Keep asking yourself \u2018Do I really need to do this today?\u2019"
+            },
+            {
+                "advice": "Set goals",
+                "description": "Don\u2019t expect to achieve anything if you don\u2019t know what your end goal is supposed to be. Set destination, then set sail."
+            },
+            {
+                "advice": "Celebrate all the successes",
+                "description": "no matter how small, a win is a win, especially when we take losses harder than we should. Take advantage of it."
+            },
+            {
+                "advice": "Ask yourself why more often",
+                "description": "One of the best questions to understand this world and we don\u2019t ask it enough. This will help find your path towards your happiness."
+            },
+            {
+                "advice": "Play to your strengths",
+                "description": "You\u2019ll be good in certain aspect in life and terrible in others. Find out what you\u2019re good at and make it a priority in every situation you can."
+            },
+            {
+                "advice": "Don\u2019t burn bridges",
+                "description": "This world is smaller than you think, especially if you\u2019re in a niche market. Not everyone needs to know you dislike them. Find humor in the faults and move on."
+            },
+            {
+                "advice": "View challenges as opportunities",
+                "description": "This is how we improve as a person because life has constant challenges every day. There really isn\u2019t an excuse to be the same person year after year."
+            },
+            {
+                "advice": "Find a way to shorten your commute",
+                "description": "it\u2019s one of the biggest time sinks in our life and it\u2019s not healthy either. Really consider this in your career, your future self will thank you."
+            },
+            {
+                "advice": "Test what you know",
+                "description": "In the marketing field, there\u2019s always testing to make sure the correct image or words brings the best results. This can be applied to every field. If there\u2019s an alternative, try to find out if it\u2019s better."
+            },
+            {
+                "advice": "Be willing to try something at least once",
+                "description": "Never get stuck with those \u2018what if\u2019 questions. If you want to venture into a different career or try a new hobby, do the smallest things you can experience."
+            },
+            {
+                "advice": "Always give credit",
+                "description": "People can be upset for using their stuff without permission, but they will be more willing to forgive if you always give credit where it is due. Always be a team player."
+            },
+            {
+                "advice": "Every person has experienced something that you haven\u2019t",
+                "description": "Be nice to people, you don\u2019t know if they can help you with your career later in life."
+            },
+            {
+                "advice": "Make decisions based on data if you can",
+                "description": "Numbers don\u2019t lie"
+            },
+            {
+                "advice": "Trust your gut",
+                "description": "Data-based decisions are only helpful if you have data, if not, always trust your gut."
+            },
+            {
+                "advice": "Follow the 80/20 rule",
+                "description": "20% of your work will bring 80% of your results. Find that 20% work and focus on that."
+            },
+            {
+                "advice": "Use the 10-year test",
+                "description": "The 10-year test is simply asking yourself \u2018Will this matter in 10 days, 10 months, or years?\u2019 If yes, then consider it a priority, if not, it\u2019s not that big of a deal."
+            },
+            {
+                "advice": "Do what you love",
+                "description": "life is really short, if you don\u2019t love the work you\u2019re doing or isn\u2019t leading to the work that you\u2018ll enjoy, then it\u2019s not worth doing."
+            },
+            {
+                "advice": "Focus on making an impact",
+                "description": "Make your work meaningful and if your work isn\u2019t, do something about it. Ask yourself \u2018If this was my last day, would I feel content?\u2019"
+            },
+            {
+                "advice": "Take initiative",
+                "description": "I\u2019ve had problems with this and that\u2019s making an impact without being told what to do. This separates successful from the mediocre"
+            },
+            {
+                "advice": "Build a personal brand",
+                "description": "It\u2019s the best way to get other people to understand who you are as a professional. Make an effort in your industry\u2019s community. There are tons of groups to be a part of that are one google search away."
+            },
+            {
+                "advice": "Get on LinkedIn",
+                "description": "In this day and age, it\u2019s never been easier for a recruiter or to network with the people who can help your career the most. It\u2019s really become the digital resume."
+            },
+            {
+                "advice": "Make an effort to network",
+                "description": "this goes hand in hand with my previous tip. Networking is a lot like finding friends, you find something you have in common and able to help each other out with questions or with someone else you know."
+            },
+            {
+                "advice": "Stay humble",
+                "description": "Remember where you came from and there\u2019s always someone better than you at something."
+            },
+            {
+                "advice": "Never fear failure",
+                "description": "My biggest failures have been always the most life-changing. People like J.K. Rowling, author of the Harry Potter series got a constant rejection from publishers, Steve Jobs lost Apple, Oprah got fired at 23. Not all of those failures stopped them from being successful."
+            },
+            {
+                "advice": "Have Heros",
+                "description": "On your path to success, you\u2019ll find people who believe in you. Embrace them, even if it\u2019s just your mom."
+            },
+            {
+                "advice": "Embrace the haters",
+                "description": "You\u2019ll have people who doubt you. Let this be a motivation to make them wrong."
+            },
+            {
+                "advice": "Be transparent whenever possible",
+                "description": "This is a personal philosophy of mine. People will be more empathetic and forgiving if you communicate why you\u2019ve made your choices. People can get the wrong idea if you\u2019re not communicating properly."
+            },
+            {
+                "advice": "Get a standing desk when you can",
+                "description": "Sitting has really become the new smoking in this generation."
+            },
+            {
+                "advice": "Work smart",
+                "description": "If you don\u2019t want to work hard, work smart. This is how you get things down with the least amount of energy possible."
+            },
+            {
+                "advice": "Find mentors who are living the life you want",
+                "description": "This is great networking as well as someone to help you be accountable in where you want to be in life."
+            }
+        ],
+        "life_tips": [
+            {
+                "advice": "Freeze your fruits & vegetables",
+                "description": "It\u2019ll keep them lasting longer and easily used in smoothies, soups, and stews."
+            },
+            {
+                "advice": "Look into cheaper entertainment",
+                "description": "Use Netflix or youtube over cable, library over the bookstore."
+            },
+            {
+                "advice": "Clean your house once a month",
+                "description": "Declutter the house, declutter the mind. If you haven\u2019t used something in over a year, donate it."
+            },
+            {
+                "advice": "Have happy reminders",
+                "description": "a quick video or image that will instantly make you smile will improve your happiness."
+            },
+            {
+                "advice": "Get a chapstick keychain",
+                "description": "never lose it again"
+            },
+            {
+                "advice": "Host events",
+                "description": "the fastest way to build a relationship with as many people as possible. On a budget? Make a potluck."
+            },
+            {
+                "advice": "Invest in a good mattress",
+                "description": "You\u2019ll be spending a third of your life on it, make it count."
+            },
+            {
+                "advice": "Iron a shirt without an iron",
+                "description": "If you don\u2019t have an iron, hang up your clothes in the bathroom while taking a hot shower. Afterward, blow it dry with a hairdryer."
+            },
+            {
+                "advice": "Arrive at least 2 hours before your flight time",
+                "description": "especially if it\u2019s international; murphy\u2019s law like to happen."
+            },
+            {
+                "advice": "Pack food for your flight",
+                "description": "it\u2019s more cost-effective and probably healthier"
+            },
+            {
+                "advice": "Move to reduce turbulence",
+                "description": "whenever you\u2019re hitting turbulence on a flight, move your body side-to-side and you\u2019ll feel less of it."
+            },
+            {
+                "advice": "Charge your phone faster",
+                "description": "Put it on airplane mode and it\u2019ll charge faster"
+            },
+            {
+                "advice": "Get an extra battery pack",
+                "description": "in a worst-case scenario, having a dead phone can be a life or death situation."
+            },
+            {
+                "advice": "Remove as many processed foods as you can",
+                "description": "The more fruits and vegetables you eat, the healthier you will be."
+            },
+            {
+                "advice": "Don\u2019t live someone else\u2019s life",
+                "description": "learn to have your own passions, thoughts, and goals. This is your life."
+            },
+            {
+                "advice": "Reduce the caffeine",
+                "description": "chances are you drink too much coffee and/or soda in your diet. Look into exercise, meditation, or drinking water to feel focused and awake."
+            },
+            {
+                "advice": "Slow down",
+                "description": "I completely understand there\u2019s only so much time in a day. This is also a great way to burn yourself out and not think properly."
+            },
+            {
+                "advice": "Color code your keys",
+                "description": "With so many keys, it\u2019s hard to remember what they all are. Green for the apartment, red for garage door, etc. They\u2019re everywhere on amazon or use paint."
+            },
+            {
+                "advice": "Use a small garbage can in your car",
+                "description": "We get messy and we all know our cars can become a second home of storage. It\u2019s a great way to keep it clean."
+            },
+            {
+                "advice": "Hang a tennis ball in your garage",
+                "description": "A friend always had problems getting his car in straight until he has done this. Now he knows when to stop moving forward."
+            },
+            {
+                "advice": "Remove odors with newspaper",
+                "description": "This surprisingly works well, keeping shoes from getting putrid."
+            }
+        ],
+        "life_lessons": [
+            {
+                "advice": "Learn something new every day",
+                "description": "This can be a new language, a skill, a trivial fact, this will make me become an interesting and a better person."
+            },
+            {
+                "advice": "Remember people\u2019s names",
+                "description": "People are more likely to like you if you say their name to them. It shows that you care and can recognize their presence."
+            },
+            {
+                "advice": "Focus more on the present",
+                "description": "Don\u2019t regret the past and don\u2019t be anxious about the future. Appreciate what is happening right now."
+            },
+            {
+                "advice": "Listen to your body",
+                "description": "sleep when you\u2019re tired, stretch when you feel stiff, stop eating that 2nd hamburger when you're full."
+            },
+            {
+                "advice": "Learn to forgive",
+                "description": "Mistakes happen and judges never benefit you. Just move on to what the future brings."
+            },
+            {
+                "advice": "Read more",
+                "description": "No one regrets reading more than they should. It improves attention span, creativity, comprehension, and so much more. They\u2019re always better than the movies as well."
+            },
+            {
+                "advice": "You are the 5 people you surround yourself with",
+                "description": "So surround yourself with people that inspire you."
+            },
+            {
+                "advice": "Learn to say no",
+                "description": "There\u2019s only so much time in the day, only say yes to those that bring the most benefits."
+            },
+            {
+                "advice": "Travel whenever you can",
+                "description": "The greatest experiences are seeing other cultures and getting a new perspective on life."
+            },
+            {
+                "advice": "Follow your gut",
+                "description": "Never compromise who you are as a person, if a situation doesn\u2019t make you comfortable, it\u2019s not a situation worth being in."
+            },
+            {
+                "advice": "Don\u2019t fear change",
+                "description": "This is how we improve and nothing stays the same forever. Embrace it"
+            },
+            {
+                "advice": "Clean during the moment",
+                "description": "Instead of cleaning the whole house in one go, take a few minutes every day to clean a room or even a smaller area."
+            },
+            {
+                "advice": "Silence can be golden",
+                "description": "You don\u2019t need to fill up with words when silence has its own voice."
+            },
+            {
+                "advice": "When in doubt, say, \u201cLet me think about that.\u201d",
+                "description": "This a polite way to get more time to think about something and lets the person in question know you\u2019re taking it seriously."
+            },
+            {
+                "advice": "Do the important task first",
+                "description": "You don\u2019t need me to tell you this, if it didn\u2019t need to do then it wasn\u2019t important, to begin with."
+            },
+            {
+                "advice": "Use the \u2018We\u2019ll see\u2019 method",
+                "description": "When something horrible has happened in your life, say \u2018We\u2019ll see\u2019 because sometimes things must fall apart to fall into place."
+            },
+            {
+                "advice": "Meditate more",
+                "description": "Such a great way to relieve stress, anger, and concentration."
+            },
+            {
+                "advice": "Understand that most people don\u2019t care about you",
+                "description": "and that\u2019s okay. There\u2019s no worry to care what others think."
+            },
+            {
+                "advice": "There are people who care about you",
+                "description": "those are the ones who need to seek the most."
+            },
+            {
+                "advice": "Pack your clothes by rolling them",
+                "description": "you\u2019ll get a lot more space to hold more. Amazing when traveling."
+            },
+            {
+                "advice": "You are in charge of your life",
+                "description": "Figure out what makes you happy and do everything you can to keep it that way."
+            },
+            {
+                "advice": "Compliment yourself every day",
+                "description": "positivity can really change your outlook on life. Be proud of yourself."
+            },
+            {
+                "advice": "Take a deep breath",
+                "description": "realize how far you\u2019ve come in life. Ya, there were a lot of things you\u2019ve accomplished."
+            },
+            {
+                "advice": "Happiness is a state of mind, not a destination",
+                "description": "If you think \u201conce I have _____ I\u2019ll be happy\u201d. You\u2019re going to find out that happiness can only come from within."
+            },
+            {
+                "advice": "YOLO",
+                "description": "You truly only live once, don\u2019t regret anything you can do today."
+            },
+            {
+                "advice": "Underpromise and overdeliver",
+                "description": "Reliability is a virtue. So many people do the opposite, don\u2019t be one of them."
+            },
+            {
+                "advice": "Be fearless",
+                "description": "Fear is what stops us from our dreams. Never let that stop you."
+            },
+            {
+                "advice": "Be in a relationship with your best friend",
+                "description": "It\u2019s all about compromises and loving someone for who they are."
+            },
+            {
+                "advice": "Be curious",
+                "description": "it\u2019ll open your mind and bring more passion to your life once you understand how things are in this world."
+            },
+            {
+                "advice": "Think about how you can help others",
+                "description": "It\u2019s how others will remember you first and foremost."
+            },
+            {
+                "advice": "Time is the most valuable thing you can spend in this world",
+                "description": "You never be able to get it back no matter what."
+            },
+            {
+                "advice": "Someone else\u2019s success might not work for you",
+                "description": "We\u2019re all on a different path, and sometimes we need to go backward in order to go forward."
+            },
+            {
+                "advice": "Get an idea jar",
+                "description": "whenever you think of something fun, but don\u2019t have the time for it, write it down and put it in a jar. When you\u2019re bored, take one out and do it."
+            },
+            {
+                "advice": "Don\u2019t suppress emotions",
+                "description": "This is unhealthy and only makes everything worse."
+            },
+            {
+                "advice": "Be willing to smile more \u2014 it makes you happier, it\u2019s contagious, lowers stress, more trustworthy, and more competent",
+                "description": "all costing you nothing."
+            },
+            {
+                "advice": "Always keep it simple",
+                "description": "Don\u2019t make things harder than they have to be. Simplify everything when possible."
+            },
+            {
+                "advice": "Don\u2019t get attached to stuff",
+                "description": "Nothing lasts forever, so don\u2019t base your happiness on materialistic things."
+            },
+            {
+                "advice": "Choose experience over things",
+                "description": "The impact they have over your life will last you a lifetime guaranteed."
+            },
+            {
+                "advice": "Don\u2019t compare yourself",
+                "description": "just compare yourself to you were yesterday"
+            },
+            {
+                "advice": "Do something for someone",
+                "description": "It\u2019s the easiest way to make someone show that you care. There are tons of ideas on Pinterest."
+            },
+            {
+                "advice": "Love yourself first",
+                "description": "It\u2019s a cliche that you need to love yourself first before you can love others. The more comfortable you are with yourself, the better you can love someone else."
+            },
+            {
+                "advice": "Words have more power than you think",
+                "description": "Say \u2018There is a problem with the project\u2019 compared to \u2018There\u2019s an opportunity to make the project better\u2019. Which one sounds better?"
+            },
+            {
+                "advice": "Learn to let go",
+                "description": "you may have noticed I said that previously, but it\u2019s that important."
+            },
+            {
+                "advice": "Everyone has a story",
+                "description": "Everyone has experienced your problems at least once in their life. Do a quick google search about a problem you have, there\u2019s a good chance someone has asked that somewhere. Learn from it."
+            },
+            {
+                "advice": "Share your wisdom",
+                "description": "Just like I do because this is what truly makes the world go round and makes it better for future generations."
+            }
+        ]
+    }
+}
