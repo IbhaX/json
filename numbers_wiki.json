@@ -1,0 +1,91 @@
+{
+    "numbers": {
+        "mathematically_significant": {
+            "data": {
+                "1": "the multiplicative identity. Also the only natural number (not including 0) that isn't prime or composite.",
+                "2": "the base of the binary number system  used in almost all modern computers and information systems.",
+                "3": "22-1  the first Mersenne prime. It is the first odd prime  and it is also the 2 bit integer maximum value.",
+                "4": "the first composite number",
+                "6": "the first of the series of perfect numbers  whose proper factors sum to the number itself.",
+                "9": "the first odd number that is composite",
+                "11": "the fifth prime and first palindromic multi-digit number in base 10.",
+                "12": "the first sublime number.",
+                "17": "the sum of the first 4 prime numbers  and the only prime which is the sum of 4 consecutive primes.",
+                "24": "all Dirichlet characters mod n are real if and only if n is a divisor of 24.",
+                "25": "the first centered square number besides 1 that is also a square number.",
+                "27": "the cube of 3  the value of 33.",
+                "28": "the second perfect number.",
+                "30": "the smallest sphenic number.",
+                "32": "the smallest nontrivial fifth power.",
+                "36": "the smallest number which is perfect power but not prime power.",
+                "72": "the smallest Achilles number.",
+                "255": "28 \u2212 1  the smallest perfect totient number that is neither a power of three nor thrice a prime; it is also the largest number that can be represented using an 8-bit unsigned integer",
+                "341": "the smallest base 2 Fermat pseudoprime.",
+                "496": "the third perfect number.",
+                "1729": "the Hardy\u2013Ramanujan number  also known as the second taxicab number; that is  the smallest positive integer that can be written as the sum of two positive cubes in two different ways.[1]",
+                "8128": "the fourth perfect number.",
+                "142857": "the smallest base 10 cyclic number.",
+                "9814072356": "the largest perfect power that contains no repeated digits in base ten."
+            }
+        },
+        "culturally_significant": {
+            "data": {
+                "3": "significant in Christianity as the Trinity. Also considered significant in Hinduism (Trimurti  Tridevi). Holds significance in a number of ancient mythologies.",
+                "4": "considered an \"unlucky\" number in modern China  Japan and Korea due to its audible similarity to the word \"death\".",
+                "7": "the number of days in a week  and considered a \"lucky\" number in Western cultures.",
+                "8": "considered a \"lucky\" number in Chinese culture due to its aural similarity to the term for prosperity.",
+                "12": "a common grouping known as a dozen and the number of months in a year  of constellations of the Zodiac and astrological signs and of Apostles of Jesus.",
+                "13": "considered an \"unlucky\" number in Western superstition. Also known as a \"Baker's Dozen\".",
+                "17": "considered ill-fated in Italy and other countries of Greek and Latin origins.",
+                "18": "considered a \"lucky\" number due to it being the value for life in Jewish numerology.",
+                "40": "considered a significant number in Tengrism and Turkish folklore. Multiple customs  such as those relating to how many days one must visit someone after a death in the family  include the number forty.",
+                "42": "the \"answer to the ultimate question of life  the universe  and everything\" in the popular 1979 science fiction work The Hitchhiker's Guide to the Galaxy.",
+                "69": "used as slang to refer to a sexual act.",
+                "86": "a slang term that is used in the American popular culture as a transitive verb to mean throw out or get rid of.[3]",
+                "108": "considered sacred by the Dharmic religions. Approximately equal to the ratio of the distance from Earth to Sun and diameter of the Sun.",
+                "420": "a code-term that refers to the consumption of cannabis.",
+                "666": "the Number of the beast from the Book of Revelation.",
+                "786": "regarded as sacred in the Muslim Abjad numerology.",
+                "5040": "mentioned by Plato in the Laws as one of the most important numbers for the city."
+            }
+        },
+        "measurement": {
+            "data": {
+                "10": "the number of digits in the decimal number system.",
+                "12": "the number base for measuring time in many civilizations.",
+                "14": "the number of days in a fortnight.",
+                "16": "the number of digits in the hexadecimal number system.",
+                "24": "number of hours in a day",
+                "31": "the number of days most months of the year have.",
+                "60": "the number base for some ancient counting systems  such as the Babylonians'  and the basis for many modern measuring systems.",
+                "360": "the number of sexagesimal degrees in a full circle.",
+                "365": "the number of days in the common year  while there are 366 days in a leap year of the solar Gregorian calendar."
+            }
+        },
+        "computing": {
+            "data": {
+                "8": "the number of bits in an octet.",
+                "256": "The number of possible combinations within 8 bits  or an octet.",
+                "1024": "the number of bytes in a kibibyte. It's also the number of bits in a kibibit.",
+                "65535": "216 \u2212 1  the maximum value of a 16-bit unsigned integer.",
+                "65536": "216  the number of possible 16-bit combinations.",
+                "65537": "216 + 1  the most popular RSA public key prime exponent in most SSL/TLS certificates on the Web/Internet.",
+                "16777216": "224  or 166; the hexadecimal \"million\" (0x1000000)  and the total number of possible color combinations in 24/32-bit True Color computer graphics.",
+                "2147483647": "231 \u2212 1  the maximum value of a 32-bit signed integer using two's complement representation.",
+                "9223372036854775807": "263 \u2212 1  the maximum value of a 64-bit signed integer using two's complement representation."
+            }
+        },
+        "not_known_with_high_precision": {
+            "data": [
+                "The constant in the Berry\u2013Esseen Theorem: 0.4097 < C < 0.4748",
+                "De Bruijn\u2013Newman constant: 0 \u2264 \u039b \u2264 0.2",
+                "Chaitin's constants \u03a9, which are transcendental and provably impossible to compute.",
+                "Bloch's constant (also 2nd Landau's constant): 0.4332 < B < 0.4719",
+                "1st Landau's constant: 0.5 < L < 0.5433",
+                "3rd Landau's constant: 0.5 < A \u2264 0.7853",
+                "Grothendieck constant: 1.67 < k < 1.79",
+                "Romanov's constant in Romanov's theorem: 0.107648 < d < 0.49094093, Romanov conjectured that it is 0.434"
+            ]
+        }
+    }
+}
