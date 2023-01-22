@@ -1,2 +1,2 @@
 # JSON Datasets
-**Collection of json Datasets scraped from different sources**
+**Collection of json datasets scraped from various sources**
