@@ -1,0 +1,516 @@
+{
+    "facts": [
+        {
+            "fact": "Mister Rogers always mentioned out loud that he was feeding his fish",
+            "desc": "He did this because a young blind viewer once asked him to do so. She wanted to know the fish were OK."
+        },
+        {
+            "fact": "Boring, Oregon, and Dull, Scotland, have been sister cities since 2012",
+            "desc": "In 2017, they added Bland Shire, Australia, to their \"League of Extraordinary Communities.\""
+        },
+        {
+            "fact": "Amelia Earhart and Eleanor Roosevelt once sneaked out of a White House event and commandeered an airplane",
+            "desc": "The two women went on a joyride to Baltimore."
+        },
+        {
+            "fact": "If you have the feeling you\u2019ve experienced an event before in real life, call it de\u0301ja\u0300 vu",
+            "desc": "If you feel like you\u2019ve previously experienced an event in a dream instead, there\u2019s a different term for it: d\u00e9j\u00e0 r\u00eav\u00e9."
+        },
+        {
+            "fact": "During Prohibition, moonshiners would wear \"cow shoes \"",
+            "desc": "The fancy footwear left hoofprints instead of footprints, helping distillers and smugglers evade police."
+        },
+        {
+            "fact": "Since founding the Imagination Library in 1995, Dolly Parton has donated 100 million books to children",
+            "desc": "The program was originally in Tennessee, but it has since spread worldwide."
+        },
+        {
+            "fact": "The 100 folds in a chef's toque are said to represent 100 ways to cook an egg",
+            "desc": "Here are some tips on  how to cook perfect eggs."
+        },
+        {
+            "fact": "In curling, good sportsmanship and politeness are essential",
+            "desc": "Congratulating opponents and abstaining from trash talk are part of what's known as the \"Spirit of Curling.\""
+        },
+        {
+            "fact": "In 1974, the Journal of Applied Behavior Analysis published a paper titled \"The Unsuccessful Self-Treatment of a Case of 'Writer's Block \"",
+            "desc": "It contained a total of zero words."
+        },
+        {
+            "fact": "/ AleksandarGeorgiev/Getty Images",
+            "desc": "This is perhaps not one of the many historical reasons to grow a beard."
+        },
+        {
+            "fact": "George Washington served an eggnog-like drink to visitors at Mount Vernon",
+            "desc": " His recipe included rye whiskey, rum, and sherry."
+        },
+        {
+            "fact": "Some cats are allergic to humans",
+            "desc": "Yes, you may be the reason your cat is sneezing."
+        },
+        {
+            "fact": "Queen Elizabeth II is a trained mechanic",
+            "desc": "In 1945, at just 18 years old,  Queen Elizabeth joined the women's Auxiliary Territorial Service, where she trained as a truck driver and mechanic."
+        },
+        {
+            "fact": "Volvo gave away the 1962 patent for their revolutionary three-point seat belt for free",
+            "desc": "The company did this to save lives."
+        },
+        {
+            "fact": "Tsundoku is the act of acquiring books and not reading them",
+            "desc": "There\u2019s no shame in having a large to-be-read pile!"
+        },
+        {
+            "fact": "Ravens in captivity can learn to talk",
+            "desc": "The  clever corvids can mimic several other sounds."
+        },
+        {
+            "fact": "Bela Lugosi was buried in full Dracula costume",
+            "desc": "Cape and all."
+        },
+        {
+            "fact": "/ magnez2/Getty Images",
+            "desc": "The first two tell you the nearest street, and the next two tell you whether you're closer to the east or west side of the park (even numbers signal east, odd signals west)."
+        },
+        {
+            "fact": "A teacher wrote of a young Roald Dahl on his school report card: \"I have never met anybody who so persistently writes words meaning the exact opposite of what is intended \"",
+            "desc": "The writer did have a knack for coming up with  nonsense words."
+        },
+        {
+            "fact": "The only Blockbuster store in the world that is still operating is in Bend, Oregon",
+            "desc": "At one point, there were more than 9000  Blockbuster stores in the U.S."
+        },
+        {
+            "fact": "Blood donors in Sweden receive a thank you text when their blood is used",
+            "desc": "The message is along the lines of \u201cThank you, the blood you gave is now benefiting a patient.\u201d"
+        },
+        {
+            "fact": "Kea parrots warble together when they're in a good mood",
+            "desc": "They\u2019re the first known non-mammal species to communicate with infectious laughter."
+        },
+        {
+            "fact": "Long before rap battles, there was flyting, the exchange of witty, insulting verses",
+            "desc": "The verbal throwdowns were popular in England and Scotland from the 5th to 16th centuries."
+        },
+        {
+            "fact": "Melbourne gave some of its trees email addresses so residents could report problems",
+            "desc": "Instead, the trees received love letters."
+        },
+        {
+            "fact": "An estimated 1 million dogs in the U S  have been named primary beneficiary in their owners' wills",
+            "desc": "Leaving a  pet money in a will can get a bit legally complicated."
+        },
+        {
+            "fact": "At Petrified Forest National Park, visitors sometimes break the rules (and the law) by taking rocks home with them",
+            "desc": "According to rangers, they often end up returning the stolen goods in the mail\u2014along with an apology note."
+        },
+        {
+            "fact": "The Russians showed up 12 days late to the 1908 Olympics in London",
+            "desc": "They were using the Julian calendar instead of the Gregorian calendar."
+        },
+        {
+            "fact": "Maya Angelou was the first Black female streetcar conductor in San Francisco",
+            "desc": "She began working that job when she was 16."
+        },
+        {
+            "fact": "J K  Simmons has been the voice of the Yellow Peanut M&M since the late 1990s",
+            "desc": "M&M\u2019s have a long, interesting history."
+        },
+        {
+            "fact": "Count von Count's love of numbers isn't just a quirky character trait",
+            "desc": "In traditional vampire folklore, the bloodsuckers have arithmomania, a compulsion to count."
+        },
+        {
+            "fact": "In Great Britain and Japan, black cats are perceived as auspicious",
+            "desc": "In the English Midlands, new brides are given  black cats to bless their marriage, and the Japanese believe that black cats are good luck\u2014particularly for single women."
+        },
+        {
+            "fact": "Portland was named by a coin flip",
+            "desc": "Had the coin landed the other way, the city would be Boston, Oregon."
+        },
+        {
+            "fact": "During World War I, a Canadian soldier made a black bear his pet",
+            "desc": "He named her Winnipeg. \u201cWinnie\u201d was later a resident of the London Zoological Gardens where she was an adored attraction, especially to a boy named Christopher Robin Milne, the son of A. A. Milne."
+        },
+        {
+            "fact": "Sleep literally cleans your brain",
+            "desc": "During slumber, more cerebrospinal fluid flushes through the brain to wash away harmful proteins and toxins that build up during the day."
+        },
+        {
+            "fact": "Neil Armstrong's astronaut application arrived a week past the deadline",
+            "desc": "A friend slipped the tardy form in with the others."
+        },
+        {
+            "fact": "/ Steven Miller, Flickr // CC BY 2 0",
+            "desc": "This is due to the restaurant\u2019s reputation for staying open in extreme weather."
+        },
+        {
+            "fact": "The first sales pitch for the Nerf ball was \u201cNerf: You can\u2019t hurt babies or old people!\u201d",
+            "desc": "Fortunately, that isn\u2019t the brand\u2019s slogan."
+        },
+        {
+            "fact": "The manchineel tree is nicknamed the \"Tree of Death\" for good reason",
+            "desc": "Touching it can leave chemical burns on your skin, its fruit is toxic, and its bark\u2014when burned\u2014can cause blindness."
+        },
+        {
+            "fact": "Route 66 sings",
+            "desc": "If drivers adhere to the 45 mph speed limit on a stretch of  Route 66 in New Mexico, the road's rumble strips play a rendition of \"America the Beautiful.\""
+        },
+        {
+            "fact": "Russian cosmonauts used to pack a shotgun in case they landed in Siberia",
+            "desc": "They\u2019d use the shotgun to fend off bears."
+        },
+        {
+            "fact": "Space has a distinct smell",
+            "desc": "It  smells like a bouquet of diesel fumes, gunpowder, and barbecue. The aroma is mostly produced by dying stars."
+        },
+        {
+            "fact": "The Seven Dwarfs in Snow White could have had very different names",
+            "desc": "Before settling on the Seven Dwarfs we know today, Disney considered Chesty, Tubby, Burpy, Deafy, Hickey, Wheezy, and Awful."
+        },
+        {
+            "fact": "/ Eva-Katalin/Getty Images",
+            "desc": "Perhaps the ocean is safer than the Big Apple."
+        },
+        {
+            "fact": "In 1997 a Louisville woman left actor Charles Bronson all of her money in a handwritten will\u2014a total of about $300,000",
+            "desc": "She'd never met him; she was just a fan."
+        },
+        {
+            "fact": "Carly Simon's dad is the Simon of Simon and Schuster",
+            "desc": "He co-founded the company."
+        },
+        {
+            "fact": "Ben & Jerry learned how to make ice cream by taking a $5 correspondence course offered by Penn State",
+            "desc": "They decided to split one course."
+        },
+        {
+            "fact": "After an online vote in 2011, Toyota announced that the official plural of Prius was Prii",
+            "desc": "The car\u2019s name is rooted in a Latin word."
+        },
+        {
+            "fact": "Franklin and Eleanor Roosevelt had a very presidential wedding",
+            "desc": "At their 1905 wedding,  President Teddy Roosevelt gave away the bride."
+        },
+        {
+            "fact": "Tootsie Rolls were added to soldiers' rations in World War II",
+            "desc": "This was for their durability in all weather conditions."
+        },
+        {
+            "fact": "When Canada's Northwest Territories considered renaming itself in the 1990s, one name that gained support was \"Bob \"",
+            "desc": "\u201cBob\u201d would\u2019ve been at least more creative than a simple geographic description."
+        },
+        {
+            "fact": "After OutKast sang \"Shake it like a Polaroid picture,\" Polaroid released a statement",
+            "desc": "\"Shaking or waving can actually damage the image.\""
+        },
+        {
+            "fact": "/ Photo Illustration by Mental Floss  Curie: Hulton Archive, Getty Images  Background: iStock",
+            "desc": "She also once  investigated a psychic medium."
+        },
+        {
+            "fact": "The Starry Night depicts Vincent van Gogh's view from the Saint-Paul de Mausole asylum",
+            "desc": "The artist painted the scene in 1889."
+        },
+        {
+            "fact": "The ampersand symbol is formed from the letters in et",
+            "desc": "It\u2019s the Latin word for and."
+        },
+        {
+            "fact": "Army ants that misinterpret the scent trails left by other ants will sometimes break from the crowd and march in circles",
+            "desc": "If enough ants join, they can form massive \"death spirals.\""
+        },
+        {
+            "fact": "A solar eclipse helped end a six-year war in 585 BCE",
+            "desc": "When the sky suddenly darkened during a battle between the Lydians and the Medes in modern Turkey, soldiers took it as a sign  to cease fighting."
+        },
+        {
+            "fact": "Wendy's founder Dave Thomas dropped out of high school but earned his GED in 1993",
+            "desc": "His GED class voted him Most Likely to Succeed."
+        },
+        {
+            "fact": "Both John Adams and Thomas Jefferson died on July 4, 1826",
+            "desc": "Their deaths were exactly 50 years after the adoption of the Declaration of Independence."
+        },
+        {
+            "fact": "Dogs are capable of understanding up to 250 words and gestures",
+            "desc": "The average dog is as intelligent as a 2-year-old child."
+        },
+        {
+            "fact": "/ Adene Sanchez/Getty Images",
+            "desc": "All the more reason to take a bubble bath."
+        },
+        {
+            "fact": "Scientists have found evidence of take-out restaurants in the remains of Pompeii",
+            "desc": "Recently unveiled frescoes may even depict the food that was served."
+        },
+        {
+            "fact": "Fried chicken was brought to America by Scottish immigrants",
+            "desc": "Many Scottish immigrants moved to the colonies in the Southern U.S. in the 1700s."
+        },
+        {
+            "fact": "Peter Durand patented the tin can in 1810",
+            "desc": "Ezra Warner  patented a can opener in 1858. In between, people used chisels and hammers."
+        },
+        {
+            "fact": "There are 71 streets in Atlanta with Peachtree in their name",
+            "desc": "Georgia\u2019s a big fan of its peaches."
+        },
+        {
+            "fact": "Goats have rectangular pupils",
+            "desc": "The  weird shape helps them stay aware of their surroundings."
+        },
+        {
+            "fact": "The bend in a flamingo's leg isn't a knee",
+            "desc": "It's an ankle."
+        },
+        {
+            "fact": "In 1946, Boston basketball team owner Walter Brown chose the nickname Celtics",
+            "desc": "His other choices were Whirlwinds, Olympians, and Unicorns."
+        },
+        {
+            "fact": "After It's the Great Pumpkin, Charlie Brown aired, Charles Schulz was overwhelmed with candy shipments",
+            "desc": "They were sent by kids who were concerned for Charlie, who got rocks instead of treats in his Halloween sack."
+        },
+        {
+            "fact": "/ borchee/Getty Images",
+            "desc": "It\u2019s partially defended by trained dolphins."
+        },
+        {
+            "fact": "It's illegal for supermarkets in France to waste food",
+            "desc": "Supermarkets must either compost it or donate unsold or nearly expired goods to charity."
+        },
+        {
+            "fact": "Fredric Baur invented the Pringles can",
+            "desc": "When he passed away in 2008, his ashes were buried in one."
+        },
+        {
+            "fact": "A new baby can cost new parents 750 hours of sleep in the first year",
+            "desc": "New parents notoriously get little sleep."
+        },
+        {
+            "fact": "In 1965, a Senate subcommittee predicted that by 2000, Americans would only be working 20 hours a week with seven weeks vacation",
+            "desc": "That has yet to happen, though some places have experimented with a four-day work week."
+        },
+        {
+            "fact": "For one day in 1998, Topeka, Kansas, renamed itself \"ToPikachu \"",
+            "desc": "This was done to mark Pokemon's U.S. debut."
+        },
+        {
+            "fact": "Truman Capote said he met some pretty historically significant people",
+            "desc": "He said he was the only person who'd met John F. Kennedy, Bobby Kennedy, Lee Harvey Oswald, and Sirhan Sirhan."
+        },
+        {
+            "fact": "Susan B  Anthony was fined $100 for voting in the 1872 election",
+            "desc": "She never paid the fine."
+        },
+        {
+            "fact": "Canned pumpkin isn't actually pumpkin",
+            "desc": "Even purees that advertise as \"100 percent pumpkin\" are actually made of a range of different winter squashes."
+        },
+        {
+            "fact": "Dr  Seuss said he expected to spend \"a week or so\" writing The Cat in the Hat",
+            "desc": "It actually took a year and a half."
+        },
+        {
+            "fact": "The Reese in Reese's Peanut Butter Cups is Harry Burnett Reese",
+            "desc": "He was a former Hershey employee who created the famous candy in the 1920s."
+        },
+        {
+            "fact": "The plural of cul-de-sac is culs-de-sac",
+            "desc": "Some dictionaries, however, do list cul-de-sacs as an option."
+        },
+        {
+            "fact": "Apollo 17 astronaut Harrison Schmitt was allergic to moon dust",
+            "desc": "The moon dust caused the inside of his nose to swell, and also messed with his throat."
+        },
+        {
+            "fact": "At the Gettysburg reunion in 1913, two men purchased a hatchet, walked to the site where their regiments had fought, and buried it",
+            "desc": "Talk about taking the idiom literally!"
+        },
+        {
+            "fact": "Bloodcurdling isn't just an expression",
+            "desc": "Research shows that watching horror movies can increase a certain clotting protein in our bloodstreams."
+        },
+        {
+            "fact": "A group of pugs is called a grumble",
+            "desc": "Here are some other collective nouns for groups of animals."
+        },
+        {
+            "fact": "Before he wrote Goosebumps, R L  Stine wrote the jokes for Bazooka Joe wrappers",
+            "desc": "The jokes were probably not as terrifying as his famous books."
+        },
+        {
+            "fact": "In 1998, the U S  Army tried developing a telepathic ray gun",
+            "desc": "According to the report, \u201cwords could be transmitted to be heard like the spoken word, except that it could only be heard within a person\u2019s head.\""
+        },
+        {
+            "fact": "In 1967, the Nigerian Civil War ground to a halt for two days for sports",
+            "desc": "Both sides wanted to watch Pel\u00e9 play in an exhibition soccer match."
+        },
+        {
+            "fact": "Winston Churchill's mother was born in Brooklyn",
+            "desc": "He was given honorary American citizenship in 1963."
+        },
+        {
+            "fact": "Jim Cummings is the voice of Winnie the Pooh",
+            "desc": "He calls sick kids in hospitals and chats with them in character."
+        },
+        {
+            "fact": "Before Google launched Gmail, \"G-Mail\" was the name of a free email service offered by Garfield's website",
+            "desc": "Good luck trying to get the lazy orange cat to answer your urgent work requests."
+        },
+        {
+            "fact": "Before the Nazis invaded Paris, H A  and Margret Rey fled on bicycles",
+            "desc": "They were carrying the manuscript for Curious George."
+        },
+        {
+            "fact": "In colonial America, lobster wasn't exactly a delicacy",
+            "desc": "It was so cheap and plentiful it was often served to people in prison."
+        },
+        {
+            "fact": "Crayola means \"oily chalk \"",
+            "desc": "The name combines craie (French for \"chalk\") and ola (short for \"oleaginous,\" or \"oily\")."
+        },
+        {
+            "fact": "Truman Show Delusion is a mental condition marked by a patient's belief that he or she is the star of an imaginary reality show",
+            "desc": "Two psychiatrists coined the term in 2008."
+        },
+        {
+            "fact": "Google's founders were willing to sell to Excite for under $1 million in 1999",
+            "desc": "Excite turned them down."
+        },
+        {
+            "fact": "There\u2019s a medical term for ice cream headaches",
+            "desc": "It\u2019s sphenopalatine ganglioneuralgia."
+        },
+        {
+            "fact": "Dr  James Naismith invented basketball",
+            "desc": "And yet, he\u2019s the only Kansas Jayhawks basketball coach with a losing record."
+        },
+        {
+            "fact": "Wisconsin is the Badger State because the area's lead miners used to spend winters in tunnels burrowed into hills",
+            "desc": "Just like badgers."
+        },
+        {
+            "fact": "In 1999, the U S  government paid the Zapruder family $16 million for the film of JFK's assassination",
+            "desc": "A Federal arbitration panel decided that the government had to pay for the \u201cunique historical item of unprecedented worth.\u201d"
+        },
+        {
+            "fact": "Before he became president, Abraham Lincoln was wrestling champion of his county",
+            "desc": "He fought in nearly 300 matches and only lost one of them."
+        },
+        {
+            "fact": "How many licks does it take to get to the center of a Tootsie Pop? The world may never know",
+            "desc": "But on average, a Licking Machine made at Purdue needed 364."
+        },
+        {
+            "fact": "Barcelona is home to hundreds of playgrounds for seniors",
+            "desc": "The spaces are meant to promote fitness and combat loneliness in elderly citizens."
+        },
+        {
+            "fact": "/ andresr/Getty Images",
+            "desc": "The law aims to prevent guinea pigs from getting lonely."
+        },
+        {
+            "fact": "After leaving office, Ronald Reagan was offered the role of Hill Valley's mayor in Back to the Future III",
+            "desc": "He turned it down."
+        },
+        {
+            "fact": "Foreign Accent Syndrome is a rare side effect of brain trauma",
+            "desc": "It\u2019s when patients speak their native language in a foreign accent."
+        },
+        {
+            "fact": "Queen Elizabeth II has had more than 30 corgis in her lifetime",
+            "desc": "She has liked corgis since she was a young girl."
+        },
+        {
+            "fact": "Relative to their bodies, Chihuahuas have the biggest brain in the dog world",
+            "desc": "They\u2019re very easy to train."
+        },
+        {
+            "fact": "The \"mystery\" flavor of Dum Dums isn\u2019t actually a mystery",
+            "desc": "It\u2019s a combination of the end of one batch of candy and the beginning of another."
+        },
+        {
+            "fact": "/ acprints/Getty Images",
+            "desc": "A strawberry, however, is not."
+        },
+        {
+            "fact": "In 1971, a Dallas man named Mariano Martinez invented the frozen margarita machine",
+            "desc": "The 26-year-old was inspired by the Slurpee machine at 7-Eleven."
+        },
+        {
+            "fact": "In 2016, a rogue bloodhound named Ludvine joined a half-marathon in Alabama",
+            "desc": "She ran the entire 13.1 miles and finished in 7th place."
+        },
+        {
+            "fact": "The Library of Congress regularly receives requests for books that don't exist",
+            "desc": "The most common is the President's Book of Secrets, from the 2007 movie National Treasure: Book of Secrets."
+        },
+        {
+            "fact": "In 2014, Tinder made its first match on the continent of Antarctica",
+            "desc": "Not surprisingly, both parties involved were research scientists."
+        },
+        {
+            "fact": "When times get tough, elephants will comfort each other by stroking loved ones with their trunks and emitting small chirps",
+            "desc": "Young elephants will also suck their trunks to comfort themselves."
+        },
+        {
+            "fact": "A double rainbow occurs when sunlight is reflected twice inside a raindrop",
+            "desc": "If you look closely, you can see that the colors of the secondary rainbow appear in reverse order."
+        },
+        {
+            "fact": "There's a Nikola Tesla statue in Palo Alto that provides free Wi-Fi",
+            "desc": "It\u2019s also a time capsule."
+        },
+        {
+            "fact": "In the '50s, Marilyn Monroe promised nightclub owner Charlie Morrison she'd be in the front row every night if he booked Ella Fitzgerald",
+            "desc": "He agreed, and she was true to her word. \"After that, I never had to play a small jazz club again,\" Fitzgerald said. \"She was an unusual woman\u2014a little ahead of her times. And she didn't know it.\""
+        },
+        {
+            "fact": "Frank Sinatra has three stars on the Hollywood Walk of Fame",
+            "desc": "He has one for film, one for music, and one for television."
+        },
+        {
+            "fact": "One April day in 1930, the BBC reported, \"There is no news \"",
+            "desc": "Instead they played piano music."
+        },
+        {
+            "fact": "Continental plates drift as fast as fingernails grow",
+            "desc": "They can travel as much as 20 millimeters per year."
+        },
+        {
+            "fact": "Elvis Presley's manager sold \"I Hate Elvis\" badges",
+            "desc": "This was his unconventional way to make money off of people who weren't buying his merchandise."
+        },
+        {
+            "fact": "A reindeer's eyes change color through the seasons",
+            "desc": "They\u2019re gold during the summer and blue in the winter."
+        },
+        {
+            "fact": "An avocado never ripens on the tree",
+            "desc": "Farmers can use trees as storage and keep avocados fresh for up to seven months."
+        },
+        {
+            "fact": "At the Humane Society of Missouri, kid volunteers comfort anxious shelter dogs by reading to them",
+            "desc": "This also helps the animals become more socialized."
+        },
+        {
+            "fact": "Salvador Dal\u00ed avoided paying restaurant tabs by using checks",
+            "desc": "He would draw on the back as the waiter watched, knowing no one would ever cash the art."
+        },
+        {
+            "fact": "China owns all of the giant pandas in the world",
+            "desc": "They rent them out for about $1 million a year."
+        },
+        {
+            "fact": "In season two of The Joy of Painting, Bob Ross created a monochromatic landscape",
+            "desc": "He did this for a viewer who was worried that his color blindness would prevent him from being able to paint."
+        },
+        {
+            "fact": "Bones found at Seymour Island indicate that at one time, 37 to 40 million years ago, penguins stood at a formidable 6 feet tall and weighed 250 pounds",
+            "desc": "Emperor penguins today are about 4 feet tall and 100 pounds."
+        }
+    ]
+}
