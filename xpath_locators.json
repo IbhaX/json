@@ -1,0 +1,236 @@
+{
+    "xpath": [
+        {
+            "contextual_selectors": [
+                {
+                    "locator": "//img",
+                    "explanation": "image element"
+                },
+                {
+                    "locator": "//img/*[1]",
+                    "explanation": "first child of element img"
+                },
+                {
+                    "locator": "//ul/child::li",
+                    "explanation": "first child 'li' of 'ul'"
+                },
+                {
+                    "locator": "//img[1]",
+                    "explanation": "first img child"
+                },
+                {
+                    "locator": "//img/*[last()]",
+                    "explanation": "last child of element img"
+                },
+                {
+                    "locator": "//img[last()]",
+                    "explanation": "last img child"
+                },
+                {
+                    "locator": "//img[last()-1]",
+                    "explanation": "second last img child"
+                },
+                {
+                    "locator": "//ul[*]",
+                    "explanation": "'ul' that has children"
+                }
+            ]
+        },
+        {
+            "attribute_selectors": [
+                {
+                    "locator": "//img[@id='myId']",
+                    "explanation": "image element with @id= 'myId'"
+                },
+                {
+                    "locator": "//img[@id!='myId']",
+                    "explanation": "image elements with @id not equal to 'myId'"
+                },
+                {
+                    "locator": "//img[@name]",
+                    "explanation": "image elements that have name attribute"
+                },
+                {
+                    "locator": "//*[contains(@id, 'Id')]",
+                    "explanation": "element with @id containing"
+                },
+                {
+                    "locator": "//*[starts-with(@id, 'Id')]",
+                    "explanation": "element with @id starting with"
+                },
+                {
+                    "locator": "//*[ends-with(@id, 'Id')]",
+                    "explanation": "element with @id ending with"
+                },
+                {
+                    "locator": "//*[matches(@id, 'r')]",
+                    "explanation": "element with @id matching regex \u2018r\u2019"
+                },
+                {
+                    "locator": "//*[@name='myName']",
+                    "explanation": "image element with @name= 'myName'"
+                },
+                {
+                    "locator": "//*[@id='X' or @name='X']",
+                    "explanation": "element with @id X or a name X"
+                },
+                {
+                    "locator": "//*[@name=\"N\"][@value=\"v\"]",
+                    "explanation": "element with @name N & specified @value \u2018v\u2019"
+                },
+                {
+                    "locator": "//*[@name=\"N\" and @value=\"v\"]",
+                    "explanation": "element with @name N & specified @value \u2018v\u2019"
+                },
+                {
+                    "locator": "//*[@name=\"N\" and not(@value=\"v\")]",
+                    "explanation": "element with @name N & not specified @value \u2018v\u2019"
+                },
+                {
+                    "locator": "//input[@type=\"submit\"]",
+                    "explanation": "input of type submit"
+                },
+                {
+                    "locator": "//a[@href=\"url\"]\u200b\u200b",
+                    "explanation": "anchor with target link 'url'"
+                },
+                {
+                    "locator": "//section[//h1[@id='hi']]",
+                    "explanation": "returns <section> if it has an <h1> descendant with @id= 'hi'"
+                },
+                {
+                    "locator": "//*[@id=\"TestTable\"]//tr[3]//td[2]",
+                    "explanation": "cell by row and column"
+                },
+                {
+                    "locator": "//input[@checked]",
+                    "explanation": "checkbox (or radio button) that is checked"
+                },
+                {
+                    "locator": "//a[@disabled]",
+                    "explanation": "all 'a' elements that are disabled"
+                },
+                {
+                    "locator": "//a[@price > 2.50]",
+                    "explanation": "'a' with price > 2.5"
+                }
+            ]
+        },
+        {
+            "xpath_methods": [
+                {
+                    "locator": "//table[count(tr) > 1]",
+                    "explanation": "return table with more than 1 row"
+                },
+                {
+                    "locator": "//*[.=\"t\"]",
+                    "explanation": "element containing text 't' exactly"
+                },
+                {
+                    "locator": "//a[contains(text(), \"Log Out\")]",
+                    "explanation": "anchor with inner text containing 'Log Out'"
+                },
+                {
+                    "locator": "//a[not(contains(text(), \"Log Out\"))]",
+                    "explanation": "anchor with inner text not containing 'Log Out'"
+                },
+                {
+                    "locator": "//a[not(@disabled)]",
+                    "explanation": "all 'a' elements that are not disabled"
+                }
+            ]
+        },
+        {
+            "axis_navigation": [
+                {
+                    "locator": "//td[preceding-sibling::td=\"t\"]",
+                    "explanation": "cell immediately following cell containing 't' exactly"
+                },
+                {
+                    "locator": "//td[preceding-sibling::td[contains(.,\"t\")]]",
+                    "explanation": "cell immediately following cell containing 't'"
+                },
+                {
+                    "locator": "//input/following-sibling::a",
+                    "explanation": "'a' following some sibling 'input'"
+                },
+                {
+                    "locator": "//a/following-sibling::*",
+                    "explanation": "sibling element immediately following 'a'"
+                },
+                {
+                    "locator": "//input/preceding-sibling::a",
+                    "explanation": "'a' preceding some sibling 'input'"
+                },
+                {
+                    "locator": "//input/preceding-sibling::*[1]",
+                    "explanation": "sibling element immediately preceding 'input'"
+                },
+                {
+                    "locator": "//img[@id='MyId']::parent/*",
+                    "explanation": "the parent of image with id"
+                }
+            ]
+        },
+        {
+            "math_methods": [
+                {
+                    "locator": "ceiling(number)",
+                    "explanation": "evaluates a decimal number and returns the smallest integer greater than or equal to the decimal number"
+                },
+                {
+                    "locator": "floor(number)",
+                    "explanation": "evaluates a decimal number and returns the largest integer less than or equal to the decimal number"
+                },
+                {
+                    "locator": "round(decimal)",
+                    "explanation": "returns a number that is the nearest integer to the given number"
+                },
+                {
+                    "locator": "sum(node-set)",
+                    "explanation": "returns a number that is the sum of the numeric values of each node in a given node-set"
+                }
+            ]
+        },
+        {
+            "string_methods": [
+                {
+                    "locator": "contains(space-string, planet-string)",
+                    "explanation": "determines whether the first argument string contains the second argument string and returns boolean true or false"
+                },
+                {
+                    "locator": "concat(string1, string2 [stringn]*)",
+                    "explanation": "concatenates two or more strings and returns the resulting string"
+                },
+                {
+                    "locator": "normalize-space(string)",
+                    "explanation": "strips leading and trailing white-space from a string, replaces sequences of whitespace characters by a single space, and returns the resulting string"
+                },
+                {
+                    "locator": "starts-with(spacetrack, space)",
+                    "explanation": "checks whether the first string starts with the second string and returns true or false"
+                },
+                {
+                    "locator": "string-length([string])",
+                    "explanation": "returns a number equal to the number of characters in a given string"
+                },
+                {
+                    "locator": "substring(string, start [length])",
+                    "explanation": "returns a part of a given string"
+                },
+                {
+                    "locator": "substring-after(spacetrack, track)",
+                    "explanation": "returns a string that is the rest of a given string after a given substring"
+                },
+                {
+                    "locator": "substring-before(spacetrack, tra)",
+                    "explanation": "returns a string that is the rest of a given string before a given substring"
+                },
+                {
+                    "locator": "translate(string, ghj, GHJ)",
+                    "explanation": "evaluates a string and a set of characters to translate and returns the translated string"
+                }
+            ]
+        }
+    ]
+}
