@@ -1,0 +1,136 @@
+{
+    "js_arr": [
+        {
+            "name": "concat()",
+            "desc": "Joins arrays and returns an array with the joined arrays"
+        },
+        {
+            "name": "constructor",
+            "desc": "Returns the function that created the Array object's prototype"
+        },
+        {
+            "name": "copyWithin()",
+            "desc": "Copies array elements within the array, to and from specified positions"
+        },
+        {
+            "name": "entries()",
+            "desc": "Returns a key/value pair Array Iteration Object"
+        },
+        {
+            "name": "every()",
+            "desc": "Checks if every element in an array pass a test"
+        },
+        {
+            "name": "fill()",
+            "desc": "Fill the elements in an array with a static value"
+        },
+        {
+            "name": "filter()",
+            "desc": "Creates a new array with every element in an array that pass a test"
+        },
+        {
+            "name": "find()",
+            "desc": "Returns the value of the first element in an array that pass a test"
+        },
+        {
+            "name": "findIndex()",
+            "desc": "Returns the index of the first element in an array that pass a test"
+        },
+        {
+            "name": "forEach()",
+            "desc": "Calls a function for each array element"
+        },
+        {
+            "name": "from()",
+            "desc": "Creates an array from an object"
+        },
+        {
+            "name": "includes()",
+            "desc": "Check if an array contains the specified element"
+        },
+        {
+            "name": "indexOf()",
+            "desc": "Search the array for an element and returns its position"
+        },
+        {
+            "name": "isArray()",
+            "desc": "Checks whether an object is an array"
+        },
+        {
+            "name": "join()",
+            "desc": "Joins all elements of an array into a string"
+        },
+        {
+            "name": "keys()",
+            "desc": "Returns a Array Iteration Object, containing the keys of the original array"
+        },
+        {
+            "name": "lastIndexOf()",
+            "desc": "Search the array for an element, starting at the end, and returns its position"
+        },
+        {
+            "name": "length",
+            "desc": "Sets or returns the number of elements in an array"
+        },
+        {
+            "name": "map()",
+            "desc": "Creates a new array with the result of calling a function for each array element"
+        },
+        {
+            "name": "pop()",
+            "desc": "Removes the last element of an array, and returns that element"
+        },
+        {
+            "name": "prototype",
+            "desc": "Allows you to add properties and methods to an Array object"
+        },
+        {
+            "name": "push()",
+            "desc": "Adds new elements to the end of an array, and returns the new length"
+        },
+        {
+            "name": "reduce()",
+            "desc": "Reduce the values of an array to a single value (going left-to-right)"
+        },
+        {
+            "name": "reduceRight()",
+            "desc": "Reduce the values of an array to a single value (going right-to-left)"
+        },
+        {
+            "name": "reverse()",
+            "desc": "Reverses the order of the elements in an array"
+        },
+        {
+            "name": "shift()",
+            "desc": "Removes the first element of an array, and returns that element"
+        },
+        {
+            "name": "slice()",
+            "desc": "Selects a part of an array, and returns the new array"
+        },
+        {
+            "name": "some()",
+            "desc": "Checks if any of the elements in an array pass a test"
+        },
+        {
+            "name": "sort()",
+            "desc": "Sorts the elements of an array"
+        },
+        {
+            "name": "splice()",
+            "desc": "Adds/Removes elements from an array"
+        },
+        {
+            "name": "toString()",
+            "desc": "Converts an array to a string, and returns the result"
+        },
+        {
+            "name": "unshift()",
+            "desc": "Adds new elements to the beginning of an array, and returns the new length"
+        },
+        {
+            "name": "valueOf()",
+            "desc": "Returns the primitive value of an array"
+        }
+    ]
+}
