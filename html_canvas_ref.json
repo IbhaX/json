@@ -1,0 +1,234 @@
+{
+    "html_canvas": [
+        {
+            "category": "Colors, Styles, and Shadows",
+            "items": [
+                {
+                    "method": "fillStyle",
+                    "desc": "Sets or returns the color, gradient, or pattern used to fill the drawing"
+                },
+                {
+                    "method": "strokeStyle",
+                    "desc": "Sets or returns the color, gradient, or pattern used for strokes"
+                },
+                {
+                    "method": "shadowColor",
+                    "desc": "Sets or returns the color to use for shadows"
+                },
+                {
+                    "method": "shadowBlur",
+                    "desc": "Sets or returns the blur level for shadows"
+                },
+                {
+                    "method": "shadowOffsetX",
+                    "desc": "Sets or returns the horizontal distance of the shadow from the shape"
+                },
+                {
+                    "method": "shadowOffsetY",
+                    "desc": "Sets or returns the vertical distance of the shadow from the shape"
+                }
+            ]
+        },
+        {
+            "category": "Line Styles",
+            "items": [
+                {
+                    "method": "lineCap",
+                    "desc": "Sets or returns the style of the end caps for a line"
+                },
+                {
+                    "method": "lineJoin",
+                    "desc": "Sets or returns the type of corner created, when two lines meet"
+                },
+                {
+                    "method": "lineWidth",
+                    "desc": "Sets or returns the current line width"
+                },
+                {
+                    "method": "miterLimit",
+                    "desc": "Sets or returns the maximum miter length"
+                }
+            ]
+        },
+        {
+            "category": "Rectangles",
+            "items": [
+                {
+                    "method": "rect()",
+                    "desc": "Creates a rectangle"
+                },
+                {
+                    "method": "fillRect()",
+                    "desc": "Draws a \"filled\" rectangle"
+                },
+                {
+                    "method": "strokeRect()",
+                    "desc": "Draws a rectangle (no fill)"
+                },
+                {
+                    "method": "clearRect()",
+                    "desc": "Clears the specified pixels within a given rectangle"
+                }
+            ]
+        },
+        {
+            "category": "Paths",
+            "items": [
+                {
+                    "method": "fill()",
+                    "desc": "Fills the current drawing (path)"
+                },
+                {
+                    "method": "stroke()",
+                    "desc": "Actually draws the path you have defined"
+                },
+                {
+                    "method": "beginPath()",
+                    "desc": "Begins a path, or resets the current path"
+                },
+                {
+                    "method": "moveTo()",
+                    "desc": "Moves the path to the specified point in the canvas, without creating a line"
+                },
+                {
+                    "method": "closePath()",
+                    "desc": "Creates a path from the current point back to the starting point"
+                },
+                {
+                    "method": "lineTo()",
+                    "desc": "Adds a new point and creates a line to that point from the last specified point in the canvas"
+                },
+                {
+                    "method": "clip()",
+                    "desc": "Clips a region of any shape and size from the original canvas"
+                },
+                {
+                    "method": "quadraticCurveTo()",
+                    "desc": "Creates a quadratic B\u00e9zier curve"
+                },
+                {
+                    "method": "bezierCurveTo()",
+                    "desc": "Creates a cubic B\u00e9zier curve"
+                },
+                {
+                    "method": "arc()",
+                    "desc": "Creates an arc/curve (used to create circles, or parts of circles)"
+                },
+                {
+                    "method": "arcTo()",
+                    "desc": "Creates an arc/curve between two tangents"
+                },
+                {
+                    "method": "isPointInPath()",
+                    "desc": "Returns true if the specified point is in the current path, otherwise false"
+                }
+            ]
+        },
+        {
+            "category": "Transformations",
+            "items": [
+                {
+                    "method": "scale()",
+                    "desc": "Scales the current drawing bigger or smaller"
+                },
+                {
+                    "method": "rotate()",
+                    "desc": "Rotates the current drawing"
+                },
+                {
+                    "method": "translate()",
+                    "desc": "Remaps the (0,0) position on the canvas"
+                },
+                {
+                    "method": "transform()",
+                    "desc": "Replaces the current transformation matrix for the drawing"
+                },
+                {
+                    "method": "setTransform()",
+                    "desc": "Resets the current transform to the identity matrix. Then runs \n transform()"
+                }
+            ]
+        },
+        {
+            "category": "Text",
+            "items": [
+                {
+                    "method": "font",
+                    "desc": "Sets or returns the current font properties for text content"
+                },
+                {
+                    "method": "textAlign",
+                    "desc": "Sets or returns the current alignment for text content"
+                },
+                {
+                    "method": "textBaseline",
+                    "desc": "Sets or returns the current text baseline used when drawing text"
+                }
+            ]
+        },
+        {
+            "category": "Image Drawing",
+            "items": [
+                {
+                    "method": "drawImage()",
+                    "desc": "Draws an image, canvas, or video onto the canvas"
+                }
+            ]
+        },
+        {
+            "category": "Pixel Manipulation",
+            "items": [
+                {
+                    "method": "width",
+                    "desc": "Returns the width of an ImageData object"
+                },
+                {
+                    "method": "height",
+                    "desc": "Returns the height of an ImageData object"
+                },
+                {
+                    "method": "data",
+                    "desc": "Returns an object that contains image data of a specified ImageData object"
+                }
+            ]
+        },
+        {
+            "category": "Compositing",
+            "items": [
+                {
+                    "method": "globalAlpha",
+                    "desc": "Sets or returns the current alpha or transparency value of the drawing"
+                },
+                {
+                    "method": "globalCompositeOperation",
+                    "desc": "Sets or returns how a new image is drawn onto an existing image"
+                }
+            ]
+        },
+        {
+            "category": "Other",
+            "items": [
+                {
+                    "method": "save()",
+                    "desc": "Saves the state of the current context"
+                },
+                {
+                    "method": "restore()",
+                    "desc": "Returns previously saved path state and attributes"
+                },
+                {
+                    "method": "createEvent()",
+                    "desc": "\u00a0"
+                },
+                {
+                    "method": "getContext()",
+                    "desc": "\u00a0"
+                },
+                {
+                    "method": "toDataURL()",
+                    "desc": "\u00a0"
+                }
+            ]
+        }
+    ]
+}
