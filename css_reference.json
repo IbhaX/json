@@ -1,0 +1,1356 @@
+{
+    "css": [
+        {
+            "prop": "accent-color",
+            "expl": "Specifies an accent color for user-interface controls"
+        },
+        {
+            "prop": "align-content",
+            "expl": "Specifies the alignment between the lines inside a flexible container when the items do not use all available space"
+        },
+        {
+            "prop": "align-items",
+            "expl": "Specifies the alignment for items inside a flexible container"
+        },
+        {
+            "prop": "align-self",
+            "expl": "Specifies the alignment for selected items inside a flexible container"
+        },
+        {
+            "prop": "all",
+            "expl": "Resets all properties (except unicode-bidi and direction)"
+        },
+        {
+            "prop": "animation",
+            "expl": "A shorthand property for all the animation-* properties"
+        },
+        {
+            "prop": "animation-delay",
+            "expl": "Specifies a delay for the start of an animation"
+        },
+        {
+            "prop": "animation-direction",
+            "expl": "Specifies whether an animation should be played forwards, backwards or \n    in alternate cycles"
+        },
+        {
+            "prop": "animation-duration",
+            "expl": "Specifies how long an animation should take to complete one cycle"
+        },
+        {
+            "prop": "animation-fill-mode",
+            "expl": "Specifies a style for the element when the animation is not playing (before \n    it starts, after it ends, or both)"
+        },
+        {
+            "prop": "animation-iteration-count",
+            "expl": "Specifies the number of times an animation should be played"
+        },
+        {
+            "prop": "animation-name",
+            "expl": "Specifies a name for the @keyframes animation"
+        },
+        {
+            "prop": "animation-play-state",
+            "expl": "Specifies whether the animation is running or paused"
+        },
+        {
+            "prop": "animation-timing-function",
+            "expl": "Specifies the speed curve of an animation"
+        },
+        {
+            "prop": "aspect-ratio",
+            "expl": "Specifies preferred aspect ratio of an element"
+        },
+        {
+            "prop": "backdrop-filter",
+            "expl": "Defines a graphical effect to the area behind an element"
+        },
+        {
+            "prop": "backface-visibility",
+            "expl": "Defines whether or not the back face of an element should be visible when facing the user"
+        },
+        {
+            "prop": "background",
+            "expl": "A shorthand property for all the background-* properties"
+        },
+        {
+            "prop": "background-attachment",
+            "expl": "Sets whether a background image scrolls with the rest of the page, or is fixed"
+        },
+        {
+            "prop": "background-blend-mode",
+            "expl": "Specifies the blending mode of each background layer (color/image)"
+        },
+        {
+            "prop": "background-clip",
+            "expl": "Defines how far the background (color or image) should extend within an \n    element"
+        },
+        {
+            "prop": "background-color",
+            "expl": "Specifies the background color of an element"
+        },
+        {
+            "prop": "background-image",
+            "expl": "Specifies one or more background images for an element"
+        },
+        {
+            "prop": "background-origin",
+            "expl": "Specifies the origin position of a background image"
+        },
+        {
+            "prop": "background-position",
+            "expl": "Specifies the position of a background image"
+        },
+        {
+            "prop": "background-position-x",
+            "expl": "Specifies the position of a background image on x-axis"
+        },
+        {
+            "prop": "background-position-y",
+            "expl": "Specifies the position of a background image on y-axis"
+        },
+        {
+            "prop": "background-repeat",
+            "expl": "Sets if/how a background image will be repeated"
+        },
+        {
+            "prop": "background-size",
+            "expl": "Specifies the size of the background images"
+        },
+        {
+            "prop": "block-size",
+            "expl": "Specifies the size of an element in block direction"
+        },
+        {
+            "prop": "border",
+            "expl": "A shorthand property for border-width, border-style and border-color"
+        },
+        {
+            "prop": "border-block",
+            "expl": "A shorthand property for border-block-width, border-block-style and border-block-color"
+        },
+        {
+            "prop": "border-block-color",
+            "expl": "Sets the color of the borders at start and end in the block direction"
+        },
+        {
+            "prop": "border-block-end-color",
+            "expl": "Sets the color of the border at the end in the block direction"
+        },
+        {
+            "prop": "border-block-end-style",
+            "expl": "Sets the style of the border at the end in the block direction"
+        },
+        {
+            "prop": "border-block-end-width",
+            "expl": "Sets the width of the border at the end in the block direction"
+        },
+        {
+            "prop": "border-block-start-color",
+            "expl": "Sets the color of the border at the start in the block direction"
+        },
+        {
+            "prop": "border-block-start-style",
+            "expl": "Sets the style of the border at the start in the block direction"
+        },
+        {
+            "prop": "border-block-start-width",
+            "expl": "Sets the width of the border at the start in the block direction"
+        },
+        {
+            "prop": "border-block-style",
+            "expl": "Sets the style of the borders at start and end in the block direction"
+        },
+        {
+            "prop": "border-block-width",
+            "expl": "Sets the width of the borders at start and end in the block direction"
+        },
+        {
+            "prop": "border-bottom",
+            "expl": "A shorthand property for border-bottom-width, border-bottom-style \n    and border-bottom-color"
+        },
+        {
+            "prop": "border-bottom-color",
+            "expl": "Sets the color of the bottom border"
+        },
+        {
+            "prop": "border-bottom-left-radius",
+            "expl": "Defines the radius of the border of the bottom-left corner"
+        },
+        {
+            "prop": "border-bottom-right-radius",
+            "expl": "Defines the radius of the border of the bottom-right corner"
+        },
+        {
+            "prop": "border-bottom-style",
+            "expl": "Sets the style of the bottom border"
+        },
+        {
+            "prop": "border-bottom-width",
+            "expl": "Sets the width of the bottom border"
+        },
+        {
+            "prop": "border-collapse",
+            "expl": "Sets whether table borders should collapse into a single border or be separated"
+        },
+        {
+            "prop": "border-color",
+            "expl": "Sets the color of the four borders"
+        },
+        {
+            "prop": "border-image",
+            "expl": "A shorthand property for all the border-image-* properties"
+        },
+        {
+            "prop": "border-image-outset",
+            "expl": "Specifies the amount by which the border image area extends beyond the border box"
+        },
+        {
+            "prop": "border-image-repeat",
+            "expl": "Specifies whether the border image should be repeated, rounded or stretched"
+        },
+        {
+            "prop": "border-image-slice",
+            "expl": "Specifies how to slice the border image"
+        },
+        {
+            "prop": "border-image-source",
+            "expl": "Specifies the path to the image to be used as a border"
+        },
+        {
+            "prop": "border-image-width",
+            "expl": "Specifies the width of the border image"
+        },
+        {
+            "prop": "border-inline",
+            "expl": "A shorthand property for border-inline-width, border-inline-style and border-inline-color"
+        },
+        {
+            "prop": "border-inline-color",
+            "expl": "Sets the color of the borders at start and end in the inline direction"
+        },
+        {
+            "prop": "border-inline-end-color",
+            "expl": "Sets the color of the border at the end in the inline direction"
+        },
+        {
+            "prop": "border-inline-end-style",
+            "expl": "Sets the style of the border at the end in the inline direction"
+        },
+        {
+            "prop": "border-inline-end-width",
+            "expl": "Sets the width of the border at the end in the inline direction"
+        },
+        {
+            "prop": "border-inline-start-color",
+            "expl": "Sets the color of the border at the start in the inline direction"
+        },
+        {
+            "prop": "border-inline-start-style",
+            "expl": "Sets the style of the border at the start in the inline direction"
+        },
+        {
+            "prop": "border-inline-start-width",
+            "expl": "Sets the width of the border at the start in the inline direction"
+        },
+        {
+            "prop": "border-inline-style",
+            "expl": "Sets the style of the borders at start and end in the inline direction"
+        },
+        {
+            "prop": "border-inline-width",
+            "expl": "Sets the width of the borders at start and end in the inline direction"
+        },
+        {
+            "prop": "border-left",
+            "expl": "A shorthand property for all the border-left-* properties"
+        },
+        {
+            "prop": "border-left-color",
+            "expl": "Sets the color of the left border"
+        },
+        {
+            "prop": "border-left-style",
+            "expl": "Sets the style of the left border"
+        },
+        {
+            "prop": "border-left-width",
+            "expl": "Sets the width of the left border"
+        },
+        {
+            "prop": "border-radius",
+            "expl": "A shorthand property for the four border-*-radius properties"
+        },
+        {
+            "prop": "border-right",
+            "expl": "A shorthand property for all the border-right-* properties"
+        },
+        {
+            "prop": "border-right-color",
+            "expl": "Sets the color of the right border"
+        },
+        {
+            "prop": "border-right-style",
+            "expl": "Sets the style of the right border"
+        },
+        {
+            "prop": "border-right-width",
+            "expl": "Sets the width of the right border"
+        },
+        {
+            "prop": "border-spacing",
+            "expl": "Sets the distance between the borders of adjacent cells"
+        },
+        {
+            "prop": "border-style",
+            "expl": "Sets the style of the four borders"
+        },
+        {
+            "prop": "border-top",
+            "expl": "A shorthand property for border-top-width, border-top-style and\n    border-top-color"
+        },
+        {
+            "prop": "border-top-color",
+            "expl": "Sets the color of the top border"
+        },
+        {
+            "prop": "border-top-left-radius",
+            "expl": "Defines the radius of the border of the top-left corner"
+        },
+        {
+            "prop": "border-top-right-radius",
+            "expl": "Defines the radius of the border of the top-right corner"
+        },
+        {
+            "prop": "border-top-style",
+            "expl": "Sets the style of the top border"
+        },
+        {
+            "prop": "border-top-width",
+            "expl": "Sets the width of the top border"
+        },
+        {
+            "prop": "border-width",
+            "expl": "Sets the width of the four borders"
+        },
+        {
+            "prop": "bottom",
+            "expl": "Sets the elements position, from the bottom of its parent element"
+        },
+        {
+            "prop": "box-decoration-break",
+            "expl": "Sets the behavior of the background and border of an element at page-break, or, for  in-line elements, at line-break."
+        },
+        {
+            "prop": "box-reflect",
+            "expl": "The box-reflect property is used to create a reflection of an element."
+        },
+        {
+            "prop": "box-shadow",
+            "expl": "Attaches one or more shadows to an element"
+        },
+        {
+            "prop": "box-sizing",
+            "expl": "Defines how the width and height of an element are calculated: should \n    they include padding and borders, or not"
+        },
+        {
+            "prop": "break-after",
+            "expl": "Specifies whether or not a page-, column-, or region-break should occur \n    after the specified element"
+        },
+        {
+            "prop": "break-before",
+            "expl": "Specifies whether or not a page-, column-, or region-break should occur \n    before the specified element"
+        },
+        {
+            "prop": "break-inside",
+            "expl": "Specifies whether or not a page-, column-, or region-break should occur \n    inside the specified element"
+        },
+        {
+            "prop": "caption-side",
+            "expl": "Specifies the placement of a table caption"
+        },
+        {
+            "prop": "caret-color",
+            "expl": "Specifies the color of the cursor (caret) in inputs, textareas, or any \n    element that is editable"
+        },
+        {
+            "prop": "@charset",
+            "expl": "Specifies the character encoding used in the style sheet"
+        },
+        {
+            "prop": "clear",
+            "expl": "Specifies what should happen with the element that is next to a floating \n    element"
+        },
+        {
+            "prop": "clip",
+            "expl": "Clips an absolutely positioned element"
+        },
+        {
+            "prop": "color",
+            "expl": "Sets the color of text"
+        },
+        {
+            "prop": "column-count",
+            "expl": "Specifies the number of columns an element should be divided into"
+        },
+        {
+            "prop": "column-fill",
+            "expl": "Specifies how to fill columns, balanced or not"
+        },
+        {
+            "prop": "column-gap",
+            "expl": "Specifies the gap between the columns"
+        },
+        {
+            "prop": "column-rule",
+            "expl": "A shorthand property for all the column-rule-* properties"
+        },
+        {
+            "prop": "column-rule-color",
+            "expl": "Specifies the color of the rule between columns"
+        },
+        {
+            "prop": "column-rule-style",
+            "expl": "Specifies the style of the rule between columns"
+        },
+        {
+            "prop": "column-rule-width",
+            "expl": "Specifies the width of the rule between columns"
+        },
+        {
+            "prop": "column-span",
+            "expl": "Specifies how many columns an element should span across"
+        },
+        {
+            "prop": "column-width",
+            "expl": "Specifies the column width"
+        },
+        {
+            "prop": "columns",
+            "expl": "A shorthand property for column-width and column-count"
+        },
+        {
+            "prop": "content",
+            "expl": "Used with the :before and :after pseudo-elements, to insert generated content"
+        },
+        {
+            "prop": "counter-increment",
+            "expl": "Increases or decreases the value of one or more CSS counters"
+        },
+        {
+            "prop": "counter-reset",
+            "expl": "Creates or resets one or more CSS counters"
+        },
+        {
+            "prop": "cursor",
+            "expl": "Specifies the mouse cursor to be displayed when pointing over an element"
+        },
+        {
+            "prop": "direction",
+            "expl": "Specifies the text direction/writing direction"
+        },
+        {
+            "prop": "display",
+            "expl": "Specifies how a certain HTML element should be displayed"
+        },
+        {
+            "prop": "empty-cells",
+            "expl": "Specifies whether or not to display borders and background on empty cells in a table"
+        },
+        {
+            "prop": "filter",
+            "expl": "Defines effects (e.g. blurring or color shifting) on an element before the element is displayed"
+        },
+        {
+            "prop": "flex",
+            "expl": "A shorthand property for the flex-grow, flex-shrink, and the \n    flex-basis \n    properties"
+        },
+        {
+            "prop": "flex-basis",
+            "expl": "Specifies the initial length of a flexible item"
+        },
+        {
+            "prop": "flex-direction",
+            "expl": "Specifies the direction of the flexible items"
+        },
+        {
+            "prop": "flex-flow",
+            "expl": "A shorthand property for the flex-direction and the flex-wrap properties"
+        },
+        {
+            "prop": "flex-grow",
+            "expl": "Specifies how much the item will grow relative to the rest"
+        },
+        {
+            "prop": "flex-shrink",
+            "expl": "Specifies how the item will shrink relative to the rest"
+        },
+        {
+            "prop": "flex-wrap",
+            "expl": "Specifies whether the flexible items should wrap or not"
+        },
+        {
+            "prop": "float",
+            "expl": "Specifies whether an element should float to the left, right, or not at \n    all"
+        },
+        {
+            "prop": "font",
+            "expl": "A shorthand property for the font-style, font-variant, font-weight, \n    font-size/line-height, and the font-family properties"
+        },
+        {
+            "prop": "@font-face",
+            "expl": "A rule that allows websites to download and use fonts other than the \"web-safe\" fonts"
+        },
+        {
+            "prop": "font-family",
+            "expl": "Specifies the font family for text"
+        },
+        {
+            "prop": "font-feature-settings",
+            "expl": "Allows control over advanced typographic features in OpenType fonts"
+        },
+        {
+            "prop": "@font-feature-values",
+            "expl": "Allows authors to use a common name in font-variant-alternate for feature activated differently in OpenType"
+        },
+        {
+            "prop": "font-kerning",
+            "expl": "Controls the usage of the kerning information (how letters are spaced)"
+        },
+        {
+            "prop": "font-language-override",
+            "expl": "Controls the usage of language-specific glyphs in a typeface"
+        },
+        {
+            "prop": "font-size",
+            "expl": "Specifies the font size of text"
+        },
+        {
+            "prop": "font-size-adjust",
+            "expl": "Preserves the readability of text when font fallback occurs"
+        },
+        {
+            "prop": "font-stretch",
+            "expl": "Selects a normal, condensed, or expanded face from a font family"
+        },
+        {
+            "prop": "font-style",
+            "expl": "Specifies the font style for text"
+        },
+        {
+            "prop": "font-synthesis",
+            "expl": "Controls which missing typefaces (bold or italic) may be synthesized by the browser"
+        },
+        {
+            "prop": "font-variant",
+            "expl": "Specifies whether or not a text should be displayed in a small-caps font"
+        },
+        {
+            "prop": "font-variant-alternates",
+            "expl": "Controls the usage of alternate glyphs associated to alternative names defined in @font-feature-values"
+        },
+        {
+            "prop": "font-variant-caps",
+            "expl": "Controls the usage of alternate glyphs for capital letters"
+        },
+        {
+            "prop": "font-variant-east-asian",
+            "expl": "Controls the usage of alternate glyphs for East Asian scripts (e.g Japanese and Chinese)"
+        },
+        {
+            "prop": "font-variant-ligatures",
+            "expl": "Controls which ligatures and contextual forms are used in textual content of the elements it applies to"
+        },
+        {
+            "prop": "font-variant-numeric",
+            "expl": "Controls the usage of alternate glyphs for numbers, fractions, and ordinal markers"
+        },
+        {
+            "prop": "font-variant-position",
+            "expl": "Controls the usage of alternate glyphs of smaller size positioned as superscript or subscript regarding the baseline of the font"
+        },
+        {
+            "prop": "font-weight",
+            "expl": "Specifies the weight of a font"
+        },
+        {
+            "prop": "gap",
+            "expl": "A shorthand property for the row-gap and the column-gap properties"
+        },
+        {
+            "prop": "grid",
+            "expl": "A shorthand property for the grid-template-rows, \n    grid-template-columns, grid-template-areas, grid-auto-rows, \n    grid-auto-columns, and the grid-auto-flow properties"
+        },
+        {
+            "prop": "grid-area",
+            "expl": "Either specifies a name for the grid item, or this property is a shorthand property for the grid-row-start, grid-column-start, grid-row-end, and grid-column-end properties"
+        },
+        {
+            "prop": "grid-auto-columns",
+            "expl": "Specifies a default column size"
+        },
+        {
+            "prop": "grid-auto-flow",
+            "expl": "Specifies how auto-placed items are inserted in the grid"
+        },
+        {
+            "prop": "grid-auto-rows",
+            "expl": "Specifies a default row size"
+        },
+        {
+            "prop": "grid-column",
+            "expl": "A shorthand property for the grid-column-start and the grid-column-end properties"
+        },
+        {
+            "prop": "grid-column-end",
+            "expl": "Specifies where to end the grid item"
+        },
+        {
+            "prop": "grid-column-gap",
+            "expl": "Specifies the size of the gap between columns"
+        },
+        {
+            "prop": "grid-column-start",
+            "expl": "Specifies where to start the grid item"
+        },
+        {
+            "prop": "grid-gap",
+            "expl": "A shorthand property for the grid-row-gap and grid-column-gap properties"
+        },
+        {
+            "prop": "grid-row",
+            "expl": "A shorthand property for the grid-row-start and the grid-row-end properties"
+        },
+        {
+            "prop": "grid-row-end",
+            "expl": "Specifies where to end the grid item"
+        },
+        {
+            "prop": "grid-row-gap",
+            "expl": "Specifies the size of the gap between rows"
+        },
+        {
+            "prop": "grid-row-start",
+            "expl": "Specifies where to start the grid item"
+        },
+        {
+            "prop": "grid-template",
+            "expl": "A shorthand property for the grid-template-rows, grid-template-columns \n    and grid-areas properties"
+        },
+        {
+            "prop": "grid-template-areas",
+            "expl": "Specifies how to display columns and rows, using named grid items"
+        },
+        {
+            "prop": "grid-template-columns",
+            "expl": "Specifies the size of the columns, and how many columns in a grid layout"
+        },
+        {
+            "prop": "grid-template-rows",
+            "expl": "Specifies the size of the rows in a grid layout"
+        },
+        {
+            "prop": "hanging-punctuation",
+            "expl": "Specifies whether a punctuation character may be placed outside the line box"
+        },
+        {
+            "prop": "height",
+            "expl": "Sets the height of an element"
+        },
+        {
+            "prop": "hyphens",
+            "expl": "Sets how to split words to improve the layout of paragraphs"
+        },
+        {
+            "prop": "image-rendering",
+            "expl": "Specifies the type of algorithm to use for image scaling"
+        },
+        {
+            "prop": "@import",
+            "expl": "Allows you to import a style sheet into another style sheet"
+        },
+        {
+            "prop": "inline-size",
+            "expl": "Specifies the size of an element in the inline direction"
+        },
+        {
+            "prop": "inset",
+            "expl": "Specifies the distance between an element and the parent element"
+        },
+        {
+            "prop": "inset-block",
+            "expl": "Specifies the distance between an element and the parent element in the block direction"
+        },
+        {
+            "prop": "inset-block-end",
+            "expl": "Specifies the distance between the end of an element and the parent element in the block direction"
+        },
+        {
+            "prop": "inset-block-start",
+            "expl": "Specifies the distance between the start of an element and the parent element in the block direction"
+        },
+        {
+            "prop": "inset-inline",
+            "expl": "Specifies the distance between an element and the parent element in the inline direction"
+        },
+        {
+            "prop": "inset-inline-end",
+            "expl": "Specifies the distance between the end of an element and the parent element in the inline direction"
+        },
+        {
+            "prop": "inset-inline-start",
+            "expl": "Specifies the distance between the start of an element and the parent element in the inline direction"
+        },
+        {
+            "prop": "isolation",
+            "expl": "Defines whether an element must create a new stacking content"
+        },
+        {
+            "prop": "justify-content",
+            "expl": "Specifies the alignment between the items inside a flexible container when the items do not use all available space"
+        },
+        {
+            "prop": "justify-items",
+            "expl": "Is set on the grid container. Specifies the alignment of grid items in the inline direction"
+        },
+        {
+            "prop": "justify-self",
+            "expl": "Is set on the grid item. Specifies the alignment of the grid item in the inline direction"
+        },
+        {
+            "prop": "@keyframes",
+            "expl": "Specifies the animation code"
+        },
+        {
+            "prop": "left",
+            "expl": "Specifies the left position of a positioned element"
+        },
+        {
+            "prop": "letter-spacing",
+            "expl": "Increases or decreases the space between characters in a text"
+        },
+        {
+            "prop": "line-break",
+            "expl": "Specifies how/if to break lines"
+        },
+        {
+            "prop": "line-height",
+            "expl": "Sets the line height"
+        },
+        {
+            "prop": "list-style",
+            "expl": "Sets all the properties for a list in one declaration"
+        },
+        {
+            "prop": "list-style-image",
+            "expl": "Specifies an image as the list-item marker"
+        },
+        {
+            "prop": "list-style-position",
+            "expl": "Specifies the position of the list-item markers (bullet points)"
+        },
+        {
+            "prop": "list-style-type",
+            "expl": "Specifies the type of list-item marker"
+        },
+        {
+            "prop": "margin",
+            "expl": "Sets all the margin properties in one declaration"
+        },
+        {
+            "prop": "margin-block",
+            "expl": "Specifies the margin in the block direction"
+        },
+        {
+            "prop": "margin-block-end",
+            "expl": "Specifies the margin at the end in the block direction"
+        },
+        {
+            "prop": "margin-block-start",
+            "expl": "Specifies the margin at the start in the block direction"
+        },
+        {
+            "prop": "margin-bottom",
+            "expl": "Sets the bottom margin of an element"
+        },
+        {
+            "prop": "margin-inline",
+            "expl": "Specifies the margin in the inline direction"
+        },
+        {
+            "prop": "margin-inline-end",
+            "expl": "Specifies the margin at the end in the inline direction"
+        },
+        {
+            "prop": "margin-inline-start",
+            "expl": "Specifies the margin at the start in the inline direction"
+        },
+        {
+            "prop": "margin-left",
+            "expl": "Sets the left margin of an element"
+        },
+        {
+            "prop": "margin-right",
+            "expl": "Sets the right margin of an element"
+        },
+        {
+            "prop": "margin-top",
+            "expl": "Sets the top margin of an element"
+        },
+        {
+            "prop": "mask",
+            "expl": "Hides parts of an element by masking or clipping an image at specific places"
+        },
+        {
+            "prop": "mask-clip",
+            "expl": "Specifies the mask area"
+        },
+        {
+            "prop": "mask-composite",
+            "expl": "Represents a compositing operation used on the current mask layer with \n    the mask layers below it"
+        },
+        {
+            "prop": "mask-image",
+            "expl": "Specifies an image to be used as a mask layer for an element"
+        },
+        {
+            "prop": "mask-mode",
+            "expl": "Specifies whether the mask layer image is treated as a luminance mask or \n    as an alpha mask"
+        },
+        {
+            "prop": "mask-origin",
+            "expl": "Specifies the origin position (the mask \nposition area) of a mask layer image"
+        },
+        {
+            "prop": "mask-position",
+            "expl": "Sets the starting position of a mask layer image (relative to the \n    mask position area)"
+        },
+        {
+            "prop": "mask-repeat",
+            "expl": "Specifies how the mask layer image is repeated"
+        },
+        {
+            "prop": "mask-size",
+            "expl": "Specifies the size of a mask layer image"
+        },
+        {
+            "prop": "mask-type",
+            "expl": "Specifies whether an SVG <mask> element is treated as a luminance \n    mask or as an alpha mask"
+        },
+        {
+            "prop": "max-height",
+            "expl": "Sets the maximum height of an element"
+        },
+        {
+            "prop": "max-width",
+            "expl": "Sets the maximum width of an element"
+        },
+        {
+            "prop": "@media",
+            "expl": "Sets the style rules for different media types/devices/sizes"
+        },
+        {
+            "prop": "max-block-size",
+            "expl": "Sets the maximum size of an element in the block direction"
+        },
+        {
+            "prop": "max-inline-size",
+            "expl": "Sets the maximum size of an element in the inline direction"
+        },
+        {
+            "prop": "min-block-size",
+            "expl": "Sets the minimum size of an element in the block direction"
+        },
+        {
+            "prop": "min-inline-size",
+            "expl": "Sets the minimum size of an element in the inline direction"
+        },
+        {
+            "prop": "min-height",
+            "expl": "Sets the minimum height of an element"
+        },
+        {
+            "prop": "min-width",
+            "expl": "Sets the minimum width of an element"
+        },
+        {
+            "prop": "mix-blend-mode",
+            "expl": "Specifies how an element's content should blend with its direct parent background"
+        },
+        {
+            "prop": "object-fit",
+            "expl": "Specifies how the contents of a replaced element should be fitted to the box established by its used height and width"
+        },
+        {
+            "prop": "object-position",
+            "expl": "Specifies the alignment of the replaced element inside its box"
+        },
+        {
+            "prop": "offset",
+            "expl": "Is a shorthand, and specifies how to animate an element along a path"
+        },
+        {
+            "prop": "offset-anchor",
+            "expl": "Specifies a point on an element that is fixed to the path it is animated along"
+        },
+        {
+            "prop": "offset-distance",
+            "expl": "Specifies the position along a path where an animated element is placed"
+        },
+        {
+            "prop": "offset-path",
+            "expl": "Specifies the path an element is animated along"
+        },
+        {
+            "prop": "offset-rotate",
+            "expl": "Specifies rotation of an element as it is animated along a path"
+        },
+        {
+            "prop": "opacity",
+            "expl": "Sets the opacity level for an element"
+        },
+        {
+            "prop": "order",
+            "expl": "Sets the order of the flexible item, relative to the rest"
+        },
+        {
+            "prop": "orphans",
+            "expl": "Sets the minimum number of lines that must be left at the bottom of a \n    page or column"
+        },
+        {
+            "prop": "outline",
+            "expl": "A shorthand property for the outline-width, outline-style, and \n    the outline-color properties"
+        },
+        {
+            "prop": "outline-color",
+            "expl": "Sets the color of an outline"
+        },
+        {
+            "prop": "outline-offset",
+            "expl": "Offsets an outline, and draws it beyond the border edge"
+        },
+        {
+            "prop": "outline-style",
+            "expl": "Sets the style of an outline"
+        },
+        {
+            "prop": "outline-width",
+            "expl": "Sets the width of an outline"
+        },
+        {
+            "prop": "overflow\n",
+            "expl": "Specifies what happens if content overflows an element's box"
+        },
+        {
+            "prop": "overflow-anchor\n",
+            "expl": "Specifies whether or not content in viewable area in a scrollable contianer should be pushed down when new content is loaded above"
+        },
+        {
+            "prop": "overflow-wrap",
+            "expl": "Specifies whether or not the browser can break lines with long words, if \n    they overflow the container"
+        },
+        {
+            "prop": "overflow-x",
+            "expl": "Specifies whether or not to clip the left/right edges of the content, if it overflows the element's content area"
+        },
+        {
+            "prop": "overflow-y",
+            "expl": "Specifies whether or not to clip the top/bottom edges of the content, if it overflows the element's content area"
+        },
+        {
+            "prop": "overscroll-behavior",
+            "expl": "Specifies whether to have scroll chaining or overscroll affordance in x- and y-directions"
+        },
+        {
+            "prop": "overscroll-behavior-block",
+            "expl": "Specifies whether to have scroll chaining or overscroll affordance in the block direction"
+        },
+        {
+            "prop": "overscroll-behavior-inline",
+            "expl": "Specifies whether to have scroll chaining or overscroll affordance in the inline direction"
+        },
+        {
+            "prop": "overscroll-behavior-x",
+            "expl": "Specifies whether to have scroll chaining or overscroll affordance in x-direction"
+        },
+        {
+            "prop": "overscroll-behavior-y",
+            "expl": "Specifies whether to have scroll chaining or overscroll affordance in y-directions"
+        },
+        {
+            "prop": "padding",
+            "expl": "A shorthand property for all the padding-* properties"
+        },
+        {
+            "prop": "padding-block",
+            "expl": "Specifies the padding in the block direction"
+        },
+        {
+            "prop": "padding-block-end",
+            "expl": "Specifies the padding at the end in the block direction"
+        },
+        {
+            "prop": "padding-block-start",
+            "expl": "Specifies the padding at the start in the block direction"
+        },
+        {
+            "prop": "padding-bottom",
+            "expl": "Sets the bottom padding of an element"
+        },
+        {
+            "prop": "padding-inline",
+            "expl": "Specifies the padding in the inline direction"
+        },
+        {
+            "prop": "padding-inline-end",
+            "expl": "Specifies the padding at the end in the inline direction"
+        },
+        {
+            "prop": "padding-inline-start",
+            "expl": "Specifies the padding at the start in the inline direction"
+        },
+        {
+            "prop": "padding-left",
+            "expl": "Sets the left padding of an element"
+        },
+        {
+            "prop": "padding-right",
+            "expl": "Sets the right padding of an element"
+        },
+        {
+            "prop": "padding-top",
+            "expl": "Sets the top padding of an element"
+        },
+        {
+            "prop": "page-break-after",
+            "expl": "Sets the page-break behavior after an element"
+        },
+        {
+            "prop": "page-break-before",
+            "expl": "Sets the page-break behavior before an element"
+        },
+        {
+            "prop": "page-break-inside",
+            "expl": "Sets the page-break behavior inside an element"
+        },
+        {
+            "prop": "paint-order",
+            "expl": "Sets the order of how an SVG element or text is painted."
+        },
+        {
+            "prop": "perspective",
+            "expl": "Gives a 3D-positioned element some perspective"
+        },
+        {
+            "prop": "perspective-origin",
+            "expl": "Defines at which position the user is looking at the 3D-positioned element"
+        },
+        {
+            "prop": "place-content",
+            "expl": "Specifies align-content and justify-content property values for flexbox and grid layouts"
+        },
+        {
+            "prop": "place-items",
+            "expl": "Specifies align-items and justify-items property values for grid layouts"
+        },
+        {
+            "prop": "place-self",
+            "expl": "Specifies align-self and justify-self property values for grid layouts"
+        },
+        {
+            "prop": "pointer-events",
+            "expl": "Defines whether or not an element reacts to pointer events"
+        },
+        {
+            "prop": "position",
+            "expl": "Specifies the type of positioning method used for an element (static, relative, absolute or fixed)"
+        },
+        {
+            "prop": "quotes",
+            "expl": "Sets the type of quotation marks for embedded quotations"
+        },
+        {
+            "prop": "resize",
+            "expl": "Defines if (and how) an element is resizable by the user"
+        },
+        {
+            "prop": "right",
+            "expl": "Specifies the right position of a positioned element"
+        },
+        {
+            "prop": "rotate",
+            "expl": "Specifies the rotation of an element"
+        },
+        {
+            "prop": "row-gap",
+            "expl": "Specifies the gap between the grid rows"
+        },
+        {
+            "prop": "scale",
+            "expl": "Specifies the size of an element by scaling up or down"
+        },
+        {
+            "prop": "scroll-behavior",
+            "expl": "Specifies whether to smoothly animate the scroll position in a scrollable box, instead of a straight jump"
+        },
+        {
+            "prop": "scroll-margin",
+            "expl": "Specifies the margin between the snap position and the container"
+        },
+        {
+            "prop": "scroll-margin-block",
+            "expl": "Specifies the margin between the snap position and the container in the block direction"
+        },
+        {
+            "prop": "scroll-margin-block-end",
+            "expl": "Specifies the end margin between the snap position and the container in the block direction"
+        },
+        {
+            "prop": "scroll-margin-block-start",
+            "expl": "Specifies the start margin between the snap position and the container in the block direction"
+        },
+        {
+            "prop": "scroll-margin-bottom",
+            "expl": "Specifies the margin between the snap position on the bottom side and the container"
+        },
+        {
+            "prop": "scroll-margin-inline",
+            "expl": "Specifies the margin between the snap position and the container in the inline direction"
+        },
+        {
+            "prop": "scroll-margin-inline-end",
+            "expl": "Specifies the end margin between the snap position and the container in the inline direction"
+        },
+        {
+            "prop": "scroll-margin-inline-start",
+            "expl": "Specifies the start margin between the snap position and the container in the inline direction"
+        },
+        {
+            "prop": "scroll-margin-left",
+            "expl": "Specifies the margin between the snap position on the left side and the container"
+        },
+        {
+            "prop": "scroll-margin-right",
+            "expl": "Specifies the margin between the snap position on the right side and the container"
+        },
+        {
+            "prop": "scroll-margin-top",
+            "expl": "Specifies the margin between the snap position on the top side and the container"
+        },
+        {
+            "prop": "scroll-padding",
+            "expl": "Specifies the distance from the container to the snap position on the child elements"
+        },
+        {
+            "prop": "scroll-padding-block",
+            "expl": "Specifies the distance in block direction from the container to the snap position on the child elements"
+        },
+        {
+            "prop": "scroll-padding-block-end",
+            "expl": "Specifies the distance in block direction from the end of the container to the snap position on the child elements"
+        },
+        {
+            "prop": "scroll-padding-block-start",
+            "expl": "Specifies the distance in block direction from the start of the container to the snap position on the child elements"
+        },
+        {
+            "prop": "scroll-padding-bottom",
+            "expl": "Specifies the distance from the bottom of the container to the snap position on the child elements"
+        },
+        {
+            "prop": "scroll-padding-inline",
+            "expl": "Specifies the distance in inline direction from the container to the snap position on the child elements"
+        },
+        {
+            "prop": "scroll-padding-inline-end",
+            "expl": "Specifies the distance in inline direction from the end of the container to the snap position on the child elements"
+        },
+        {
+            "prop": "scroll-padding-inline-start",
+            "expl": "Specifies the distance in inline direction from the start of the container to the snap position on the child elements"
+        },
+        {
+            "prop": "scroll-padding-left",
+            "expl": "Specifies the distance from the left side of the container to the snap position on the child elements"
+        },
+        {
+            "prop": "scroll-padding-right",
+            "expl": "Specifies the distance from the right side of the container to the snap position on the child elements"
+        },
+        {
+            "prop": "scroll-padding-top",
+            "expl": "Specifies the distance from the top of the container to the snap position on the child elements"
+        },
+        {
+            "prop": "scroll-snap-align",
+            "expl": "Specifies where to position elements when the user stops scrolling"
+        },
+        {
+            "prop": "scroll-snap-stop",
+            "expl": "Specifies scroll behaviour after fast swipe on trackpad or touch screen"
+        },
+        {
+            "prop": "scroll-snap-type",
+            "expl": "Specifies how snap behaviour should be when scrolling"
+        },
+        {
+            "prop": "tab-size",
+            "expl": "Specifies the width of a tab character"
+        },
+        {
+            "prop": "table-layout",
+            "expl": "Defines the algorithm used to lay out table cells, rows, and columns"
+        },
+        {
+            "prop": "text-align",
+            "expl": "Specifies the horizontal alignment of text"
+        },
+        {
+            "prop": "text-align-last",
+            "expl": "Describes how the last line of a block or a line right before a forced line break is aligned when text-align is \"justify\""
+        },
+        {
+            "prop": "text-combine-upright",
+            "expl": "Specifies the combination of multiple characters into the space of a single character"
+        },
+        {
+            "prop": "text-decoration",
+            "expl": "Specifies the decoration added to text"
+        },
+        {
+            "prop": "text-decoration-color",
+            "expl": "Specifies the color of the text-decoration"
+        },
+        {
+            "prop": "text-decoration-line",
+            "expl": "Specifies the type of line in a text-decoration"
+        },
+        {
+            "prop": "text-decoration-style",
+            "expl": "Specifies the style of the line in a text decoration"
+        },
+        {
+            "prop": "\n    text-decoration-thickness",
+            "expl": "Specifies the thickness of the decoration line"
+        },
+        {
+            "prop": "text-emphasis",
+            "expl": "Applies emphasis marks to text"
+        },
+        {
+            "prop": "text-indent",
+            "expl": "Specifies the indentation of the first line in a text-block"
+        },
+        {
+            "prop": "text-justify",
+            "expl": "Specifies the justification method used when text-align is \"justify\""
+        },
+        {
+            "prop": "text-orientation",
+            "expl": "Defines the orientation of characters in a line"
+        },
+        {
+            "prop": "text-overflow",
+            "expl": "Specifies what should happen when text overflows the containing element"
+        },
+        {
+            "prop": "text-shadow",
+            "expl": "Adds shadow to text "
+        },
+        {
+            "prop": "text-transform",
+            "expl": "Controls the capitalization of text"
+        },
+        {
+            "prop": "text-underline-position",
+            "expl": "Specifies the position of the underline which is set using the text-decoration property"
+        },
+        {
+            "prop": "top",
+            "expl": "Specifies the top position of a positioned element"
+        },
+        {
+            "prop": "transform",
+            "expl": "Applies a 2D or 3D transformation to an element"
+        },
+        {
+            "prop": "transform-origin",
+            "expl": "Allows you to change the position on transformed elements"
+        },
+        {
+            "prop": "transform-style",
+            "expl": "Specifies how nested elements are rendered in 3D space"
+        },
+        {
+            "prop": "transition",
+            "expl": "A shorthand property for all the transition-* properties"
+        },
+        {
+            "prop": "transition-delay",
+            "expl": "Specifies when the transition effect will start"
+        },
+        {
+            "prop": "transition-duration",
+            "expl": "Specifies how many seconds or milliseconds a transition effect takes to complete"
+        },
+        {
+            "prop": "transition-property",
+            "expl": "Specifies the name of the CSS property the transition effect is for"
+        },
+        {
+            "prop": "transition-timing-function",
+            "expl": "Specifies the speed curve of the transition effect"
+        },
+        {
+            "prop": "translate",
+            "expl": "Specifies the position of an element"
+        },
+        {
+            "prop": "unicode-bidi",
+            "expl": "Used together with the direction property to set or return whether the text should be overridden to support multiple languages in the same document"
+        },
+        {
+            "prop": "user-select",
+            "expl": "Specifies whether the text of an element can be selected"
+        },
+        {
+            "prop": "vertical-align",
+            "expl": "Sets the vertical alignment of an element"
+        },
+        {
+            "prop": "visibility",
+            "expl": "Specifies whether or not an element is visible"
+        },
+        {
+            "prop": "white-space",
+            "expl": "Specifies how white-space inside an element is handled"
+        },
+        {
+            "prop": "widows",
+            "expl": "Sets the minimum number of lines that must be left at the top of a page \n    or column"
+        },
+        {
+            "prop": "width",
+            "expl": "Sets the width of an element"
+        },
+        {
+            "prop": "word-break",
+            "expl": "Specifies how words should break when reaching the end of a line"
+        },
+        {
+            "prop": "word-spacing",
+            "expl": "Increases or decreases the space between words in a text"
+        },
+        {
+            "prop": "word-wrap",
+            "expl": "Allows long, unbreakable words to be broken and wrap to the next line"
+        },
+        {
+            "prop": "writing-mode",
+            "expl": "Specifies whether lines of text are laid out horizontally or vertically"
+        },
+        {
+            "prop": "z-index",
+            "expl": "Sets the stack order of a positioned element"
+        }
+    ]
+}
