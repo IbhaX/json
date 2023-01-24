@@ -1,0 +1,92 @@
+{
+    "js_num": [
+        {
+            "name": "constructor",
+            "desc": "Returns the function that created JavaScript's Number prototype"
+        },
+        {
+            "name": "EPSILON",
+            "desc": "Returns the difference between 1 and the smallest number greater than 1"
+        },
+        {
+            "name": "isFinite()",
+            "desc": "Checks whether a value is a finite number"
+        },
+        {
+            "name": "isInteger()",
+            "desc": "Checks whether a value is an integer"
+        },
+        {
+            "name": "isNaN()",
+            "desc": "Checks whether a value is Number.NaN"
+        },
+        {
+            "name": "isSafeInteger()",
+            "desc": "Checks whether a value is a safe integer"
+        },
+        {
+            "name": "MAX_SAFE_INTEGER",
+            "desc": "Returns the maximum safe integer in JavaScript."
+        },
+        {
+            "name": "MIN_SAFE_INTEGER",
+            "desc": "Returns the minimum safe integer in JavaScript"
+        },
+        {
+            "name": "MAX_VALUE",
+            "desc": "Returns the largest number possible in JavaScript"
+        },
+        {
+            "name": "MIN_VALUE",
+            "desc": "Returns the smallest number possible in JavaScript"
+        },
+        {
+            "name": "NaN",
+            "desc": "Represents a \"Not-a-Number\" value"
+        },
+        {
+            "name": "NEGATIVE_INFINITY",
+            "desc": "Represents negative infinity (returned on overflow)"
+        },
+        {
+            "name": "POSITIVE_INFINITY",
+            "desc": "Represents infinity (returned on overflow)"
+        },
+        {
+            "name": "parseFloat()",
+            "desc": "Parses a string an returns a number"
+        },
+        {
+            "name": "parseInt()",
+            "desc": "Parses a string an returns a whole number"
+        },
+        {
+            "name": "prototype",
+            "desc": "Allows you to add properties and methods to an object"
+        },
+        {
+            "name": "toExponential(x)",
+            "desc": "Converts a number into an exponential notation"
+        },
+        {
+            "name": "toFixed(x)",
+            "desc": "Formats a number with x numbers of digits after the decimal point"
+        },
+        {
+            "name": "toLocaleString()",
+            "desc": "Converts a number into a string, based on the locale settings"
+        },
+        {
+            "name": "toPrecision(x)",
+            "desc": "Formats a number to x length"
+        },
+        {
+            "name": "toString()",
+            "desc": "Converts a number to a string"
+        },
+        {
+            "name": "valueOf()",
+            "desc": "Returns the primitive value of a number"
+        }
+    ]
+}
