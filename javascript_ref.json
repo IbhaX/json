@@ -1,0 +1,3059 @@
+{
+    "js": [
+        {
+            "method": "abs()",
+            "desc": "Returns the absolute value of x",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "accessKey",
+            "desc": "Sets or returns the accesskey attribute of an element",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "acos()",
+            "desc": "Returns the arccosine of x, in radians",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "acosh()",
+            "desc": "Returns the hyperbolic arccosine of x",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "activeElement",
+            "desc": "Returns the currently focused element in the document",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "addEventListener()",
+            "desc": "Attaches an event handler to the document",
+            "belongs_to": "Document, Element"
+        },
+        {
+            "method": "adoptNode()",
+            "desc": "Adopts a node from another document",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "alert()",
+            "desc": "Displays an alert box with a message and an OK button",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "altKey",
+            "desc": "Returns whether the \"ALT\" key was pressed when the mouse event was triggered",
+            "belongs_to": "MouseEvent, KeyboardEvent, \n    TouchEvent"
+        },
+        {
+            "method": "anchors",
+            "desc": "Returns a collection of all <a> elements in the document that have a name attribute",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "animationName",
+            "desc": "Returns the name of the animation",
+            "belongs_to": "AnimationEvent"
+        },
+        {
+            "method": "appCodeName",
+            "desc": "Returns the code name of the browser",
+            "belongs_to": "Navigator"
+        },
+        {
+            "method": "appendChild()",
+            "desc": "Adds a new child node, to an element, as the last child node",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "applets",
+            "desc": "Returns a collection of all <applet> elements in the document",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "appName",
+            "desc": "Returns the name of the browser",
+            "belongs_to": "Navigator"
+        },
+        {
+            "method": "appVersion",
+            "desc": "Returns the version information of the browser",
+            "belongs_to": "Navigator"
+        },
+        {
+            "method": "asin()",
+            "desc": "Returns the arcsine of x, in radians",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "asinh()",
+            "desc": "Returns the hyperbolic arcsine of x",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "assert()",
+            "desc": "Writes an error message to the console if the assertion is false",
+            "belongs_to": "Console"
+        },
+        {
+            "method": "assign()",
+            "desc": "Loads a new document",
+            "belongs_to": "Location"
+        },
+        {
+            "method": "atan()",
+            "desc": "Returns the arctangent of x as a numeric value between -PI/2 and PI/2 radians",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "atan2()",
+            "desc": "Returns the arctangent of the quotient of its arguments",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "atanh()",
+            "desc": "Returns the hyperbolic arctangent of x",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "atob()",
+            "desc": "Decodes a base-64 encoded string",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "attributes",
+            "desc": "Returns a NamedNodeMap of an element's attributes",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "availHeight",
+            "desc": "Returns the height of the screen (excluding the Windows Taskbar)",
+            "belongs_to": "Screen"
+        },
+        {
+            "method": "availWidth",
+            "desc": "Returns the width of the screen (excluding the Windows Taskbar)",
+            "belongs_to": "Screen"
+        },
+        {
+            "method": "back()",
+            "desc": "Loads the previous URL in the history list",
+            "belongs_to": "History"
+        },
+        {
+            "method": "baseURI",
+            "desc": "Returns the absolute base URI of a document",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "blur()",
+            "desc": "Removes focus from an element",
+            "belongs_to": "Element, Window"
+        },
+        {
+            "method": "body",
+            "desc": "Sets or returns the document's body (the <body> element)",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "break",
+            "desc": "Exits a switch or a loop",
+            "belongs_to": "Statements"
+        },
+        {
+            "method": "btoa()",
+            "desc": "Encodes a string in base-64",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "bubbles",
+            "desc": "Returns whether or not a specific event is a bubbling event",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "button",
+            "desc": "Returns which mouse button was pressed when the mouse event was triggered",
+            "belongs_to": "MouseEvent"
+        },
+        {
+            "method": "buttons",
+            "desc": "Returns which mouse buttons were pressed when the mouse event was triggered",
+            "belongs_to": "MouseEvent"
+        },
+        {
+            "method": "cancelable",
+            "desc": "Returns whether or not an event can have its default action prevented",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "cbrt()",
+            "desc": "Returns the cubic root of x",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "ceil()",
+            "desc": "Returns x, rounded upwards to the nearest integer",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "changeTouches",
+            "desc": "Returns a list of all the touch objects whose state changed between the \n    previous touch and this touch",
+            "belongs_to": "TouchEvent"
+        },
+        {
+            "method": "characterSet",
+            "desc": "Returns the character encoding for the document",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "charAt()",
+            "desc": "Returns the character at the specified index (position)",
+            "belongs_to": "String"
+        },
+        {
+            "method": "charCode",
+            "desc": "Returns the Unicode character code of the key that triggered the  onkeypress event",
+            "belongs_to": "KeyboardEvent"
+        },
+        {
+            "method": "charCodeAt()",
+            "desc": "Returns the Unicode of the character at the specified index",
+            "belongs_to": "String"
+        },
+        {
+            "method": "charset",
+            "desc": "Deprecated. Use characterSet instead. Returns the character encoding for the document",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "childElementCount",
+            "desc": "Returns the number of child elements an element has",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "childNodes",
+            "desc": "Returns a collection of an element's child nodes (including text and comment nodes)",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "children",
+            "desc": "Returns a collection of an element's child element (excluding text and comment nodes)",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "classList",
+            "desc": "Returns the class name(s) of an element",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "class",
+            "desc": "Declares a class",
+            "belongs_to": "Statements"
+        },
+        {
+            "method": "className",
+            "desc": "Sets or returns the value of the class attribute of an element",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "clear()",
+            "desc": "Clears the console",
+            "belongs_to": "Console, Storage"
+        },
+        {
+            "method": "clearInterval()",
+            "desc": "Clears a timer set with setInterval()",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "clearTimeout()",
+            "desc": "Clears a timer set with setTimeout()",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "clearWatch()",
+            "desc": "Unregister location/error monitoring handlers previously installed using \n    Geolocation.watchPosition()",
+            "belongs_to": "Geolocation"
+        },
+        {
+            "method": "click()",
+            "desc": "Simulates a mouse-click on an element",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "clientHeight",
+            "desc": "Returns the height of an element, including padding",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "clientLeft",
+            "desc": "Returns the width of the left border of an element",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "clientTop",
+            "desc": "Returns the width of the top border of an element",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "clientWidth",
+            "desc": "Returns the width of an element, including padding",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "clientX",
+            "desc": "Returns the horizontal coordinate of the mouse pointer, relative to the current window, when  the mouse event was triggered",
+            "belongs_to": "MouseEvent, \n    TouchEvent"
+        },
+        {
+            "method": "clientY",
+            "desc": "Returns the vertical coordinate of the mouse pointer, relative to the current window, when  the mouse event was triggered",
+            "belongs_to": "MouseEvent, \n    TouchEvent"
+        },
+        {
+            "method": "clipboardData",
+            "desc": "Returns an object containing the data affected by the clipboard \n    operation",
+            "belongs_to": "ClipboardData"
+        },
+        {
+            "method": "closed",
+            "desc": "Returns a Boolean value indicating whether a window has been closed or not",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "close()",
+            "desc": "Closes the output stream previously opened with document.open()",
+            "belongs_to": "Document, Window"
+        },
+        {
+            "method": "closest()",
+            "desc": "Searches up the DOM tree for the closest element which matches a specified CSS selector",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "clz32(x)",
+            "desc": "Returns the number of leading zeros in a 32-bit binary representation of x",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "code",
+            "desc": "Returns the code of the key that triggered the event",
+            "belongs_to": "KeyboardEvent"
+        },
+        {
+            "method": "colorDepth",
+            "desc": "Returns the bit depth of the color palette for displaying images",
+            "belongs_to": "Screen"
+        },
+        {
+            "method": "compareDocumentPosition()",
+            "desc": "Compares the document position of two elements",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "compile()",
+            "desc": "Deprecated in version 1.5. Compiles a regular expression",
+            "belongs_to": "RegExp"
+        },
+        {
+            "method": "composed",
+            "desc": "Returns whether the event is composed or not ",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "concat()",
+            "desc": "Joins two or more arrays, and returns a copy of the joined arrays",
+            "belongs_to": "Array, String"
+        },
+        {
+            "method": "confirm()",
+            "desc": "Displays a dialog box with a message and an OK and a Cancel button",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "const",
+            "desc": "Declares a variable with a constant value",
+            "belongs_to": "Statements"
+        },
+        {
+            "method": "constructor()",
+            "desc": "Creates and initialize objects created within a class",
+            "belongs_to": "Classes"
+        },
+        {
+            "method": "constructor",
+            "desc": "Returns the function that created the Array object's prototype",
+            "belongs_to": "Array, Boolean, Date, Number, RegExp"
+        },
+        {
+            "method": "contains()",
+            "desc": "Returns true if a node is a descendant of a node, otherwise false",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "contentEditable",
+            "desc": "Sets or returns whether the content of an element is editable or not",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "continue",
+            "desc": "Breaks one iteration (in the loop) if a specified condition occurs, and \ncontinues with the next iteration in the loop",
+            "belongs_to": "Statements"
+        },
+        {
+            "method": "console",
+            "desc": "Returns a reference to the Console object, which provides methods for logging information to the browser's console (See Console object)",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "cookie",
+            "desc": "Returns all name/value pairs of cookies in the document",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "cookieEnabled",
+            "desc": "Determines whether cookies are enabled in the browser",
+            "belongs_to": "Navigator"
+        },
+        {
+            "method": "coordinates",
+            "desc": "Returns the position and altitude of the device on Earth",
+            "belongs_to": "Geolocation"
+        },
+        {
+            "method": "copyWithin()",
+            "desc": "Copies array elements within the array, to and from specified positions",
+            "belongs_to": "Array"
+        },
+        {
+            "method": "cos(x)",
+            "desc": "Returns the cosine of x (x is in radians)",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "cosh(x)",
+            "desc": "Returns the hyperbolic cosine of x",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "count()",
+            "desc": "Logs the number of times that this particular call to count() has been \n    called",
+            "belongs_to": "Console"
+        },
+        {
+            "method": "createAttribute()",
+            "desc": "Creates an attribute node",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "createComment()",
+            "desc": "Creates a Comment node with the specified text",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "createDocumentFragment()",
+            "desc": "Creates an empty DocumentFragment node",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "createElement()",
+            "desc": "Creates an Element node",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "createEvent()",
+            "desc": "Creates a new event",
+            "belongs_to": "Document, Event"
+        },
+        {
+            "method": "createTextNode()",
+            "desc": "Creates a Text node",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "ctrlKey",
+            "desc": "Returns whether the \"CTRL\" key was pressed when the mouse event was triggered",
+            "belongs_to": "MouseEvent, KeyboardEvent, \n    TouchEvent"
+        },
+        {
+            "method": "currentTarget",
+            "desc": "Returns the element whose event listeners triggered the event",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "data",
+            "desc": "Returns the inserted characters",
+            "belongs_to": "InputEvent"
+        },
+        {
+            "method": "dataTransfer",
+            "desc": "Returns an object containing the data being dragged/dropped, or \n    inserted/deleted",
+            "belongs_to": "DragEvent, InputEvent"
+        },
+        {
+            "method": "debugger",
+            "desc": "Stops the execution of JavaScript, and calls (if available) the debugging function",
+            "belongs_to": "Statements"
+        },
+        {
+            "method": "decodeURI()",
+            "desc": "Decodes a URI",
+            "belongs_to": "Global"
+        },
+        {
+            "method": "decodeURIComponent()",
+            "desc": "Decodes a URI component",
+            "belongs_to": "Global"
+        },
+        {
+            "method": "defaultPrevented",
+            "desc": "Returns whether or not the preventDefault() method was called for  the event",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "defaultStatus",
+            "desc": "Sets or returns the default text in the statusbar of a window",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "defaultView",
+            "desc": "Returns the window object associated with a document, or null if none is available.",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "delete",
+            "desc": "Deletes a property from an object",
+            "belongs_to": "Operators"
+        },
+        {
+            "method": "deltaX",
+            "desc": "Returns the horizontal scroll amount of a mouse wheel (x-axis)",
+            "belongs_to": "WheelEvent"
+        },
+        {
+            "method": "deltaY",
+            "desc": "Returns the vertical scroll amount of a mouse wheel (y-axis)",
+            "belongs_to": "WheelEvent"
+        },
+        {
+            "method": "deltaZ",
+            "desc": "Returns the scroll amount of a mouse wheel for the z-axis",
+            "belongs_to": "WheelEvent"
+        },
+        {
+            "method": "deltaMode",
+            "desc": "Returns a number that represents the unit of measurements for delta values (pixels, lines or pages)",
+            "belongs_to": "WheelEvent"
+        },
+        {
+            "method": "designMode",
+            "desc": "Controls whether the entire document should be editable or not.",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "detail",
+            "desc": "Returns a number that indicates how many times the mouse was clicked",
+            "belongs_to": "UiEvent"
+        },
+        {
+            "method": "do ... while",
+            "desc": "Executes a block of statements and repeats the block while a condition is \ntrue",
+            "belongs_to": "Statements"
+        },
+        {
+            "method": "doctype",
+            "desc": "Returns the Document Type Declaration associated with the document",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "document",
+            "desc": "Returns the Document object for the window (See Document object)",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "documentElement",
+            "desc": "Returns the Document Element of the document (the <html> element)",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "documentMode",
+            "desc": "Returns the mode used by the browser to render the document",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "documentURI",
+            "desc": "Sets or returns the location of the document",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "domain",
+            "desc": "Returns the domain name of the server that loaded the document",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "domConfig",
+            "desc": "Obsolete. Returns the DOM configuration of the document",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "elapsedTime",
+            "desc": "Returns the number of seconds an animation has been running",
+            "belongs_to": "AnimationEvent"
+        },
+        {
+            "method": "elapsedTime",
+            "desc": "Returns the number of seconds a transition has been running",
+            "belongs_to": "\u00a0"
+        },
+        {
+            "method": "embeds",
+            "desc": "Returns a collection of all <embed> elements the document",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "encodeURI()",
+            "desc": "Encodes a URI",
+            "belongs_to": "Global"
+        },
+        {
+            "method": "encodeURIComponent()",
+            "desc": "Encodes a URI component",
+            "belongs_to": "Global"
+        },
+        {
+            "method": "E",
+            "desc": "Returns Euler's number (approx. 2.718)",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "endsWith()",
+            "desc": "Checks whether a string ends with specified string/characters",
+            "belongs_to": "String"
+        },
+        {
+            "method": "entries()",
+            "desc": "Returns a key/value pair Array Iteration Object",
+            "belongs_to": "Array"
+        },
+        {
+            "method": "error()",
+            "desc": "Outputs an error message to the console",
+            "belongs_to": "Console"
+        },
+        {
+            "method": "escape()",
+            "desc": "Deprecated in version 1.5. Use encodeURI() or encodeURIComponent() instead",
+            "belongs_to": "Global"
+        },
+        {
+            "method": "eval()",
+            "desc": "Evaluates a string and executes it as if it was script code",
+            "belongs_to": "Global"
+        },
+        {
+            "method": "eventPhase",
+            "desc": "Returns which phase of the event flow is currently being evaluated",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "every()",
+            "desc": "Checks if every element in an array pass a test",
+            "belongs_to": "Array"
+        },
+        {
+            "method": "exec()",
+            "desc": "Tests for a match in a string. Returns the first match",
+            "belongs_to": "RegExp"
+        },
+        {
+            "method": "execCommand()",
+            "desc": "Invokes the specified clipboard operation on the element currently having focus.",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "exitFullscreen()",
+            "desc": "Cancels an element in fullscreen mode",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "exp(x)",
+            "desc": "Returns the value of Ex",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "expm1(x)",
+            "desc": "Returns the value of Ex minus 1",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "export",
+            "desc": "Export functions so they can be used for imports in external modules, and other scripts",
+            "belongs_to": ""
+        },
+        {
+            "method": "extends",
+            "desc": "Extends a class (inherit)",
+            "belongs_to": "Classes"
+        },
+        {
+            "method": "dir",
+            "desc": "Sets or returns the value of the dir attribute of an element",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "fill()",
+            "desc": "Fill the elements in an array with a static value",
+            "belongs_to": "Array"
+        },
+        {
+            "method": "filter()",
+            "desc": "Creates a new array with every element in an array that pass a test",
+            "belongs_to": "Array"
+        },
+        {
+            "method": "find()",
+            "desc": "Returns the value of the first element in an array that pass a test",
+            "belongs_to": "Array"
+        },
+        {
+            "method": "findIndex()",
+            "desc": "Returns the index of the first element in an array that pass a test",
+            "belongs_to": "Array"
+        },
+        {
+            "method": "floor()",
+            "desc": "Returns x, rounded downwards to the nearest integer",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "focus()",
+            "desc": "Gives focus to an element",
+            "belongs_to": "Element, Window"
+        },
+        {
+            "method": "for",
+            "desc": "Marks a block of statements to be executed as long as a condition is true",
+            "belongs_to": "Statements"
+        },
+        {
+            "method": "for ... in  ",
+            "desc": "Marks a block of statements to be executed for each element of an object (or \narray)",
+            "belongs_to": "Statements"
+        },
+        {
+            "method": "forEach()",
+            "desc": "Calls a function for each array element",
+            "belongs_to": "Array"
+        },
+        {
+            "method": "forms",
+            "desc": "Returns a collection of all <form> elements in the document",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "forward()",
+            "desc": "Loads the next URL in the history list",
+            "belongs_to": "History"
+        },
+        {
+            "method": "frameElement",
+            "desc": "Returns the <iframe> element in which the current window is inserted",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "frames",
+            "desc": "Returns all <iframe> elements in the current window",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "from()",
+            "desc": "Creates an array from an object",
+            "belongs_to": "Array"
+        },
+        {
+            "method": "fromCharCode()",
+            "desc": "Converts Unicode values to characters",
+            "belongs_to": "String"
+        },
+        {
+            "method": "fround()",
+            "desc": "Returns the nearest (32-bit single precision) float representation of a number",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "fullscreenElement",
+            "desc": "Returns the current element that is displayed in fullscreen mode",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "fullscreenEnabled()",
+            "desc": "Returns a Boolean value indicating whether the document can be viewed in fullscreen mode",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "function",
+            "desc": "Declares a function",
+            "belongs_to": "Statements"
+        },
+        {
+            "method": "geolocation",
+            "desc": "Returns a Geolocation object that can be used to locate the user's position",
+            "belongs_to": "Navigator"
+        },
+        {
+            "method": "getDate()",
+            "desc": "Returns the day of the month (from 1-31)",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "getDay()",
+            "desc": "Returns the day of the week (from 0-6)",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "getAttribute()",
+            "desc": "Returns the specified attribute value of an element node",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "getAttributeNode()",
+            "desc": "Returns the specified attribute node",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "getBoundingClientRect()",
+            "desc": "Returns the size of an element and its position relative to the viewport",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "getComputedStyle()",
+            "desc": "Gets the current computed CSS styles applied to an element",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "getCurrentPosition()",
+            "desc": "Returns the current position of the device",
+            "belongs_to": "Geolocation"
+        },
+        {
+            "method": "getElementById()",
+            "desc": "Returns the element that has the ID attribute with the specified value",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "getElementsByClassName()",
+            "desc": "Returns a NodeList containing all elements with the specified class name",
+            "belongs_to": "Document, Element"
+        },
+        {
+            "method": "getElementsByName()",
+            "desc": "Returns a NodeList containing all elements with a specified name",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "getElementsByTagName()",
+            "desc": "Returns a NodeList containing all elements with the specified tag name",
+            "belongs_to": "Document, Element"
+        },
+        {
+            "method": "getFullYear()",
+            "desc": "Returns the year",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "getHours()",
+            "desc": "Returns the hour (from 0-23)",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "getItem()",
+            "desc": "Returns the value of the specified key name",
+            "belongs_to": "Storage"
+        },
+        {
+            "method": "getMilliseconds()",
+            "desc": "Returns the milliseconds (from 0-999)",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "getMinutes()",
+            "desc": "Returns the minutes (from 0-59)",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "getModifierState()",
+            "desc": "Returns an array containing target ranges that will be affected by the \n    insertion/deletion",
+            "belongs_to": "MouseEvent"
+        },
+        {
+            "method": "getMonth()",
+            "desc": "Returns the month (from 0-11)",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "getNamedItem()",
+            "desc": "Returns a specified attribute node from a NamedNodeMap",
+            "belongs_to": "Attribute"
+        },
+        {
+            "method": "getSeconds()",
+            "desc": "Returns the seconds (from 0-59)",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "getSelection()",
+            "desc": "Returns a Selection object representing the range of text selected by the user",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "getTargetRanges()",
+            "desc": "Returns an array containing target ranges that will be affected by the \n    insertion/deletion",
+            "belongs_to": "InputEvent"
+        },
+        {
+            "method": "getTime()",
+            "desc": "Returns the number of milliseconds since midnight Jan 1 1970, and a specified date",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "getTimezoneOffset()",
+            "desc": "Returns the time difference between UTC time and local time, in minutes",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "getUTCDate()",
+            "desc": "Returns the day of the month, according to universal time (from 1-31)",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "getUTCDay()",
+            "desc": "Returns the day of the week, according to universal time (from 0-6)",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "getUTCFullYear()",
+            "desc": "Returns the year, according to universal time",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "getUTCHours()",
+            "desc": "Returns the hour, according to universal time (from 0-23)",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "getUTCMilliseconds()",
+            "desc": "Returns the milliseconds, according to universal time (from 0-999)",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "getUTCMinutes()",
+            "desc": "Returns the minutes, according to universal time (from 0-59)",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "getUTCMonth()",
+            "desc": "Returns the month, according to universal time (from 0-11)",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "getUTCSeconds()",
+            "desc": "Returns the seconds, according to universal time (from 0-59)",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "getYear()",
+            "desc": "Deprecated. Use the getFullYear() method instead",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "global",
+            "desc": "Checks whether the \"g\" modifier is set",
+            "belongs_to": "RegExp"
+        },
+        {
+            "method": "go()",
+            "desc": "Loads a specific URL from the history list",
+            "belongs_to": "History"
+        },
+        {
+            "method": "group()",
+            "desc": "Creates a new inline group in the console. This indents following \n    console messages by an additional level, until console.groupEnd() is called",
+            "belongs_to": "Console"
+        },
+        {
+            "method": "groupCollapsed()",
+            "desc": "Creates a new inline group in the console. However, the new group is \n    created collapsed. The user will need to use the disclosure button to expand \n    it",
+            "belongs_to": "Console"
+        },
+        {
+            "method": "groupEnd()",
+            "desc": "Exits the current inline group in the console",
+            "belongs_to": "Console"
+        },
+        {
+            "method": "hasAttribute()",
+            "desc": "Returns true if an element has the specified attribute, otherwise false",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "hasAttributes()",
+            "desc": "Returns true if an element has any attributes, otherwise false",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "hasChildNodes()",
+            "desc": "Returns true if an element has any child nodes, otherwise false",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "hasFocus()",
+            "desc": "Returns a Boolean value indicating whether the document has focus",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "hash",
+            "desc": "Sets or returns the anchor part (#) of a URL",
+            "belongs_to": "Location"
+        },
+        {
+            "method": "head",
+            "desc": "Returns the <head> element of the document",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "height",
+            "desc": "Returns the total height of the screen",
+            "belongs_to": "Screen"
+        },
+        {
+            "method": "history",
+            "desc": "Returns the History object for the window (See History object)",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "host",
+            "desc": "Sets or returns the hostname and port number of a URL",
+            "belongs_to": "Location"
+        },
+        {
+            "method": "hostname",
+            "desc": "Sets or returns the hostname of a URL",
+            "belongs_to": "Location"
+        },
+        {
+            "method": "href",
+            "desc": "Sets or returns the entire URL",
+            "belongs_to": "Location"
+        },
+        {
+            "method": "id",
+            "desc": "Sets or returns the value of the id attribute of an element",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "if ... else ... else if",
+            "desc": "Marks a block of statements to be executed depending on a condition",
+            "belongs_to": "Statements"
+        },
+        {
+            "method": "ignoreCase",
+            "desc": "Checks whether the \"i\" modifier is set",
+            "belongs_to": "RegExp"
+        },
+        {
+            "method": "images",
+            "desc": "Returns a collection of all <img> elements in the document",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "implementation",
+            "desc": "Returns the DOMImplementation object that handles this document",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "import",
+            "desc": "Import functions exported from an external module, and another script",
+            "belongs_to": ""
+        },
+        {
+            "method": "importNode()",
+            "desc": "Imports a node from another document",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "in",
+            "desc": "Returns true if the specified property is in the specified object, otherwise false",
+            "belongs_to": "Operators"
+        },
+        {
+            "method": "includes()",
+            "desc": "Check if an array contains the specified element",
+            "belongs_to": "Array, String"
+        },
+        {
+            "method": "indexOf()",
+            "desc": "Search the array for an element and returns its position",
+            "belongs_to": "Array, String"
+        },
+        {
+            "method": "Infinity",
+            "desc": "A numeric value that represents positive/negative infinity",
+            "belongs_to": "Global"
+        },
+        {
+            "method": "info()",
+            "desc": "Outputs an informational message to the console",
+            "belongs_to": "Console"
+        },
+        {
+            "method": "innerHeight",
+            "desc": "Returns the height of the window's content area (viewport) including \n    scrollbars",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "innerHTML",
+            "desc": "Sets or returns the content of an element",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "innerText",
+            "desc": "Sets or returns the text content of a node and its descendants",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "innerWidth",
+            "desc": "Returns the width of a window's content area (viewport) including \n    scrollbars",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "inputEncoding",
+            "desc": "Returns the encoding, character set, used for the document",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "inputType",
+            "desc": "Returns the type of the change (i.e \"inserting\" or \"deleting\")",
+            "belongs_to": "InputEvent"
+        },
+        {
+            "method": "insertAdjacentElement()",
+            "desc": "Inserts a HTML element at the specified position relative to the current element",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "insertAdjacentHTML()",
+            "desc": "Inserts a HTML formatted text at the specified position relative to the current element",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "insertAdjacentText()",
+            "desc": "Inserts text into the specified position relative to the current element",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "insertBefore()",
+            "desc": "Inserts a new child node before a specified, existing, child node",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "instanceof",
+            "desc": "Returns true if the specified object is an instance of the specified object",
+            "belongs_to": "Operators"
+        },
+        {
+            "method": "isArray()",
+            "desc": "Checks whether an object is an array",
+            "belongs_to": "Array"
+        },
+        {
+            "method": "isComposing",
+            "desc": "Returns whether the state of the event is composing or not",
+            "belongs_to": "InputEvent, \n    KeyboardEvent"
+        },
+        {
+            "method": "isContentEditable",
+            "desc": "Returns true if the content of an element is editable, otherwise false",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "isDefaultNamespace()",
+            "desc": "Returns true if a specified namespaceURI is the default, otherwise false",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "isEqualNode()",
+            "desc": "Checks if two elements are equal",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "isFinite()",
+            "desc": "Determines whether a value is a finite, legal number",
+            "belongs_to": "Global, Number"
+        },
+        {
+            "method": "isId",
+            "desc": "Returns true if the attribute is of type Id, otherwise it returns false",
+            "belongs_to": "Attribute"
+        },
+        {
+            "method": "isInteger()",
+            "desc": "Checks whether a value is an integer",
+            "belongs_to": "Number"
+        },
+        {
+            "method": "isNaN()",
+            "desc": "Determines whether a value is an illegal number",
+            "belongs_to": "Global, Number"
+        },
+        {
+            "method": "isSafeInteger()",
+            "desc": "Checks whether a value is a safe integer",
+            "belongs_to": "Number"
+        },
+        {
+            "method": "isSameNode()",
+            "desc": "Checks if two elements are the same node",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "isSupported()",
+            "desc": "Returns true if a specified feature is supported on the element",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "isTrusted",
+            "desc": "Returns whether or not an event is trusted",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "item()",
+            "desc": "Returns the attribute node at a specified index in a NamedNodeMap",
+            "belongs_to": "Attribute, HTMLCollection"
+        },
+        {
+            "method": "join()",
+            "desc": "Joins all elements of an array into a string",
+            "belongs_to": "Array"
+        },
+        {
+            "method": "key",
+            "desc": "Returns the key value of the key represented by the event",
+            "belongs_to": "KeyboardEvent, StorageEvent"
+        },
+        {
+            "method": "key()",
+            "desc": "Returns the name of the nth key in the storage",
+            "belongs_to": "Storage"
+        },
+        {
+            "method": "keyCode",
+            "desc": "Returns the Unicode character code of the key that triggered the onkeypress event, or the \nUnicode key code of the key that triggered the onkeydown or \nonkeyup event",
+            "belongs_to": "KeyboardEvent"
+        },
+        {
+            "method": "keys()",
+            "desc": "Returns a Array Iteration Object, containing the keys of the original array",
+            "belongs_to": "Array"
+        },
+        {
+            "method": "lang",
+            "desc": "Sets or returns the value of the lang attribute of an element",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "language",
+            "desc": "Returns the language of the browser",
+            "belongs_to": "Navigator"
+        },
+        {
+            "method": "lastChild",
+            "desc": "Returns the last child node of an element",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "lastElementChild",
+            "desc": "Returns the last child element of an element",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "lastIndex",
+            "desc": "Specifies the index at which to start the next match",
+            "belongs_to": "RegExp"
+        },
+        {
+            "method": "lastIndexOf()",
+            "desc": "Search the array for an element, starting at the end, and returns its position",
+            "belongs_to": "Array, String"
+        },
+        {
+            "method": "lastModified",
+            "desc": "Returns the date and time the document was last modified",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "length",
+            "desc": "Sets or returns the number of elements in an array",
+            "belongs_to": "Array, Attribute, History, HTMLCollection, Window, Storage"
+        },
+        {
+            "method": "lengthComputable",
+            "desc": "Returns whether the length of the progress can be computable or not",
+            "belongs_to": "ProgressEvent"
+        },
+        {
+            "method": "let",
+            "desc": "Declares a variable inside brackets {} scope",
+            "belongs_to": "Statements"
+        },
+        {
+            "method": "links",
+            "desc": "Returns a collection of all <a> and <area> elements in the document that have a href attribute",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "LN2",
+            "desc": "Returns the natural logarithm of 2 (approx. 0.693)",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "LN10",
+            "desc": "Returns the natural logarithm of 10 (approx. 2.302)",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "loaded",
+            "desc": "Returns how much work has been loaded",
+            "belongs_to": "ProgressEvent"
+        },
+        {
+            "method": "localeCompare()",
+            "desc": "Compares two strings in the current locale",
+            "belongs_to": "String"
+        },
+        {
+            "method": "localStorage",
+            "desc": "Allows to save key/value pairs in a web browser. Stores the data with no expiration date",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "location",
+            "desc": "Returns the location of a key on the keyboard or device",
+            "belongs_to": "KeyboardEvent"
+        },
+        {
+            "method": "location",
+            "desc": "Returns the Location object for the window (See Location object)",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "log()",
+            "desc": "Returns the natural logarithm of a number",
+            "belongs_to": "Math, Console"
+        },
+        {
+            "method": "log10()",
+            "desc": "Returns the base-10 logarithm of a number",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "log1p()",
+            "desc": "Returns the natural logarithm of 1 + a number",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "log2()",
+            "desc": "Returns the base-2 logarithm of a number",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "LOG2E",
+            "desc": "Returns the base-2 logarithm of E (approx. 1.442)",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "LOG10E",
+            "desc": "Returns the base-10 logarithm of E (approx. 0.434)",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "map()",
+            "desc": "Creates a new array with the result of calling a function for each array element",
+            "belongs_to": "Array"
+        },
+        {
+            "method": "match()",
+            "desc": "Searches a string for a match against a regular expression, and returns the matches",
+            "belongs_to": "String"
+        },
+        {
+            "method": "matches()",
+            "desc": "Returns a Boolean value indicating whether an element is matched by a specific CSS selector or not",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "matchMedia()",
+            "desc": "Returns a MediaQueryList object representing the specified CSS media query string",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "max()",
+            "desc": "Returns the number with the highest value",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "MAX_VALUE",
+            "desc": "Returns the largest number possible in JavaScript",
+            "belongs_to": "Number"
+        },
+        {
+            "method": "message",
+            "desc": "Sets or returns an error message (a string)",
+            "belongs_to": "Error"
+        },
+        {
+            "method": "metaKey",
+            "desc": "Returns whether the \"META\" key was pressed when an event was triggered",
+            "belongs_to": "MouseEvent, KeyboardEvent, \n    TouchEvent"
+        },
+        {
+            "method": "min()",
+            "desc": "Returns the number with the lowest value",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "multiline",
+            "desc": "Checks whether the \"m\" modifier is set",
+            "belongs_to": "RegExp"
+        },
+        {
+            "method": "MIN_VALUE",
+            "desc": "Returns the smallest number possible in JavaScript",
+            "belongs_to": "Number"
+        },
+        {
+            "method": "moveBy()",
+            "desc": "Moves a window relative to its current position",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "moveTo()",
+            "desc": "Moves a window to the specified position",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "MovementX",
+            "desc": "Returns the horizontal coordinate of the mouse pointer relative to the \nposition of the last mousemove event",
+            "belongs_to": "MouseEvent"
+        },
+        {
+            "method": "MovementY",
+            "desc": "Returns the vertical coordinate of the mouse pointer relative to the \nposition of the last mousemove event",
+            "belongs_to": "MouseEvent"
+        },
+        {
+            "method": "name",
+            "desc": "Sets or returns an error name",
+            "belongs_to": "Error, Attribute, Window"
+        },
+        {
+            "method": "namedItem()",
+            "desc": "Returns the element with the specified ID, or name, in an HTMLCollection",
+            "belongs_to": "HTMLCollection"
+        },
+        {
+            "method": "namespaceURI",
+            "desc": "Returns the namespace URI of an element",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "NaN",
+            "desc": "\"Not-a-Number\" value",
+            "belongs_to": "Global, Number"
+        },
+        {
+            "method": "navigator",
+            "desc": "Returns the Navigator object for the window (See Navigator object)",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "NEGATIVE_INFINITY",
+            "desc": "Represents negative infinity (returned on overflow)",
+            "belongs_to": "Number"
+        },
+        {
+            "method": "new",
+            "desc": "Creates an instance of a constructor",
+            "belongs_to": ""
+        },
+        {
+            "method": "newURL",
+            "desc": "Returns the URL of the document, after the hash has been changed",
+            "belongs_to": "HasChangeEvent"
+        },
+        {
+            "method": "newValue",
+            "desc": "Returns the new value of the changed storage item",
+            "belongs_to": "StorageEvent"
+        },
+        {
+            "method": "nextSibling",
+            "desc": "Returns the next node at the same node tree level",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "nextElementSibling",
+            "desc": "Returns the next element at the same node tree level",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "nodeName",
+            "desc": "Returns the name of a node",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "nodeType",
+            "desc": "Returns the node type of a node",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "nodeValue",
+            "desc": "Sets or returns the value of a node",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "normalize()",
+            "desc": "Removes empty Text nodes, and joins adjacent nodes",
+            "belongs_to": "Document, Element"
+        },
+        {
+            "method": "normalizeDocument()",
+            "desc": "Removes empty Text nodes, and joins adjacent nodes",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "now()",
+            "desc": "Returns the number of milliseconds since midnight Jan 1, 1970",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "Number()",
+            "desc": "Converts an object's value to a number",
+            "belongs_to": "Global"
+        },
+        {
+            "method": "offsetHeight",
+            "desc": "Returns the height of an element, including padding, border and scrollbar",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "offsetWidth",
+            "desc": "Returns the width of an element, including padding, border and scrollbar",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "offsetLeft",
+            "desc": "Returns the horizontal offset position of an element",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "offsetParent",
+            "desc": "Returns the offset container of an element",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "offsetTop",
+            "desc": "Returns the vertical offset position of an element",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "offsetX",
+            "desc": "Returns the horizontal coordinate of the mouse pointer relative to the \nposition of the edge of the target element",
+            "belongs_to": "MouseEvent"
+        },
+        {
+            "method": "offsetY",
+            "desc": "Returns the vertical coordinate of the mouse pointer relative to the \nposition of the edge of the target element",
+            "belongs_to": "MouseEvent"
+        },
+        {
+            "method": "oldURL",
+            "desc": "Returns the URL of the document, before the hash was changed",
+            "belongs_to": "HasChangeEvent"
+        },
+        {
+            "method": "oldValue",
+            "desc": "Returns the old value of the changed storage item",
+            "belongs_to": "StorageEvent"
+        },
+        {
+            "method": "onabort",
+            "desc": "The event occurs when the loading of a media is aborted",
+            "belongs_to": "UiEvent, Event"
+        },
+        {
+            "method": "onafterprint",
+            "desc": "The event occurs when a page has started printing, or if the print dialogue box has been closed",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "onanimationend",
+            "desc": "The event occurs when a CSS animation has completed",
+            "belongs_to": "AnimationEvent"
+        },
+        {
+            "method": "onanimationiteration",
+            "desc": "The event occurs when a CSS animation is repeated",
+            "belongs_to": "AnimationEvent"
+        },
+        {
+            "method": "onanimationstart",
+            "desc": "The event occurs when a CSS animation has started",
+            "belongs_to": "AnimationEvent"
+        },
+        {
+            "method": "onbeforeprint",
+            "desc": "The event occurs when a page is about to be printed",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "onbeforeunload",
+            "desc": "The event occurs before the document is about to be unloaded",
+            "belongs_to": "UiEvent, \n  Event"
+        },
+        {
+            "method": "onblur",
+            "desc": "The event occurs when an element loses focus",
+            "belongs_to": "FocusEvent"
+        },
+        {
+            "method": "oncanplay",
+            "desc": "The event occurs when the browser can start playing the media (when it has buffered \nenough to begin)",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "oncanplaythrough",
+            "desc": "The event occurs when the browser can play through the media without \nstopping for buffering",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "onchange",
+            "desc": "The event occurs when the content of a form element, the selection, or the checked state have changed (for <input>, <select>, and <textarea>)",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "onclick",
+            "desc": "The event occurs when the user clicks on an element",
+            "belongs_to": "MouseEvent"
+        },
+        {
+            "method": "oncontextmenu",
+            "desc": "The event occurs when the user right-clicks on an element to open a context menu",
+            "belongs_to": "MouseEvent"
+        },
+        {
+            "method": "oncopy",
+            "desc": "The event occurs when the user copies the content of an element",
+            "belongs_to": "ClipboardEvent"
+        },
+        {
+            "method": "oncut",
+            "desc": "The event occurs when the user cuts the content of an element",
+            "belongs_to": "ClipboardEvent"
+        },
+        {
+            "method": "ondblclick",
+            "desc": "The event occurs when the user double-clicks on an element",
+            "belongs_to": "MouseEvent"
+        },
+        {
+            "method": "ondrag",
+            "desc": "The event occurs when an element is being dragged",
+            "belongs_to": "DragEvent"
+        },
+        {
+            "method": "ondragend",
+            "desc": "The event occurs when the user has finished dragging an element",
+            "belongs_to": "DragEvent"
+        },
+        {
+            "method": "ondragenter",
+            "desc": "The event occurs when the dragged element enters the drop target",
+            "belongs_to": "DragEvent"
+        },
+        {
+            "method": "ondragleave",
+            "desc": "The event occurs when the dragged element leaves the drop target",
+            "belongs_to": "DragEvent"
+        },
+        {
+            "method": "ondragover",
+            "desc": "The event occurs when the dragged element is over the drop target",
+            "belongs_to": "DragEvent"
+        },
+        {
+            "method": "ondragstart",
+            "desc": "The event occurs when the user starts to drag an element",
+            "belongs_to": "DragEvent"
+        },
+        {
+            "method": "ondrop",
+            "desc": "The event occurs when the dragged element is dropped on the drop target",
+            "belongs_to": "DragEvent"
+        },
+        {
+            "method": "ondurationchange",
+            "desc": "The event occurs when the duration of the media is changed",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "onemptied",
+            "desc": "The event occurs when something bad happens and the media file is suddenly \nunavailable (like unexpectedly disconnects)",
+            "belongs_to": "\u00a0"
+        },
+        {
+            "method": "onended",
+            "desc": "The event occurs when the media has reach the end (useful for messages like \"thanks for listening\")",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "onerror",
+            "desc": "The event occurs when an error occurs while loading an external file ",
+            "belongs_to": "ProgressEvent, \n  UiEvent, Event"
+        },
+        {
+            "method": "onfocus",
+            "desc": "The event occurs when an element gets focus",
+            "belongs_to": "FocusEvent"
+        },
+        {
+            "method": "onfocusin",
+            "desc": "The event occurs when an element is about to get focus",
+            "belongs_to": "FocusEvent"
+        },
+        {
+            "method": "onfocusout",
+            "desc": "The event occurs when an element is about to lose focus",
+            "belongs_to": "FocusEvent"
+        },
+        {
+            "method": "onfullscreenchange",
+            "desc": "The event occurs when an element is displayed in fullscreen mode",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "onfullscreenerror",
+            "desc": "The event occurs when an element can not be displayed in fullscreen mode",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "onhashchange",
+            "desc": "The event occurs when there has been changes to the anchor part of a URL",
+            "belongs_to": "HashChangeEvent"
+        },
+        {
+            "method": "oninput",
+            "desc": "The event occurs when an element gets user input",
+            "belongs_to": "InputEvent, \n  Event"
+        },
+        {
+            "method": "oninvalid",
+            "desc": "The event occurs when an element is invalid",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "onkeydown",
+            "desc": "The event occurs when the user is pressing a key",
+            "belongs_to": "KeyboardEvent"
+        },
+        {
+            "method": "onkeypress",
+            "desc": "The event occurs when the user presses a key",
+            "belongs_to": "KeyboardEvent"
+        },
+        {
+            "method": "onkeyup",
+            "desc": "The event occurs when the user releases a key",
+            "belongs_to": "KeyboardEvent"
+        },
+        {
+            "method": "onLine",
+            "desc": "Determines whether the browser is online",
+            "belongs_to": "Navigator"
+        },
+        {
+            "method": "onload",
+            "desc": "The event occurs when an object has loaded",
+            "belongs_to": "UiEvent, \n  Event"
+        },
+        {
+            "method": "onloadeddata",
+            "desc": "The event occurs when media data is loaded",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "onloadedmetadata",
+            "desc": "The event occurs when meta data (like dimensions and duration) are loaded",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "onloadstart",
+            "desc": "The event occurs when the browser starts looking for the specified media",
+            "belongs_to": "ProgressEvent"
+        },
+        {
+            "method": "onmessage",
+            "desc": "The event occurs when a message is received through the event source",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "onmousedown",
+            "desc": "The event occurs when the user presses a mouse button over an element",
+            "belongs_to": "MouseEvent"
+        },
+        {
+            "method": "onmouseenter",
+            "desc": "The event occurs when the pointer is moved onto an element",
+            "belongs_to": "MouseEvent"
+        },
+        {
+            "method": "onmouseleave",
+            "desc": "The event occurs when the pointer is moved out of an element",
+            "belongs_to": "MouseEvent"
+        },
+        {
+            "method": "onmousemove",
+            "desc": "The event occurs when the pointer is moving while it is over an element",
+            "belongs_to": "MouseEvent"
+        },
+        {
+            "method": "onmouseover",
+            "desc": "The event occurs when the pointer is moved onto an element, or onto one of its children",
+            "belongs_to": "MouseEvent"
+        },
+        {
+            "method": "onmouseout",
+            "desc": "The event occurs when a user moves the mouse pointer out of an element, or out of one of its children",
+            "belongs_to": "MouseEvent"
+        },
+        {
+            "method": "onmouseup",
+            "desc": "The event occurs when a user releases a mouse button over an element",
+            "belongs_to": "MouseEvent"
+        },
+        {
+            "method": "onmousewheel",
+            "desc": "Deprecated. Use the \n  wheel event instead",
+            "belongs_to": "WheelEvent"
+        },
+        {
+            "method": "onoffline",
+            "desc": "The event occurs when the browser starts to work offline",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "ononline",
+            "desc": "The event occurs when the browser starts to work online",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "onopen",
+            "desc": "The event occurs when a connection with the event source is opened",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "onpagehide",
+            "desc": "The event occurs when the user navigates away from a webpage",
+            "belongs_to": "PageTransitionEvent"
+        },
+        {
+            "method": "onpageshow",
+            "desc": "The event occurs when the user navigates to a webpage",
+            "belongs_to": "PageTransitionEvent"
+        },
+        {
+            "method": "onpaste",
+            "desc": "The event occurs when the user pastes some content in an element",
+            "belongs_to": "ClipboardEvent"
+        },
+        {
+            "method": "onpause",
+            "desc": "The event occurs when the media is paused either by the user or \nprogrammatically",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "onplay",
+            "desc": "The event occurs when the media has been started or is no longer paused",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "onplaying",
+            "desc": "The event occurs when the media is playing after having been paused or stopped for buffering",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "onpopstate",
+            "desc": "The event occurs when the window's history changes",
+            "belongs_to": "PopStateEvent"
+        },
+        {
+            "method": "onprogress",
+            "desc": "The event occurs when the browser is in the process of getting the media \ndata (downloading the media)",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "onratechange",
+            "desc": "The event occurs when the playing speed of the media is changed",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "onresize",
+            "desc": "The event occurs when the document view is resized",
+            "belongs_to": "UiEvent, \n  Event"
+        },
+        {
+            "method": "onreset",
+            "desc": "The event occurs when a form is reset",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "onscroll",
+            "desc": "The event occurs when an element's scrollbar is being scrolled",
+            "belongs_to": "UiEvent, \n  Event"
+        },
+        {
+            "method": "onsearch",
+            "desc": "The event occurs when the user writes something in a search field (for <input=\"search\">)",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "onseeked",
+            "desc": "The event occurs when the user is finished moving/skipping to a new position \nin the media",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "onseeking",
+            "desc": "The event occurs when the user starts moving/skipping to a new position in \nthe media",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "onselect",
+            "desc": "The event occurs after the user selects some\u00a0text (for <input> and <textarea>)",
+            "belongs_to": "UiEvent, \n  Event"
+        },
+        {
+            "method": "onshow",
+            "desc": "The event occurs when a <menu> element is shown as a context menu",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "onstalled",
+            "desc": "The event occurs when the browser is trying to get media data, but data is not available",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "onstorage",
+            "desc": "The event occurs when a Web Storage area is updated",
+            "belongs_to": "StorageEvent"
+        },
+        {
+            "method": "onsubmit",
+            "desc": "The event occurs when a form is submitted",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "onsuspend",
+            "desc": "The event occurs when the browser is intentionally not getting media data",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "ontimeupdate",
+            "desc": "The event occurs when the playing position has changed (like when the user \nfast forwards to a different point in the media)",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "ontoggle",
+            "desc": "The event occurs when the user opens or closes the <details> element",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "ontouchcancel",
+            "desc": "The event occurs when the touch is interrupted",
+            "belongs_to": "TouchEvent"
+        },
+        {
+            "method": "ontouchend",
+            "desc": "The event occurs when a finger is removed from a touch screen",
+            "belongs_to": "TouchEvent"
+        },
+        {
+            "method": "ontouchmove",
+            "desc": "The event occurs when a finger is dragged across the screen",
+            "belongs_to": "TouchEvent"
+        },
+        {
+            "method": "ontouchstart",
+            "desc": "The event occurs when a finger is placed on a touch screen",
+            "belongs_to": "TouchEvent"
+        },
+        {
+            "method": "ontransitionend",
+            "desc": "The event occurs when a CSS transition has completed",
+            "belongs_to": "TransitionEvent"
+        },
+        {
+            "method": "onunload",
+            "desc": "The event occurs once a page has unloaded (for <body>)",
+            "belongs_to": "UiEvent, \n  Event"
+        },
+        {
+            "method": "onvolumechange",
+            "desc": "The event occurs when the volume of the media has changed (includes setting the \nvolume to \"mute\")",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "onwaiting",
+            "desc": "The event occurs when the media has paused but is expected to resume (like \nwhen the media pauses to buffer more data)",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "onwheel",
+            "desc": "The event occurs when the mouse wheel rolls up or down over an element",
+            "belongs_to": "WheelEvent"
+        },
+        {
+            "method": "open()",
+            "desc": "Opens an HTML output stream to collect output from document.write()",
+            "belongs_to": "Document, Window"
+        },
+        {
+            "method": "opener",
+            "desc": "Returns a reference to the window that created the window",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "origin",
+            "desc": "Returns the protocol, hostname and port number of a URL",
+            "belongs_to": "Location"
+        },
+        {
+            "method": "outerHeight",
+            "desc": "Returns the height of the browser window, including toolbars/scrollbars",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "outerHTML",
+            "desc": "Sets or returns the outer content of an element",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "outerText",
+            "desc": "Sets or returns the text outer content of a node and its descendants",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "outerWidth",
+            "desc": "Returns the width of the browser window, including toolbars/scrollbars",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "ownerDocument",
+            "desc": "Returns the root element (document object) for an element",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "pageX",
+            "desc": "Returns the horizontal coordinate of the mouse pointer, relative to the document, when  the mouse event was triggered",
+            "belongs_to": "MouseEvent"
+        },
+        {
+            "method": "pageXOffset",
+            "desc": "Returns the pixels the current document has been scrolled (horizontally) from the upper left corner of the window",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "pageY",
+            "desc": "Returns the vertical coordinate of the mouse pointer, relative to the document, when  the mouse event was triggered",
+            "belongs_to": "MouseEvent"
+        },
+        {
+            "method": "pageYOffset",
+            "desc": "Returns the pixels the current document has been scrolled (vertically) from the upper left corner of the window",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "parent",
+            "desc": "Returns the parent window of the current window",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "parentNode",
+            "desc": "Returns the parent node of an element",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "parentElement",
+            "desc": "Returns the parent element node of an element",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "parse()",
+            "desc": "Parses a date string and returns the number of milliseconds since January 1, 1970",
+            "belongs_to": "Date, JSON"
+        },
+        {
+            "method": "parseFloat()",
+            "desc": "Parses a string and returns a floating point number",
+            "belongs_to": "Global"
+        },
+        {
+            "method": "parseInt()",
+            "desc": "Parses a string and returns an integer",
+            "belongs_to": "Global"
+        },
+        {
+            "method": "pathname",
+            "desc": "Sets or returns the path name of a URL",
+            "belongs_to": "Location"
+        },
+        {
+            "method": "persisted",
+            "desc": "Returns whether the webpage was cached by the browser",
+            "belongs_to": "PageTransitionEvent"
+        },
+        {
+            "method": "PI",
+            "desc": "Returns PI (approx. 3.14)",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "pixelDepth",
+            "desc": "Returns the color resolution (in bits per pixel) of the screen",
+            "belongs_to": "Screen"
+        },
+        {
+            "method": "platform",
+            "desc": "Returns for which platform the browser is compiled",
+            "belongs_to": "Navigator"
+        },
+        {
+            "method": "pop()",
+            "desc": "Removes the last element of an array, and returns that element",
+            "belongs_to": "Array"
+        },
+        {
+            "method": "port",
+            "desc": "Sets or returns the port number of a URL",
+            "belongs_to": "Location"
+        },
+        {
+            "method": "position",
+            "desc": "Returns the position of the concerned device at a given time",
+            "belongs_to": "Geolocation"
+        },
+        {
+            "method": "positionError",
+            "desc": "Returns the reason of an error occurring when using the geolocating \n    device",
+            "belongs_to": "Geolocation"
+        },
+        {
+            "method": "positionOptions",
+            "desc": "Describes an object containing option properties to pass as a parameter \n    of Geolocation.getCurrentPosition() and Geolocation.watchPosition()",
+            "belongs_to": "Geolocation"
+        },
+        {
+            "method": "POSITIVE_INFINITY",
+            "desc": "Represents infinity (returned on overflow)",
+            "belongs_to": "Number"
+        },
+        {
+            "method": "preventDefault()",
+            "desc": "Cancels the event if it is cancelable, meaning that the default  action that belongs to the event will not occur",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "print()",
+            "desc": "Prints the content of the current window",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "product",
+            "desc": "Returns the engine name of the browser",
+            "belongs_to": "Navigator"
+        },
+        {
+            "method": "propertyName",
+            "desc": "Returns the name of the CSS property associated with the animation or transition",
+            "belongs_to": "AnimationEvent,\n    TransitionEvent"
+        },
+        {
+            "method": "protocol",
+            "desc": "Sets or returns the protocol of a URL",
+            "belongs_to": "Location"
+        },
+        {
+            "method": "prototype",
+            "desc": "Allows you to add properties and methods to an Array object",
+            "belongs_to": "Array, Boolean, Date"
+        },
+        {
+            "method": "pseudoElement",
+            "desc": "Returns the name of the pseudo-element of the animation or transition",
+            "belongs_to": "AnimationEvent,\n    TransitionEvent"
+        },
+        {
+            "method": "push()",
+            "desc": "Adds new elements to the end of an array, and returns the new length",
+            "belongs_to": "Array"
+        },
+        {
+            "method": "querySelector()",
+            "desc": "Returns the first element that matches a specified CSS selector(s) in the document",
+            "belongs_to": "Document, Element"
+        },
+        {
+            "method": "querySelectorAll()",
+            "desc": "Returns a static NodeList containing all elements that matches a specified CSS selector(s) in the document",
+            "belongs_to": "Document, Element"
+        },
+        {
+            "method": "random()",
+            "desc": "Returns a random number between 0 and 1",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "readyState",
+            "desc": "Returns the (loading) status of the document",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "reduce()",
+            "desc": "Reduce the values of an array to a single value (going left-to-right)",
+            "belongs_to": "Array"
+        },
+        {
+            "method": "reduceRight()",
+            "desc": "Reduce the values of an array to a single value (going right-to-left)",
+            "belongs_to": "Array"
+        },
+        {
+            "method": "referrer",
+            "desc": "Returns the URL of the document that loaded the current document",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "region",
+            "desc": "",
+            "belongs_to": "MouseEvent"
+        },
+        {
+            "method": "reload()",
+            "desc": "Reloads the current document",
+            "belongs_to": "Location"
+        },
+        {
+            "method": "remove()",
+            "desc": "Removes the element from the DOM",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "removeAttribute()",
+            "desc": "Removes a specified attribute from an element",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "removeAttributeNode()",
+            "desc": "Removes a specified attribute node, and returns the removed node",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "removeChild()",
+            "desc": "Removes a child node from an element",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "removeEventListener()",
+            "desc": "Removes an event handler that has been attached with the addEventListener() method",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "removeItem()",
+            "desc": "Removes that key from the storage",
+            "belongs_to": "Storage"
+        },
+        {
+            "method": "repeat",
+            "desc": "Returns whether a key is being hold down repeatedly, or not",
+            "belongs_to": "KeyboardEvent"
+        },
+        {
+            "method": "repeat()",
+            "desc": "Returns a new string with a specified number of copies of an existing string",
+            "belongs_to": "String"
+        },
+        {
+            "method": "replace()",
+            "desc": "Searches a string for a specified value, or a regular expression, and returns a new string where the specified values are replaced",
+            "belongs_to": "String, Location"
+        },
+        {
+            "method": "replaceChild()",
+            "desc": "Replaces a child node in an element",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "requestAnimationFrame()",
+            "desc": "Requests the browser to call a function to update an animation before \n    the next repaint",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "requestFullscreen()",
+            "desc": "Shows an element in fullscreen mode",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "resizeBy()",
+            "desc": "Resizes the window by the specified pixels",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "resizeTo()",
+            "desc": "Resizes the window to the specified width and height",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "return",
+            "desc": "Stops the execution of a function and returns a value from that function",
+            "belongs_to": "Statements"
+        },
+        {
+            "method": "reverse()",
+            "desc": "Reverses the order of the elements in an array",
+            "belongs_to": "Array"
+        },
+        {
+            "method": "round()",
+            "desc": "Rounds x to the nearest integer",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "pow()",
+            "desc": "Returns the value of x to the power of y",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "previousSibling",
+            "desc": "Returns the previous node at the same node tree level",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "previousElementSibling",
+            "desc": "Returns the previous element at the same node tree level",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "prompt()",
+            "desc": "Displays a dialog box that prompts the visitor for input",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "prototype",
+            "desc": "Allows you to add properties and methods to an object",
+            "belongs_to": "Number"
+        },
+        {
+            "method": "relatedTarget",
+            "desc": "Returns the element related to the element that triggered the mouse event",
+            "belongs_to": "MouseEvent, FocusEvent"
+        },
+        {
+            "method": "removeEventListener()",
+            "desc": "Removes an event handler from the document (that has been attached with the addEventListener() method)",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "removeNamedItem()",
+            "desc": "Removes a specified attribute node",
+            "belongs_to": "Attribute"
+        },
+        {
+            "method": "renameNode()",
+            "desc": "Renames the specified node",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "screen",
+            "desc": "Returns the Screen object for the window (See Screen object)",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "screenLeft",
+            "desc": "Returns the horizontal coordinate of the window relative to the screen",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "screenTop",
+            "desc": "Returns the vertical coordinate of the window relative to the screen",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "screenX",
+            "desc": "Returns the horizontal coordinate of the window/mouse pointer relative to the screen",
+            "belongs_to": "Window, MouseEvent"
+        },
+        {
+            "method": "screenY",
+            "desc": "Returns the vertical coordinate of the window/mouse pointer relative to the screen",
+            "belongs_to": "Window, MouseEvent"
+        },
+        {
+            "method": "scripts",
+            "desc": "Returns a collection of <script> elements in the document",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "scroll()",
+            "desc": "Deprecated. This method has been replaced by the scrollTo() method.",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "scrollBy()",
+            "desc": "Scrolls the document by the specified number of pixels",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "scrollHeight",
+            "desc": "Returns the entire height of an element, including padding",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "scrollIntoView()",
+            "desc": "Scrolls the specified element into the visible area of the browser window",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "scrollLeft",
+            "desc": "Sets or returns the number of pixels an element's content is scrolled horizontally",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "scrollTo()",
+            "desc": "Scrolls the document to the specified coordinates",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "scrollTop",
+            "desc": "Sets or returns the number of pixels an element's content is scrolled vertically",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "scrollWidth",
+            "desc": "Returns the entire width of an element, including padding",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "scrollX",
+            "desc": "An alias of pageXOffset",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "scrollY",
+            "desc": "An alias of pageYOffset",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "search",
+            "desc": "Sets or returns the querystring part of a URL",
+            "belongs_to": "Location"
+        },
+        {
+            "method": "search()",
+            "desc": "Searches a string for a specified value, or regular expression, and returns the position of the match",
+            "belongs_to": "String"
+        },
+        {
+            "method": "self",
+            "desc": "Returns the current window",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "sessionStorage",
+            "desc": "Allows to save key/value pairs in a web browser. Stores the data for one \n    session",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "setAttribute()",
+            "desc": "Sets or changes the specified attribute, to the specified value",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "setAttributeNode()",
+            "desc": "Sets or changes the specified attribute node",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "setDate()",
+            "desc": "Sets the day of the month of a date object",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "setFullYear()",
+            "desc": "Sets the year of a date object",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "setHours()",
+            "desc": "Sets the hour of a date object",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "setInterval()",
+            "desc": "Calls a function or evaluates an expression at specified intervals (in milliseconds)",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "setItem()",
+            "desc": "Adds that key to the storage, or update that key's value if it already \n    exists",
+            "belongs_to": "Storage"
+        },
+        {
+            "method": "setMilliseconds()",
+            "desc": "Sets the milliseconds of a date object",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "setMinutes()",
+            "desc": "Set the minutes of a date object",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "setMonth()",
+            "desc": "Sets the month of a date object",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "setNamedItem()",
+            "desc": "Sets the specified attribute node (by name)",
+            "belongs_to": "Attribute"
+        },
+        {
+            "method": "setSeconds()",
+            "desc": "Sets the seconds of a date object",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "setTime()",
+            "desc": "Sets a date to a specified number of milliseconds after/before January 1, 1970",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "setTimeout()",
+            "desc": "Calls a function or evaluates an expression after a specified number of milliseconds",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "setUTCDate()",
+            "desc": "Sets the day of the month of a date object, according to universal time",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "setUTCFullYear()",
+            "desc": "Sets the year of a date object, according to universal time",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "setUTCHours()",
+            "desc": "Sets the hour of a date object, according to universal time",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "setUTCMilliseconds()",
+            "desc": "Sets the milliseconds of a date object, according to universal time",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "setUTCMinutes()",
+            "desc": "Set the minutes of a date object, according to universal time",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "setUTCMonth()",
+            "desc": "Sets the month of a date object, according to universal time",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "setUTCSeconds()",
+            "desc": "Set the seconds of a date object, according to universal time",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "setYear()",
+            "desc": "Deprecated. Use the setFullYear() method instead",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "shift()",
+            "desc": "Removes the first element of an array, and returns that element",
+            "belongs_to": "Array"
+        },
+        {
+            "method": "shiftKey",
+            "desc": "Returns whether the \"SHIFT\" key was pressed when an event was triggered",
+            "belongs_to": "MouseEvent, KeyboardEvent, \n    TouchEvent"
+        },
+        {
+            "method": "sign(x)",
+            "desc": "Returns the sign of a number (checks whether it is positive, negative or zero)",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "sin()",
+            "desc": "Returns the sine of x (x is in radians)",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "sinh()",
+            "desc": "Returns the hyperbolic sine of x",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "slice()",
+            "desc": "Selects a part of an array, and returns the new array",
+            "belongs_to": "Array, String"
+        },
+        {
+            "method": "some()",
+            "desc": "Checks if any of the elements in an array pass a test",
+            "belongs_to": "Array"
+        },
+        {
+            "method": "sort()",
+            "desc": "Sorts the elements of an array",
+            "belongs_to": "Array"
+        },
+        {
+            "method": "source",
+            "desc": "Returns the text of the RegExp pattern",
+            "belongs_to": "RegExp"
+        },
+        {
+            "method": "specified",
+            "desc": "Returns true if the attribute has been specified, otherwise it returns false",
+            "belongs_to": "Attribute"
+        },
+        {
+            "method": "splice()",
+            "desc": "Adds/Removes elements from an array",
+            "belongs_to": "Array"
+        },
+        {
+            "method": "split()",
+            "desc": "Splits a string into an array of substrings",
+            "belongs_to": "String"
+        },
+        {
+            "method": "static",
+            "desc": "Defines a static method for a class",
+            "belongs_to": "Classes"
+        },
+        {
+            "method": "startsWith()",
+            "desc": "Checks whether a string begins with specified characters",
+            "belongs_to": "String"
+        },
+        {
+            "method": "state",
+            "desc": "Returns an object containing a copy of the history entries",
+            "belongs_to": "PopStateEvent"
+        },
+        {
+            "method": "String()",
+            "desc": "Converts an object's value to a string",
+            "belongs_to": "Global"
+        },
+        {
+            "method": "stop()",
+            "desc": "Stops the window from loading",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "stopImmediatePropagation()",
+            "desc": "Prevents other listeners of the same event from being called",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "stopPropagation()",
+            "desc": "Prevents further propagation of an event during event flow",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "stringify()",
+            "desc": "Convert a JavaScript object to a JSON string",
+            "belongs_to": "JSON"
+        },
+        {
+            "method": "sqrt()",
+            "desc": "Returns the square root of x",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "SQRT1_2",
+            "desc": "Returns the square root of 1/2 (approx. 0.707)",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "SQRT2",
+            "desc": "Returns the square root of 2 (approx. 1.414)",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "status",
+            "desc": "Sets or returns the text in the statusbar of a window",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "strictErrorChecking",
+            "desc": "Sets or returns whether error-checking is enforced or not",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "storageArea",
+            "desc": "Returns an object representing the affected storage object",
+            "belongs_to": "StorageEvent"
+        },
+        {
+            "method": "style",
+            "desc": "Sets or returns the value of the style attribute of an element",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "substr()",
+            "desc": "Extracts the characters from a string, beginning at a specified start position, and through the specified number of character",
+            "belongs_to": "String"
+        },
+        {
+            "method": "substring()",
+            "desc": "Extracts the characters from a string, between two specified indices",
+            "belongs_to": "String"
+        },
+        {
+            "method": "super",
+            "desc": "Refers to the parent class",
+            "belongs_to": "Classes"
+        },
+        {
+            "method": "switch",
+            "desc": "Marks a block of statements to be executed depending on different cases",
+            "belongs_to": "Statements"
+        },
+        {
+            "method": "table()",
+            "desc": "Displays tabular data as a table",
+            "belongs_to": "Console"
+        },
+        {
+            "method": "tabIndex",
+            "desc": "Sets or returns the value of the tabindex attribute of an element",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "tagName",
+            "desc": "Returns the tag name of an element",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "tan()",
+            "desc": "Returns the tangent of an angle",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "tanh()",
+            "desc": "Returns the hyperbolic tangent of a number",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "target",
+            "desc": "Returns the element that triggered the event",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "targetTouches",
+            "desc": "Returns a list of all the touch objects that are in contact with the \n  surface and where the touchstart event occured on the same target element as \n  the current target element",
+            "belongs_to": "TouchEvent"
+        },
+        {
+            "method": "test()",
+            "desc": "Tests for a match in a string. Returns true or false",
+            "belongs_to": "RegExp"
+        },
+        {
+            "method": "textContent",
+            "desc": "Sets or returns the textual content of a node and its descendants",
+            "belongs_to": "Element"
+        },
+        {
+            "method": "this",
+            "desc": "Refers to the object it belongs to",
+            "belongs_to": ""
+        },
+        {
+            "method": "throw",
+            "desc": "Throws (generates) an error",
+            "belongs_to": "Statements"
+        },
+        {
+            "method": "time()",
+            "desc": "Starts a timer (can track how long an operation takes)",
+            "belongs_to": "Console"
+        },
+        {
+            "method": "timeEnd()",
+            "desc": "Stops a timer that was previously started by console.time()",
+            "belongs_to": "Console"
+        },
+        {
+            "method": "timeStamp",
+            "desc": "Returns the time (in milliseconds relative to the epoch) at which  the event was created",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "title",
+            "desc": "Sets or returns the title of the document",
+            "belongs_to": "Document, Element"
+        },
+        {
+            "method": "toDateString()",
+            "desc": "Converts the date portion of a Date object into a readable string",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "toGMTString()",
+            "desc": "Deprecated. Use the toUTCString() method instead",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "toExponential()",
+            "desc": "Converts a number into an exponential notation",
+            "belongs_to": "Number"
+        },
+        {
+            "method": "toFixed(x)",
+            "desc": "Formats a number with x numbers of digits after the decimal point",
+            "belongs_to": "Number"
+        },
+        {
+            "method": "toJSON()",
+            "desc": "Returns the date as a string, formatted as a JSON date",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "toISOString()",
+            "desc": "Returns the date as a string, using the ISO standard",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "toLocaleDateString()",
+            "desc": "Returns the date portion of a Date object as a string, using locale conventions",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "toLocaleLowerCase()",
+            "desc": "Converts a string to lowercase letters, according to the host's locale",
+            "belongs_to": "String"
+        },
+        {
+            "method": "toLocaleString()",
+            "desc": "Converts a Date object to a string, using locale conventions",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "toLocaleTimeString()",
+            "desc": "Returns the time portion of a Date object as a string, using locale conventions",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "toLocaleUpperCase()",
+            "desc": "Converts a string to uppercase letters, according to the host's locale",
+            "belongs_to": "String"
+        },
+        {
+            "method": "toLowerCase()",
+            "desc": "Converts a string to lowercase letters",
+            "belongs_to": "String"
+        },
+        {
+            "method": "top",
+            "desc": "Returns the topmost browser window",
+            "belongs_to": "Window"
+        },
+        {
+            "method": "toPrecision(x)",
+            "desc": "Formats a number to x length",
+            "belongs_to": "Number"
+        },
+        {
+            "method": "toString()",
+            "desc": "Converts an array to a string, and returns the result",
+            "belongs_to": "Array, Boolean, Date, Number, RegExp, String, Element"
+        },
+        {
+            "method": "total",
+            "desc": "Returns the total amount of work that will be loaded",
+            "belongs_to": "ProgressEvent"
+        },
+        {
+            "method": "toTimeString()",
+            "desc": "Converts the time portion of a Date object to a string",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "touches",
+            "desc": "Returns a list of all the touch objects that are currently in contact with \n  the surface",
+            "belongs_to": "TouchEvent"
+        },
+        {
+            "method": "toUpperCase()",
+            "desc": "Converts a string to uppercase letters",
+            "belongs_to": "String"
+        },
+        {
+            "method": "toUTCString()",
+            "desc": "Converts a Date object to a string, according to universal time",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "trace()",
+            "desc": "Outputs a stack trace to the console",
+            "belongs_to": "Console"
+        },
+        {
+            "method": "transitionend",
+            "desc": "The event occurs when a CSS transition has completed",
+            "belongs_to": "TransitionEvent"
+        },
+        {
+            "method": "trim()",
+            "desc": "Removes whitespace from both ends of a string",
+            "belongs_to": "String"
+        },
+        {
+            "method": "trunc()",
+            "desc": "Returns the integer part of a number (x)",
+            "belongs_to": "Math"
+        },
+        {
+            "method": "try ... catch ... finally",
+            "desc": "Marks the block of statements to be executed when an error occurs in a try \nblock, and implements error handling",
+            "belongs_to": "Statements"
+        },
+        {
+            "method": "type",
+            "desc": "Returns the name of the event",
+            "belongs_to": "Event"
+        },
+        {
+            "method": "typeof",
+            "desc": "Returns the type of a variable, object, function or expression",
+            "belongs_to": "Operators"
+        },
+        {
+            "method": "undefined",
+            "desc": "Indicates that a variable has not been assigned a value",
+            "belongs_to": "Global"
+        },
+        {
+            "method": "unescape()",
+            "desc": "Deprecated in version 1.5. Use decodeURI() or decodeURIComponent() instead",
+            "belongs_to": "Global"
+        },
+        {
+            "method": "unshift()",
+            "desc": "Adds new elements to the beginning of an array, and returns the new length",
+            "belongs_to": "Array"
+        },
+        {
+            "method": "url",
+            "desc": "Returns the URL of the changed item's document",
+            "belongs_to": "StorageEvent"
+        },
+        {
+            "method": "URL",
+            "desc": "Returns the full URL of the HTML document",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "userAgent",
+            "desc": "Returns the user-agent header sent by the browser to \n    the server",
+            "belongs_to": "Navigator"
+        },
+        {
+            "method": "UTC()",
+            "desc": "Returns the number of milliseconds in a date since midnight of January 1, 1970, according to UTC time",
+            "belongs_to": "Date"
+        },
+        {
+            "method": "value",
+            "desc": "Sets or returns the value of the attribute",
+            "belongs_to": "Attribute"
+        },
+        {
+            "method": "valueOf()",
+            "desc": "Returns the primitive value of an array",
+            "belongs_to": "Array, Boolean, Date, Number, String"
+        },
+        {
+            "method": "var",
+            "desc": "Declares a variable",
+            "belongs_to": "Statements"
+        },
+        {
+            "method": "warn()",
+            "desc": "Outputs a warning message to the console",
+            "belongs_to": "Console"
+        },
+        {
+            "method": "watchPosition()",
+            "desc": "Returns a watch ID value that then can be used to unregister the handler \n    by passing it to the Geolocation.clearWatch() method",
+            "belongs_to": "Geolocation"
+        },
+        {
+            "method": "which",
+            "desc": "Returns which mouse button was pressed when the mouse event was triggered",
+            "belongs_to": "MouseEvent, KeyboardEvent"
+        },
+        {
+            "method": "width",
+            "desc": "Returns the total width of the screen",
+            "belongs_to": "Screen"
+        },
+        {
+            "method": "view",
+            "desc": "Returns a reference to the Window object where the event occurred",
+            "belongs_to": "UiEvent"
+        },
+        {
+            "method": "void",
+            "desc": "Evaluates an expression and returns undefined",
+            "belongs_to": "Operators"
+        },
+        {
+            "method": "while",
+            "desc": "Marks a block of statements to be executed while a condition is true",
+            "belongs_to": "Statements"
+        },
+        {
+            "method": "write()",
+            "desc": "Writes HTML expressions or JavaScript code to a document",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "writeln()",
+            "desc": "Same as write(), but adds a newline character after each statement",
+            "belongs_to": "Document"
+        },
+        {
+            "method": "yield",
+            "desc": "Pauses and resumes a generator function",
+            "belongs_to": "Operators"
+        }
+    ]
+}
