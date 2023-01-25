@@ -2,7 +2,7 @@
     "dogs": [
         {
             "name": "Affenpinscher",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TOY_Affenpinscher.jpg",
+            "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2020/05/21144745/Affenpinscher-running.jpg",
             "size": "small",
             "height": "9 to 11.5 inches tall",
             "weight": "7 to 10 pounds",
@@ -29,7 +29,7 @@
         },
         {
             "name": "Afghan Hound",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HOUND_Afghan-Hound.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Afghan_dog_-_cropped.jpg",
             "size": "medium",
             "height": "25 to 27 inches tall",
             "weight": "50 to 60 pounds",
@@ -60,7 +60,7 @@
         },
         {
             "name": "Airedale Terrier",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TERRIER_Airedale-Terrier.jpg",
+            "image": "https://preview.redd.it/how-much-do-you-feed-your-rr-v0-ggpuvc0hab8a1.jpg?width=640&crop=smart&auto=webp&s=ceee390c830eacc991edb34a3650de71bd2d79d5",
             "size": "medium",
             "height": "23 inches",
             "weight": "50 to 70 pounds",
@@ -87,7 +87,7 @@
         },
         {
             "name": "Akita",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/WORKING_Akita.jpg",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d3ed930ab22c2580d4a02b72",
             "size": "large",
             "height": "males: 26 to 28 inches; females: 24 to 26 inches",
             "weight": "males: 75 to 130 pounds; females: 70 to 100 pounds",
@@ -115,7 +115,7 @@
         },
         {
             "name": "Alaskan Malamute",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/WORKING_Alaskan-Malamute.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Alaskan_Malamute.jpg",
             "size": "large",
             "height": "male - 25 inches at the shoulders, female - 23 inches at the shoulders",
             "weight": "males - approximately 85 pounds, females - approximately 75 pounds",
@@ -127,7 +127,7 @@
         },
         {
             "name": "American English Coonhound",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HOUND_American-English-Coonhound_0.jpg",
+            "image": "replace https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HOUND_American-English-Coonhound_0.jpg",
             "size": "large",
             "height": "males \u2013 24 to 27 inches, females - 23 to 25 inches",
             "weight": "50 to 75 pounds",
@@ -139,7 +139,7 @@
         },
         {
             "name": "American Eskimo Dog",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/NonSporting_American-Eskimo-Dog.jpg",
+            "image": "http://www.americaneskimo.com/eros/spotlight_files/viktor.jpg",
             "size": "small to medium",
             "height": "toy - 9 to 10 inches at the withers; miniature \u2013 12 to 15 inches at the withers; standard, 15 to 19 inches at the withers",
             "weight": "6 to 40 pounds",
@@ -151,7 +151,7 @@
         },
         {
             "name": "American Foxhound",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HOUND_American-Foxhound.jpg",
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/American-Foxhound-2.jpg",
             "size": "medium/large",
             "height": "males - 22 to 25 inches at the withers, females - 21 to 24 inches at the withers",
             "weight": "40 to 65 lbs.",
@@ -163,7 +163,7 @@
         },
         {
             "name": "American Staffordshire Terrier",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TERRIER_American-Staffordshire-Terrier.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/AMERICAN_STAFFORDSHIRE_TERRIER%2C_Zican%E2%80%99s_Bz_Ez_Dragon_%2824208348891%29.2.jpg",
             "size": "large",
             "height": "males - 18 to 19 inches at the shouldersfemales - 17 to 18 inches at the shoulders",
             "weight": "males - 55 to 70 lbs.females - 40 to 55 lbs.",
@@ -191,7 +191,7 @@
         },
         {
             "name": "American Water Spaniel",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/SPORTING_American-Water-Spaniel.jpg",
+            "image": "https://m.media-amazon.com/images/I/81lRJYop+FL._AC_SL1500_.jpg",
             "size": "medium",
             "height": "15 to 18 inches",
             "weight": "males - 30 to 45 pounds, females - 25 to 35 pounds",
@@ -203,7 +203,7 @@
         },
         {
             "name": "Anatolian Shepherd Dog",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/WORKING_Anatolian-Shepherd-Dog.jpg",
+            "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063578019268",
             "size": "large to giant",
             "height": "males - 20 inches, females - 27 inches",
             "weight": "males - 110 to 150 pounds; females - 80 to 120 pounds",
@@ -215,7 +215,7 @@
         },
         {
             "name": "Australian Cattle Dog",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HERDING_Australian-Cattle-Dog.jpg",
+            "image": "https://dogfoodcare.com/wp-content/uploads/bb-plugin/cache/Australian-Cattle-Dog-Breed-Caring-and-Family-Social-Life-Physical-Traits-Diet-Information-1000x500-panorama.png",
             "size": "medium",
             "height": "males - 18 to 20 inches at the withers, females - 17 to 19 inches at the withers",
             "weight": "35 to 45 lbs.",
@@ -227,7 +227,7 @@
         },
         {
             "name": "Australian Shepherd",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HERDING_Australian-Shepherd.jpg",
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Australian-Shepherd.1.jpg",
             "size": "medium",
             "height": "males: 20 to 30 inches tall; females: 18 to 21 inches tall",
             "weight": "35 to 70 pounds",
@@ -256,7 +256,7 @@
         },
         {
             "name": "Australian Terrier",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TERRIER_Australian-Terrier.jpg",
+            "image": "https://www.hankikoira.fi/sites/default/files/rodut/166-australianterrierit.jpg",
             "size": "small",
             "height": "males - 10 to 11 inches at the withers, females - 9 to 10 inches at the withers",
             "weight": "males - 14 to 16 pounds, females - 11 to 14 pounds",
@@ -268,7 +268,7 @@
         },
         {
             "name": "Basenji",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HOUND_Basenji.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Basenji_Profile_%28loosercrop%29.jpg/640px-Basenji_Profile_%28loosercrop%29.jpg",
             "size": "small",
             "height": "males - at least 17 inches at the withersfemales - at least 15 inches at the withers",
             "weight": "males - 22 to 26 lbs., females - 20 to 24 lbs.",
@@ -280,7 +280,7 @@
         },
         {
             "name": "Basset Hound",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HOUND_Basset-Hound.jpg",
+            "image": "https://thumbs.dreamstime.com/z/dog-posing-as-doctor-basset-hound-stethoscope-hat-48474615.jpg",
             "size": "medium",
             "height": "up to 15 inches",
             "weight": "45 to 65 pounds",
@@ -308,7 +308,7 @@
         },
         {
             "name": "Beagle",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HOUND_Beagle-%2813inch%29.jpg",
+            "image": "http://i146.photobucket.com/albums/r250/BUDDYJUDE/100_7116aa.jpg",
             "size": "small to medium",
             "height": "13 to 15 inches tall",
             "weight": "18 to 35 pounds",
@@ -329,7 +329,7 @@
         },
         {
             "name": "Bearded Collie",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HERDING_Bearded-Collie.jpg",
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Bearded-Collie-standing-in-the-grass.jpg",
             "size": "medium",
             "height": "males \u2013 21 to 22 inches at the withers, females \u2013 20 to 21 inches at the withers",
             "weight": "males - 45 to 60 pounds, females - 35 to 50 pounds",
@@ -341,7 +341,7 @@
         },
         {
             "name": "Beauceron",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HERDING_Beauceron.jpg",
+            "image": "https://media-be.chewy.com/wp-content/uploads/2021/06/25080439/Beauceron-FeaturedImage.jpg",
             "size": "large/giant",
             "height": "males - 25.5 to 27.5 inches at the withers, females - 24 to 26.5 inches at the withers",
             "weight": "65 to 110 pounds",
@@ -353,7 +353,7 @@
         },
         {
             "name": "Bedlington Terrier",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TERRIER_Bedlington-Terrier.jpg",
+            "image": "https://preview.redd.it/my-favorite-menace-to-society-v0-53xvsyt0454a1.jpg?auto=webp&s=3337da1bebba258a59945ebc30a3d4a5769e0ee5",
             "size": "small",
             "height": "males - at least 16 inches at the withers, females - at least 15 inches at the withers",
             "weight": "17 to 23 pounds",
@@ -365,7 +365,7 @@
         },
         {
             "name": "Belgian Malinois",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HERDING_Belgian-Malinois.jpg",
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Belgian-Malinois-On-White-01.jpg",
             "size": "medium",
             "height": "males \u2013 21 to 22 inches at the withers, females \u2013 20 to 21 inches at the withers",
             "weight": "males \u2013 60 to 75 pounds, females \u2013 40 to 55 pounds",
@@ -377,7 +377,7 @@
         },
         {
             "name": "Belgian Sheepdog",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HERDING_Belgian-Sheepdog.jpg",
+            "image": "https://img.newspapers.com/img/thumbnail/149068913/400/400/0_0_4581_7960.jpg",
             "size": "large",
             "height": "males \u2013 24 to 26 inches at the withers, females \u2013 22 to 24 inches at the withers",
             "weight": "males \u2013 55 to 65 pounds, females \u2013 45 to 50 pounds",
@@ -389,7 +389,7 @@
         },
         {
             "name": "Belgian Tervuren",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HERDING_Belgian-Tervuren.jpg",
+            "image": "replace https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HERDING_Belgian-Tervuren.jpg",
             "size": "large",
             "height": "males \u2013 24 to 26 inches at the withers, females \u2013 22 to 24 inches at the withers",
             "weight": "males \u2013 60 to 75 pounds, females - 40 to 55 pounds",
@@ -401,7 +401,7 @@
         },
         {
             "name": "Bergamasco",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HERDING_Bergamasco_Sheepdog.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Ortensia_di_Valle_Scrivia.jpg",
             "size": "large",
             "height": "females \u2013 22 inches at the withers; males \u2013 23 \u00bd inches at the withers",
             "weight": "females \u2013 57 to 71 pounds; males \u2013 70 to 84 pounds",
@@ -413,7 +413,7 @@
         },
         {
             "name": "Berger Picard",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HERDING_Berger_Picard.jpg",
+            "image": "https://i.etsystatic.com/19113854/r/il/eca655/2608695629/il_fullxfull.2608695629_3we5.jpg",
             "size": "large",
             "height": "males \u2014 23.5 to 25.5 inches at the withers; females \u2014 21.5 to 23.5 inches at the withers",
             "weight": "50 to 75 pounds",
@@ -425,7 +425,7 @@
         },
         {
             "name": "Bernese Mountain Dog",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/WORKING_Bernese-Mountain-Dog.jpg",
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Bernese-Mountain-Dog-On-White-01.jpg",
             "size": "large",
             "height": "males: 25 to 27.5; females: 23 to 26 inches",
             "weight": "males:  80 to 115 pounds; females: 70 to 95 pounds",
@@ -452,7 +452,7 @@
         },
         {
             "name": "Bichon Frise",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/NonSporting_Bichon-Frise.jpg",
+            "image": "https://www.petethevet.com/wp-content/uploads/2014/01/48soreear-1-530x440.jpg",
             "size": "small",
             "height": "9.5 to 11.5 inches at the shoulders",
             "weight": "12 to 18 lbs.",
@@ -478,7 +478,7 @@
         },
         {
             "name": "Black And Tan Coonhound",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HOUND_Black-And-Tan-Coonhound.jpg",
+            "image": "https://web5.lifelearn.com/wp-content/uploads/2011/02/BlackandTan1of1.jpg",
             "size": "medium",
             "height": "males \u2013 25 to 27 inches at the shoulder, females \u2013 23 to 25 inches at the shoulder",
             "weight": "males \u2013 80 to 90 pounds, females \u2013 65 to 75 pounds",
@@ -490,7 +490,7 @@
         },
         {
             "name": "Black Russian Terrier",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/WORKING_Black-Russian-Terrier.jpg",
+            "image": "https://pbs.twimg.com/media/Cj1ShNnWgAAvT9T.jpg",
             "size": "large",
             "height": "males \u2013 27 to 30 inches, females \u2013 26 to 29 inches",
             "weight": "75 to 130 pounds",
@@ -502,7 +502,7 @@
         },
         {
             "name": "Bloodhound",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HOUND_Bloodhound.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bloodhound_Erland22.jpg/800px-Bloodhound_Erland22.jpg",
             "size": "large",
             "height": "males \u2013 25 to 27 inches, females \u2013 23 to 25 inches",
             "weight": "males \u2013 90 to 110 pounds, females \u2013 80 to 100 pounds",
@@ -530,7 +530,7 @@
         },
         {
             "name": "Bluetick Coonhound",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HOUND_Bluetick-Coonhound.jpg",
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Bluetick-Coonhound.jpg",
             "size": "large",
             "height": "males \u2013 22 to 27 inches at the withers, females \u2013 21 to 25 inches at the withers",
             "weight": "males \u2013 55 to 80 pounds, females \u2013 45 to 65 pounds",
@@ -542,7 +542,7 @@
         },
         {
             "name": "Boerboel",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/WORKING_Boerboel.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Boerboel_fawn_border.jpg",
             "size": "large",
             "height": "females \u2013 22 to 25 inches; males \u2013 24 to 27 inches",
             "weight": "110 to 200 pounds",
@@ -554,7 +554,7 @@
         },
         {
             "name": "Border Collie",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HERDING_Border-Collie.jpg",
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Border-Collie-On-White-01.jpg",
             "size": "medium",
             "height": "males: 19 to 22 inches; females: 18 to 21 inches",
             "weight": "males: 30 to 45 pounds; females: 27 to 42 pounds",
@@ -583,7 +583,7 @@
         },
         {
             "name": "Border Terrier",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TERRIER_Border-Terrier_CLIP.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Border_Terrier.jpg",
             "size": "small",
             "height": "males - 13 to 16 inches at the withersfemales - 11 to 14 inches at the withers",
             "weight": "males - 13 to 15.5 lbs.females - 11.5 to 14 lbs.",
@@ -595,7 +595,7 @@
         },
         {
             "name": "Borzoi",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HOUND_Borzoi_CLIP.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Chart_rosyjski_borzoj_rybnik-kamien_pl.jpg",
             "size": "large/giant",
             "height": "males - at least 28 inches at the shoulder, females - at least 26 inches at the shoulder",
             "weight": "males - 75 to 105 pounds, females - 65 to 69 pounds",
@@ -607,7 +607,7 @@
         },
         {
             "name": "Boston Terrier",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/NonSporting_Boston-Terrier.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Boston-terrier-carlos-de.JPG",
             "size": "small",
             "height": "15 to 17 inches tall",
             "weight": "15 to 25 pounds",
@@ -637,7 +637,7 @@
         },
         {
             "name": "Bouvier Des Flandres",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HERDING_Bouviers-Des-Flandres.jpg",
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Bouvier-des-Flandres-standing-atop-a-hill.jpg",
             "size": "large",
             "height": "males \u2013 24.5 to 27.5 inches at the withers, females \u2013 23.5 to 26.5 inches at the withers",
             "weight": "males \u2013 80 to 100 pounds, females \u2013 65 to 85 pounds",
@@ -649,7 +649,7 @@
         },
         {
             "name": "Boxer",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/WORKING_Boxer.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Male_fawn_Boxer_undocked.jpg/1200px-Male_fawn_Boxer_undocked.jpg",
             "size": "medium to large",
             "height": "males: 23 to 24 inches; females: 21.5 to 23.5 inches",
             "weight": "males: 60 to 80 pounds; females: 55 to 65 pounds",
@@ -676,7 +676,7 @@
         },
         {
             "name": "Boykin Spaniel",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/SPORTING_Boykin-Spaniel.jpg",
+            "image": "https://img.newspapers.com/img/thumbnail/191941361/400/400/0_0_3973_6656.jpg",
             "size": "medium",
             "height": "males \u2013 15.5 to 18 inches at the withers, females \u2013 14 to 16.5 inches at the withers",
             "weight": "25 to 35 pounds",
@@ -688,7 +688,7 @@
         },
         {
             "name": "Briard",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HERDING_Briard.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Briard_fauve.JPG/1200px-Briard_fauve.JPG",
             "size": "large",
             "height": "males \u2013 15.5 to 18 inches at the withers, females \u2013 14 to 16.5 inches at the withers",
             "weight": "25 to 35 pounds",
@@ -700,7 +700,7 @@
         },
         {
             "name": "Brittany",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/SPORTING_Brittany.jpg",
+            "image": "https://cdn.britannica.com/07/137707-050-69A99966/Brittany-region-France.jpg",
             "size": "medium",
             "height": "17.5 to 20.5 inches at the shoulder",
             "weight": "30 to 40 pounds",
@@ -712,7 +712,7 @@
         },
         {
             "name": "Brussels Griffon",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TOY_Brussels-Griffon.jpg",
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Brussels-Griffon-sitting-outdoors.jpg",
             "size": "toy",
             "height": "7 to 8 inches at the withers",
             "weight": "males - 8 to 12 pounds, females - 6 to 10 pounds",
@@ -737,7 +737,7 @@
         },
         {
             "name": "Bull Terrier",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TERRIER_Bull-Terrier-%28Colored%29.jpg",
+            "image": "https://cdn.britannica.com/77/235277-050-E9162647/white-bull-terrier-dog.jpg",
             "size": "medium/large",
             "height": "21 to 22 inches at the shoulders",
             "weight": "50 to 70 pounds",
@@ -766,7 +766,7 @@
         },
         {
             "name": "Bulldog",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/NonSporting_Bulldog.jpg",
+            "image": "https://cdn.britannica.com/78/232778-050-D3701AB1/English-bulldog-dog.jpg",
             "size": "medium",
             "height": "13 to 15 inches tall",
             "weight": "males: 50 pounds or more; females: 40 pounds or more",
@@ -797,7 +797,7 @@
         },
         {
             "name": "Bullmastiff",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/WORKING_BullMastiff_CLIP.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bullmastiff_edited.JPG/1200px-Bullmastiff_edited.JPG",
             "size": "large/giant",
             "height": "males - 25 to 27 inches at the withersfemales - 24 o 26 inches at the withers",
             "weight": "males - 110 to 130 lbs.females - 100 to 120 lbs.",
@@ -809,7 +809,7 @@
         },
         {
             "name": "Cairn Terrier",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TERRIER_Cairn-Terrier_CLIP.jpg",
+            "image": "https://www.hankikoira.fi/sites/default/files/media/rotukuvat/171--IMG_0221.JPG",
             "size": "small",
             "height": "males \u2013 10 inches at the withers, females \u2013 9.5 inches at the withers",
             "weight": "males \u2013 14 pounds, females \u2013 13 pounds",
@@ -821,7 +821,7 @@
         },
         {
             "name": "Canaan Dog",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HERDING_Canaan-Dog.jpg",
+            "image": "https://i5.walmartimages.com/asr/bc14969e-f1ff-4668-aed2-b69bb928914d.b2d74abc68b74c18cf72e748e7f0cbdd.jpeg",
             "size": "medium",
             "height": "males \u2013 20 to 24 inches, females \u2013 19 to 23 inches",
             "weight": "males \u2013 45 to 55 pounds, females \u2013 35 to 45 pounds",
@@ -833,7 +833,7 @@
         },
         {
             "name": "Cane Corso",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/WORKING_Cane-Corso.jpg",
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Cane-Corso-AKC-121516-296.jpg",
             "size": "large",
             "height": "males: 25 to 27.5 inches; females: 23.5 to 24 inches",
             "weight": "88 to 110 pounds",
@@ -863,7 +863,7 @@
         },
         {
             "name": "Cardigan Welsh Corgi",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HERDING_Cardigan-Welsh-Corgi.jpg",
+            "image": "https://www.mi-research.net//fileIJAC/journal/article/ijac/2021/1/IJAC-2020-06-133-1_mini.jpg",
             "size": "medium",
             "height": "10.5 to 12.5 inches at the withers",
             "weight": "males - 30 to 38 lbs.females - 25 to 34 lbs.",
@@ -875,7 +875,7 @@
         },
         {
             "name": "Cavalier King Charles Spaniel",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TOY_Cavalier-King-Charles-Spaniel.jpg",
+            "image": "https://img.yumpu.com/8102745/1/500x640/executive-council-deadlines-new-zealand-kennel-club.jpg",
             "size": "small",
             "height": "12 to 13 inches",
             "weight": "13 to 18 pounds",
@@ -902,7 +902,7 @@
         },
         {
             "name": "Cesky Terrier",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TERRIER_Cesky-Terrier_large.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Terier_czeski_suka_2009_pl2.jpg",
             "size": "small",
             "height": "10 to 13 inches at the withers",
             "weight": "16 to 22 lbs.",
@@ -914,7 +914,7 @@
         },
         {
             "name": "Chesapeake Bay Retriever",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/SPORTING_Chesapeake-Bay-Retrievers.jpg",
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Chesapeake-Bay-Retriever-hunting.jpg",
             "size": "large",
             "height": "males \u2013 23 to 26 inches, females \u2013 21 to 24 inches",
             "weight": "males \u2013 65 to 80 pounds, females \u2013 55 to 70 pounds",
@@ -941,7 +941,7 @@
         },
         {
             "name": "Chihuahua",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TOY_Chihuahua-%28Smooth-Coat%29.jpg",
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Chihuahua-standing-in-three-quarter-view.jpg",
             "size": "small",
             "height": "5 to 8 inches",
             "weight": "up to 6 pounds",
@@ -970,7 +970,7 @@
         },
         {
             "name": "Chinese Crested",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TOY_Chinese-Crested.jpg",
+            "image": "https://media-be.chewy.com/wp-content/uploads/2021/06/17114955/ChineseCrested-FeaturedImage-1024x615.jpg",
             "size": "toy",
             "height": "males - 11 to 13 inches at the withers, females - 9 to 12 inches at the withers",
             "weight": "males - 7 to 12 pounds, females - 5 to 11 pounds",
@@ -982,7 +982,7 @@
         },
         {
             "name": "Chinese Shar Pei",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/NonSporting_Chinese-Shar-Pei.jpg",
+            "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23142_chinese-shar-pei.jpg",
             "size": "medium",
             "height": "18 to 20 inches at the withers",
             "weight": "45 to 60 pounds.",
@@ -994,7 +994,7 @@
         },
         {
             "name": "Chinook",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/WORKING_Chinook.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/CH-47_Chinook_helicopter_flyby.jpg",
             "size": "large",
             "height": "males \u2013 24 to 26 inches at the withers, females \u2013 22 to 24 inches at the withers",
             "weight": "males \u2013 60 to 75 pounds, females \u2013 50 to 65 pounds",
@@ -1006,7 +1006,7 @@
         },
         {
             "name": "Chow Chow",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/NonSporting_Chow-Chow.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/ChowChow2Szczecin.jpg/1200px-ChowChow2Szczecin.jpg",
             "size": "medium",
             "height": "males: 19 to 22 inches; females: 18 to 20 inches",
             "weight": "males: 57 to 70 pounds; females: 44 to 55 pounds",
@@ -1032,7 +1032,7 @@
         },
         {
             "name": "Cirneco Dell Etna",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HOUND_Cirneco-dell%27Etna.jpg",
+            "image": "https://i1.rgstatic.net/publication/349338961_Genomic_variability_of_Cirneco_dell'Etna_and_the_genetic_distance_with_other_dog_breeds/links/602b986692851c4ed5756b96/largepreview.png",
             "size": "medium",
             "height": "females \u2013 16 \u00bd to 19 inches; males \u2013 18 to 19 \u00bd inches",
             "weight": "females \u2013 20 pounds; males \u2013 23 pounds",
@@ -1044,7 +1044,7 @@
         },
         {
             "name": "Clumber Spaniel",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/SPORTING_Clumber-Spaniel.jpg",
+            "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9fe55516-10c0-42d4-ada7-381ac64cec66/ddpkplw-b524a133-9b8e-4875-95e9-62939e6eb201.jpg/v1/fit/w_375,h_300,q_70,strp/clumber_spaniel_by_chellosia_ddpkplw-375w.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTUzNiIsInBhdGgiOiJcL2ZcLzlmZTU1NTE2LTEwYzAtNDJkNC1hZGE3LTM4MWFjNjRjZWM2NlwvZGRwa3Bsdy1iNTI0YTEzMy05YjhlLTQ4NzUtOTVlOS02MjkzOWU2ZWIyMDEuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.JNkbEEYSV6jOYLke4b73pDxHbdZCc4o5W3_bPYzP5gI",
             "size": "medium/large",
             "height": "males \u2013 18 to 20 inches at the withers, females - 17 to 19 inches at the withers",
             "weight": "males - 70 to 85 pounds, females - 55 to 70 pounds",
@@ -1056,7 +1056,7 @@
         },
         {
             "name": "Cocker Spaniel",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/SPORTING_Cocker_Spaniel_ASCOB-Getty.jpg",
+            "image": "https://i0.wp.com/dogloversshow.com.au/directory/wp-content/uploads/sites/4/2016/06/English-Cocker-Spaniel_LR.jpg?fit=420%2C350&ssl=1",
             "size": "small",
             "height": "male: 14.5 to 15.5 inches; female: 13.5 to 14.5 inches",
             "weight": "male: 25 to 30 pounds; female: 20 to 25 pounds",
@@ -1084,7 +1084,7 @@
         },
         {
             "name": "Collie",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HERDING_Collie-%28Rough%29.jpg",
+            "image": "https://yvonneleon.com/8427-taille_refonte_medium/collier-solitaire-pm-coeur-nacre-or-jaune.jpg",
             "size": "large",
             "height": "males \u2013 24 to 26 inches at the shoulders, females \u2013 22 to 24 inches at the shoulders",
             "weight": "males \u2013 60 to 75 pounds, females \u2013 50 to 65 pounds",
@@ -1096,7 +1096,7 @@
         },
         {
             "name": "Corgi",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HERDING_Pembroke-Welsh-Corgi.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Welchcorgipembroke.JPG/1200px-Welchcorgipembroke.JPG",
             "size": "small to medium",
             "height": "10 to 12 inches",
             "weight": "males: up to 30 pounds; females: up to 28 pounds",
@@ -1124,7 +1124,7 @@
         },
         {
             "name": "Coton De Tulear",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/NonSporting_Coton-de-Tulear.jpg",
+            "image": "https://drogariaspacheco.vteximg.com.br/arquivos/ids/871143-500-500/276308---cotonetes-johnsons-75-hastes-3-unidades.jpg?v=637896174330230000",
             "size": "small",
             "height": "females \u2013 9 to 10 inches; males \u2013 10 to 11 inches",
             "weight": "females \u2013 8 to 13 pounds, males \u2013 9 to 15 pounds",
@@ -1136,7 +1136,7 @@
         },
         {
             "name": "Curly Coated Retriever",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/SPORTING_Curly-Coated-Retriever.jpg",
+            "image": "https://i5.walmartimages.com/asr/d7a7a958-9b07-4aae-ac27-138105c4ce99.39fa5f03a60ce9fa483c36f76131bd1f.jpeg",
             "size": "large",
             "height": "males \u2013 25 to 27 inches at the withers, females \u2013 23 to 25 inches at the withers",
             "weight": "65 pounds",
@@ -1148,7 +1148,7 @@
         },
         {
             "name": "Dachshund",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HOUND_Dachshund-%28Smooth%29.jpg",
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Longhaired-Dachshund-standing-outdoors.jpg",
             "size": "small",
             "height": "standard: 8 to 9 inches; miniature: 5 to 6 inches",
             "weight": "standard: 16 to 32 pounds; miniature: up to 11 pounds",
@@ -1178,7 +1178,7 @@
         },
         {
             "name": "Dalmatian",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/NonSporting_Dalmatian.jpg",
+            "image": "https://cdn.britannica.com/47/236047-050-F06BFC5E/Dalmatian-dog.jpg",
             "size": "medium/large",
             "height": "19 to 24 inches at the withers",
             "weight": "45 to 70 pounds",
@@ -1206,7 +1206,7 @@
         },
         {
             "name": "Dandie Dinmont Terrier",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TERRIER_Dandie-Dinmont-Terrier.jpg",
+            "image": "replace https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TERRIER_Dandie-Dinmont-Terrier.jpg",
             "size": "small",
             "height": "8 to 11 inches at the top of the shoulders",
             "weight": "18 to 24 pounds",
@@ -1218,7 +1218,7 @@
         },
         {
             "name": "Doberman Pinscher",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/Doberman_body.jpg",
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Doberman-Pinscher-standing-outdoors.jpg",
             "size": "medium/large",
             "height": "males: 26 to 28 inches; females: 24 to 26 inches",
             "weight": "males: 85 to 100 pounds; females: 65 to 75 pounds",
@@ -1245,7 +1245,7 @@
         },
         {
             "name": "Dogue De Bordeaux",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/WORKING_Dogue-de-Bordeaux.jpg",
+            "image": "https://w0.peakpx.com/wallpaper/421/762/HD-wallpaper-bordeaux-dogs-french-mastiff-large-brown-dogs-family-birmingham-2018-bordeaux-mastiff.jpg",
             "size": "large",
             "height": "males \u2013 23.5 to 27 inches at the withers, females \u2013 23 to 26 inches at the withers",
             "weight": "males \u2013 at least 110 pounds, females \u2013 at least 99 pounds",
@@ -1257,7 +1257,7 @@
         },
         {
             "name": "English Cocker Spaniel",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/SPORTING_English-Cocker-Spaniel.jpg",
+            "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=530937575724625",
             "size": "medium",
             "height": "males - 16 to 17 inches at the withers, females - 15 to 16 inches at the withers",
             "weight": "males - 28 to 34 pounds, females - 26 to 32 pounds",
@@ -1269,7 +1269,7 @@
         },
         {
             "name": "English Foxhound",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HOUND_English-Foxhound.jpg",
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/English-Foxhound-standing-in-a-field.jpg",
             "size": "medium/large",
             "height": "approximately 24 inches at the shoulder",
             "weight": "55 to 75 pounds",
@@ -1281,7 +1281,7 @@
         },
         {
             "name": "English Setter",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/SPORTING_English-Setter.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/EnglishSetter9_fx_wb.jpg",
             "size": "medium",
             "height": "males \u2013 at least 25 inches at the withers, females \u2013 at least 24 inches at the withers",
             "weight": "55 to 65 pounds",
@@ -1293,7 +1293,7 @@
         },
         {
             "name": "English Springer Spaniel",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/SPORTING_English-Springer-Spaniel.jpg",
+            "image": "https://dogsmonthly.co.uk/wp-content/uploads/2021/07/l-r-Harry-Paddy-and-Max-next-to-the-new-bronze-statue-of-Max-wearing-his-PDSA-Order-of-Merit-scaled.jpeg",
             "size": "medium",
             "height": "males \u2013 approximately 20 inches at the shoulders, females \u2013 approximately 19 inches at the shoulders",
             "weight": "males \u2013 approximately 50 pounds, females \u2013 approximately 40 pounds",
@@ -1319,7 +1319,7 @@
         },
         {
             "name": "English Toy Spaniel",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TOY_English-Toy-Spaniel-%28KC%26R%29.jpg",
+            "image": "replace https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TOY_English-Toy-Spaniel-%28KC%26R%29.jpg",
             "size": "toy/small",
             "height": "at least 10 inches",
             "weight": "8 to 14 pounds",
@@ -1331,7 +1331,7 @@
         },
         {
             "name": "Entlebucher Mountain Dog",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HERDING_Entlebucher-Mountain-Dog.jpg",
+            "image": "https://www.dogimages.org.uk/t/483/av-import-register-working-best-breed-entlebucher-24557383.jpg.webp",
             "size": "medium",
             "height": "males \u2013 16 to 21 inches at the shoulders, females \u2013 15 to 20 inches",
             "weight": "45 to 65 pounds",
@@ -1343,7 +1343,7 @@
         },
         {
             "name": "Field Spaniel",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/SPORTING_Field-Spaniel.jpg",
+            "image": "replace https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/SPORTING_Field-Spaniel.jpg",
             "size": "medium",
             "height": "males \u2013 18 inches at the withers, females \u2013 17 inches at the withers",
             "weight": "35 to 50 pounds",
@@ -1355,7 +1355,7 @@
         },
         {
             "name": "Finnish Lapphund",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HERDING_Finnish-Lapphund.jpg",
+            "image": "https://i1.rgstatic.net/publication/361628240_Grey_wolf_genomic_history_reveals_a_dual_ancestry_of_dogs/links/62bf53b6c0556f0d6314849a/largepreview.png",
             "size": "medium",
             "height": "males \u2013 18 to 21 inches at the shoulder, females \u2013 16 to 19 inches at the shoulder",
             "weight": "30 to 50 pounds",
@@ -1367,7 +1367,7 @@
         },
         {
             "name": "Finnish Spitz",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/NonSporting_Finnish-Spitz_0.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Finnish_Spitz_600.jpg",
             "size": "small",
             "height": "males \u2013 17.5 to 20 inches, females \u2013 15.5 to 18 inches",
             "weight": "males \u2013 29 pounds, females \u2013 23 pounds",
@@ -1379,7 +1379,7 @@
         },
         {
             "name": "Flat Coated Retriever",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/SPORTING_Flat-Coated-Retriever.jpg",
+            "image": "https://media-be.chewy.com/wp-content/uploads/2021/07/06160235/FlatCoatedRetriever-FeaturedImage.jpg",
             "size": "large",
             "height": "males \u2013 23 to 24.5 inches, females \u2013 22 to 23 inches",
             "weight": "60 to 70 pounds",
@@ -1391,7 +1391,7 @@
         },
         {
             "name": "French Bulldog",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/NonSporting_French-Bulldog.jpg",
+            "image": "http://cdn.shopify.com/s/files/1/1167/9424/articles/1610397764_1610397692_1610397293_1610397222_1610396609_1610396227_1610395566_1610395416_1610392086_1610392054_1610391864_1605058733_1605058701_1604893007_1604892438_1604891972_1604891_47ca9a96-c3ce-4c4b-8404-ac5cea9ae85c_600x.jpg?v=1626575384",
             "size": "small",
             "height": "11 to 13 inches",
             "weight": "up to 28 pounds",
@@ -1419,7 +1419,7 @@
         },
         {
             "name": "German Pinscher",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/WORKING_German-Pinscher.jpg",
+            "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/20183655/German-Pinscher-standing-near-a-lake.jpg",
             "size": "medium",
             "height": "17 to 20 inches at the withers",
             "weight": "25 to 35 pounds",
@@ -1431,7 +1431,7 @@
         },
         {
             "name": "German Shepherd Dog",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HERDING_German-Shepherd-Dog.jpg",
+            "image": "https://cdn-images.vetstreet.com/98/5c/a89605db40e5bfd72ff6d0e41ae2/german-shepherd-ap-aozjlq-645.jpg",
             "size": "large",
             "height": "males: 24 to 26 inches; females: 22 to 24 inches",
             "weight": "males: 65 to 90 pounds; females: 50 to 70 pounds",
@@ -1460,7 +1460,7 @@
         },
         {
             "name": "German Shorthaired Pointer",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/SPORTING_German-Shorthaired-Pointer.jpg",
+            "image": "http://nyshistoricnewspapers.org/lccn/sn83008557/1966-05-01/ed-1/seq-25/thumbnail.jpg",
             "size": "medium/large",
             "height": "males \u2013 23 to 25 inches at the withers, females \u2013 21 to 23 inches at the withers",
             "weight": "males \u2013 55 to 70 pounds, females \u2013 45 to 60 pounds",
@@ -1472,7 +1472,7 @@
         },
         {
             "name": "German Wirehaired Pointer",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/SPORTING_German-Wirehaired-Pointer.jpg",
+            "image": "https://www.dogbreedinfo.com/images14/GermanWireHairPointerDSCN08999.JPG",
             "size": "medium/large",
             "height": "males \u2013 24 to 26 inches at the withers, females \u2013 at least 22 inches at the withers",
             "weight": "males \u2013 55 to 70 pounds, females \u2013 45 to 60 pounds",
@@ -1484,7 +1484,7 @@
         },
         {
             "name": "Giant Schnauzer",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/WORKING_Giant-Schnauzer.jpg",
+            "image": "https://www.akc.org/wp-content/uploads/2009/01/giantschauzer055.jpg",
             "size": "large",
             "height": "males \u2013 25.5 to 27.5 inches at the withers, females \u2013 23.5 to 25.5 inches at the withers",
             "weight": "males - 60 to 85 pounds females - 55 to 75 pounds",
@@ -1510,7 +1510,7 @@
         },
         {
             "name": "Glen Of Imaal Terrier",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TERRIER_Glen-of-Imaal-Terrier.jpg",
+            "image": "https://thereluctantgirlscout.files.wordpress.com/2022/04/img_2190-copy.jpg",
             "size": "medium",
             "height": "12.5 to 14 inches at the shoulder blades",
             "weight": "35 pounds",
@@ -1522,7 +1522,7 @@
         },
         {
             "name": "Golden Retriever",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/SPORTING_Golden-Retriever.jpg",
+            "image": "https://www.gr-rescue.org/images/cookbook_cover.png",
             "size": "large",
             "height": "males: 23 to 24 inches; females: 21.5 to 22.5 inches",
             "weight": "males: 65 to 75 pounds; females: 55 to 65 pounds",
@@ -1553,7 +1553,7 @@
         },
         {
             "name": "Gordon Setter",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/SPORTING_Gordon-Setter.jpg",
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Gordon-Setter.3.jpg",
             "size": "large",
             "height": "males \u2013 24 to 27 inches at the shoulders, females \u2013 23 to 26 inches",
             "weight": "males \u2013 55 to 80 pounds, females \u2013 45 to 70 pounds",
@@ -1565,7 +1565,7 @@
         },
         {
             "name": "Great Dane",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/WORKING_Great-Dane.jpg",
+            "image": "https://blog.myollie.com/wp-content/uploads/2020/11/spotted-adult-great-dane-stands-in-lush-forested-area-1.jpg",
             "size": "giant",
             "height": "28 to 30 inches",
             "weight": "males: 135 to 170 pounds; females: 100 to 145 pounds",
@@ -1592,7 +1592,7 @@
         },
         {
             "name": "Great Pyrenees",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/WORKING_Great-Pyrenees.jpg",
+            "image": "http://1.bp.blogspot.com/-l2LBTludUTU/T-ZnCZmQO_I/AAAAAAAAC9Y/LoBh9qlIJmo/s1600/old+pyr.jpeg",
             "size": "giant",
             "height": "males: 27 to 32 inches; females: 25 to 29 inches",
             "weight": "males: 100 to 130 pounds; females: 85 to 120 pounds",
@@ -1619,7 +1619,7 @@
         },
         {
             "name": "Greater Swiss Mountain Dog",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/WORKING_Greater-Swiss-Mountain-Dog.jpg",
+            "image": "replace https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/WORKING_Greater-Swiss-Mountain-Dog.jpg",
             "size": "large/giant",
             "height": "males \u2013 25.5 to 28.5 inches at the shoulders, females \u2013 23.5 to 27 inches at the shoulders",
             "weight": "males \u2013 115 to 140 pounds, females \u2013 85 to 110 pounds",
@@ -1631,7 +1631,7 @@
         },
         {
             "name": "Greyhound",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HOUND_Greyhound_CLIP.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/GraceTheGreyhound.jpg",
             "size": "large",
             "height": "25 to 30 inches at the shoulders",
             "weight": "males \u2013 65 to 70 pounds, females \u2013 60 to 65 pounds",
@@ -1643,7 +1643,7 @@
         },
         {
             "name": "Harrier",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HOUND_Harrier.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Spanish_EAV-8B_Harrier_II%2B_%22Cobra%22_%2827448607244%29_%28cropped%29.jpg/1200px-Spanish_EAV-8B_Harrier_II%2B_%22Cobra%22_%2827448607244%29_%28cropped%29.jpg",
             "size": "medium",
             "height": "19 to 21 inches",
             "weight": "40 to 55 pounds",
@@ -1655,7 +1655,7 @@
         },
         {
             "name": "Havanese",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TOY_Havanese_CLIP.jpg",
+            "image": "https://www.mein-haustier.de/wp-content/uploads/2018/03/shutterstock_555561031-komprimiert.jpg",
             "size": "toy",
             "height": "males: 9 to 11.5 inches; females: 8.5 to 10 inches",
             "weight": "males: 8 to 13 pounds; females: 7 to 12 pounds",
@@ -1682,7 +1682,7 @@
         },
         {
             "name": "Ibizan Hound",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HOUND_Ibizan-Hound.jpg",
+            "image": "https://i5.walmartimages.com/asr/65b34196-f6f5-4d48-8c21-d3264adee97b.3cb800046f9a55e4aaae527ec9042134.jpeg",
             "size": "medium",
             "height": "males \u2013 23.5 to 27.5 inches at the withers, females \u2013 22.5 to 26 inches at the withers",
             "weight": "males \u2013 50 pounds, females \u2013 45 pounds",
@@ -1694,7 +1694,7 @@
         },
         {
             "name": "Icelandic Sheepdog",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HERDING_Icelandic-Sheepdog.jpg",
+            "image": "https://cdn.iamcountryside.com/wp-content/uploads/2019/03/ConsiderIcelandic-1.jpg",
             "size": "medium",
             "height": "males \u2013 18 inches, females \u2013 16.5 inches",
             "weight": "should be proportionate to height",
@@ -1706,7 +1706,7 @@
         },
         {
             "name": "Irish Red And White Setter",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/SPORTING_Red-And-White-Setter.jpg",
+            "image": "https://image.isu.pub/201013202448-f6f6670e5a5f112af1e0e1bba9056cc5/jpg/page_1.jpg",
             "size": "large",
             "height": "24.5 to 26 inches for males, 22.5 to 24 inches for females",
             "weight": "50 to 75 pounds",
@@ -1718,7 +1718,7 @@
         },
         {
             "name": "Irish Setter",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/SPORTING_Irish-Setter.jpg",
+            "image": "https://cs1.0ps.us/original/opplanet-irish-setter-mens-wingshooter-st-6in-waterproof-work-boots-w-non-metallic-toe-brown-14-e2-83632e2140-main",
             "size": "large",
             "height": "males \u2013 at least 27 inches at the withersfemales \u2013 at least 25 inches at the withers",
             "weight": "males \u2013 at least 70 poundsfemales \u2013 at least 60 pounds",
@@ -1730,7 +1730,7 @@
         },
         {
             "name": "Irish Terrier",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TERRIER_Irish-Terrier.jpg",
+            "image": "replace https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TERRIER_Irish-Terrier.jpg",
             "size": "small",
             "height": "18 inches at the shoulders",
             "weight": "males - 27 pounds, females \u2013 25 pounds",
@@ -1742,7 +1742,7 @@
         },
         {
             "name": "Irish Water Spaniel",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/SPORTING_Irish-Water-Spaniel.jpg",
+            "image": "https://i1.rgstatic.net/publication/356894324_Investigating_the_Effects_of_Venom_Peptides_on_Canine_Mammary_Cancer/links/61b1e3f482a6ef0f35d450af/largepreview.png",
             "size": "medium",
             "height": "males \u2013 22 to 24 inches at the shoulders, females \u2013 21 to 23 inches at the shoulders",
             "weight": "males \u2013 55 to 65 pounds, females \u2013 45 to 58 pounds",
@@ -1754,7 +1754,7 @@
         },
         {
             "name": "Irish Wolfhound",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HOUND_Irish-Wolfhound.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Irish_Wolfhound_Sam.jpg/800px-Irish_Wolfhound_Sam.jpg",
             "size": "giant",
             "height": "30 to 34 inches at the shoulders",
             "weight": "males \u2013 at least 120 lbs.females \u2013 at least 105 lbs.",
@@ -1766,7 +1766,7 @@
         },
         {
             "name": "Italian Greyhound",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TOY_Italian-Greyhound.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Italian_Greyhound_standing_gray_%28cropped%29.jpg/1200px-Italian_Greyhound_standing_gray_%28cropped%29.jpg",
             "size": "toy/small",
             "height": "13 to 15 inches at the withers",
             "weight": "males \u2013 8 to 15 pounds, females \u2013 4 to 10 pounds.",
@@ -1778,7 +1778,7 @@
         },
         {
             "name": "Japanese Chin",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TOY_Japanese-Chin.jpg",
+            "image": "https://m.media-amazon.com/images/I/710JcjOy3gL.jpg",
             "size": "toy",
             "height": "8 to 11 inches at the highest point of the withers",
             "weight": "4 to 15 pounds",
@@ -1790,7 +1790,7 @@
         },
         {
             "name": "Keeshond",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/NonSporting_Keeshond.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Keeshond_Majic_standing_cropped.jpg/800px-Keeshond_Majic_standing_cropped.jpg",
             "size": "medium",
             "height": "males \u2013 18 inches at the withers, females \u2013 17 inches at the withers",
             "weight": "males \u2013 40 pounds, females \u2013 35 pounds",
@@ -1817,7 +1817,7 @@
         },
         {
             "name": "Kerry Blue Terrier",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TERRIER_Kerry-Blue-Terrier.jpg",
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Kerry-Blue-Terrier-standing-stacked-outdoors.jpg",
             "size": "medium",
             "height": "males \u2013 18 to 19 inches at the withers, females \u2013 17 to 19 inches at the withers",
             "weight": "males \u2013 33 to 40 pounds, females \u2013 28 to 37 pounds",
@@ -1829,7 +1829,7 @@
         },
         {
             "name": "Komondor",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/WORKING_Komondor.jpg",
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Komondor-standing-in-the-park.jpg",
             "size": "large",
             "height": "males \u2013 at least 27.5 inches at the withers, females \u2013 at least 25.5 inches at the withers",
             "weight": "males \u2013 at least 100 pounds, females \u2013 at least 80 pounds",
@@ -1841,7 +1841,7 @@
         },
         {
             "name": "Kuvasz",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/WORKING_Kuvasz.jpg",
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Kuvasz-standing-outdoors.jpg",
             "size": "giant",
             "height": "males \u2013 28 to 30 inches at the withers, females \u2013 26 to 28 inches at the withers",
             "weight": "males \u2013 100 to 115 pounds, females 70 to 90 pounds",
@@ -1853,7 +1853,7 @@
         },
         {
             "name": "Labrador Retriever",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/SPORTING_Labrador-Retriever.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Labrador_on_Quantock_%282175262184%29.jpg/800px-Labrador_on_Quantock_%282175262184%29.jpg",
             "size": "large",
             "height": "males: 22.5 to 24.5 inches; females: 21.5 to 23.5 inches",
             "weight": "males: 65 to 80 lbs; females: 55 to 70 lbs",
@@ -1880,7 +1880,7 @@
         },
         {
             "name": "Lagotto Romagnolo",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/SPORTING_Lagotto-Romangolo.jpg",
+            "image": "https://media-be.chewy.com/wp-content/uploads/2021/07/07154750/LagottoRomagnolo-FeaturedImage-1024x615.jpg",
             "size": "medium",
             "height": "males \u2014 19 to 19 inches at the withers; females \u2014 16 to 18 inches at the withers",
             "weight": "24 to 35 pounds",
@@ -1892,7 +1892,7 @@
         },
         {
             "name": "Lakeland Terrier",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TERRIER_Lakeland-Terrier.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Lakeland_Terrier.jpg",
             "size": "small",
             "height": "males \u2013 14.5 inches at the withers, females \u2013 13.5 inches at the withers",
             "weight": "17 pounds",
@@ -1904,7 +1904,7 @@
         },
         {
             "name": "Leonberger",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/WORKING_Leonberger.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Leonberger_male.jpg",
             "size": "large/giant",
             "height": "males \u2013 28 to 31.5 inches at the withers, females \u2013 25.5 to 29.5 inches at the withers",
             "weight": "80 to 160 pounds",
@@ -1916,7 +1916,7 @@
         },
         {
             "name": "Lhasa Apso",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/NonSporting_Lhasa-Apso_CLIP.jpg",
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Lhasa-Apso-On-White-01.jpg",
             "size": "small",
             "height": "males \u2013 10 to 11 inches at the withers, females \u2013 9 to 10 inches at the withers",
             "weight": "males \u2013 13 to 18 pounds, females \u2013 11 to 13 pounds.",
@@ -1944,7 +1944,7 @@
         },
         {
             "name": "Loewchen",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/NonSporting_Lowchen.jpg",
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Lowchen-at-the-AKC-National-Championship-presented-by-Royal-Canin.jpg",
             "size": "small",
             "height": "12 to 13 inches at the withers",
             "weight": "12 to 18 pounds",
@@ -1956,7 +1956,7 @@
         },
         {
             "name": "Maltese",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TOY_Maltese.jpg",
+            "image": "https://m.media-amazon.com/images/I/41GPnh0IhPL._AC_SY350_.jpg",
             "size": "toy",
             "height": "7 to 9 inches",
             "weight": "4 to 6 pounds",
@@ -1983,7 +1983,7 @@
         },
         {
             "name": "Manchester Terrier",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TERRIER_Manchester.jpg",
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Standard-Manchester-Terrier-puppy-standing-in-profile-on-a-white-background.jpg",
             "size": "toy and small/medium",
             "height": "17 inches",
             "weight": "toy \u2013 7 to 12 pounds, standard \u2013 12 to 22 pounds",
@@ -1995,7 +1995,7 @@
         },
         {
             "name": "Mastiff",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/WORKING_Mastiff.jpg",
+            "image": "https://cdn.britannica.com/02/234902-050-E6163C4B/Brindle-mastiff-dog.jpg",
             "size": "giant",
             "height": "males \u2013 at least 30 inches at the shoulders, females \u2013 at least 27.5 inches at the shoulders",
             "weight": "males \u2013 160 to 230 pounds, females \u2013 120 to 170 pounds",
@@ -2022,7 +2022,7 @@
         },
         {
             "name": "Miniature American Shepherd",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HERDING_Mini-American_Shepherd.jpg",
+            "image": "http://s3-us-west-2.amazonaws.com/akccontentimages/MiniatureAmericanShepherd.jpg",
             "size": "medium",
             "height": "males \u2014 14 to 18 inches at the withers; females \u201413 to 17 inches at the withers",
             "weight": "18 to 40 pounds",
@@ -2034,7 +2034,7 @@
         },
         {
             "name": "Miniature Bull Terrier",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TERRIER_Miniature-Bull-Terrier.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Bull_terier_i_bull_terier_miniatura_d46.jpg",
             "size": "small/medium",
             "height": "10 to 14 inches at the withers",
             "weight": "45 to 80 pounds",
@@ -2046,7 +2046,7 @@
         },
         {
             "name": "Miniature Pinscher",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TOY_Miniature-Pinscher.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Miniature_pinscher.jpg",
             "size": "toy",
             "height": "10 to 12.5 inches at the shoulders",
             "weight": "8 to 10 pounds.",
@@ -2058,7 +2058,7 @@
         },
         {
             "name": "Miniature Schnauzer",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TERRIER_Miniature-Schauzer.jpg",
+            "image": "https://www.thesprucepets.com/thmb/r0_JCyBYsQ_1McF5RkjmBAwvpls=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-998982774-8315e94484c84de090cfa12dbbe0d400.jpg",
             "size": "small",
             "height": "12 to 14 inches",
             "weight": "14 to 17 pounds",
@@ -2070,7 +2070,7 @@
         },
         {
             "name": "Neapolitan Mastiff",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/WORKING_Neapolitan-Mastiff.jpg",
+            "image": "https://www.akc.org/wp-content/uploads/2009/01/Neapolitan-Mastiff-on-lead-standing-in-the-grass-outdoors.20190813025752970.jpg",
             "size": "large/giant",
             "height": "males \u2013 26 to 31 inches, females \u2013 24 to 29 inches",
             "weight": "males \u2013 150 pounds, females \u2013 110 pounds",
@@ -2082,7 +2082,7 @@
         },
         {
             "name": "Newfoundland",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/WORKING_Newfoundland.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Newfoundland_dog_Smoky.jpg/640px-Newfoundland_dog_Smoky.jpg",
             "size": "large/giant",
             "height": "males: 28 inches; females: 26 inches",
             "weight": "males: 130 to 150 pounds; females: 100 to 120 pounds",
@@ -2111,7 +2111,7 @@
         },
         {
             "name": "Norfolk Terrier",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TERRIER_Norfolk-Terrier.jpg",
+            "image": "https://www.hankikoira.fi/sites/default/files/styles/max_height_800px/public/2021-03/Norfolkinterrieri_seisoo.JPG?itok=6F58J5j6",
             "size": "small",
             "height": "9 to 10 inches at the withers",
             "weight": "11 to 12 pounds",
@@ -2123,7 +2123,7 @@
         },
         {
             "name": "Norwegian Buhund",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HERDING_Norwegian-Buhund.jpg",
+            "image": "https://i5.walmartimages.com/asr/aece3e7e-d57e-41f5-9dfa-3f8a7e80f827.ed787ed68fb4ff9c9b55d70f2df6b0d7.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
             "size": "medium",
             "height": "males \u2013 17 to 18.5 inches at the shoulders, females \u2013 16 to 17.5 inches at the shoulders",
             "weight": "males \u2013 31 to 40 pounds, females \u2013 26 to 35 pounds",
@@ -2135,7 +2135,7 @@
         },
         {
             "name": "Norwegian Elkhound",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HOUND_Norwegian-Elkhound.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Norwegian_Elkhound.jpg",
             "size": "medium",
             "height": "males \u2013 20.5 inches at the withers, females \u2013 19.5 inches at the withers",
             "weight": "males \u2013 55 pounds, females \u2013 48 pounds",
@@ -2147,7 +2147,7 @@
         },
         {
             "name": "Norwegian Lundehund",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/NonSporting_Norwegian-Lundehund.jpg",
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Norwegian-Lundehund-On-White-03.jpg",
             "size": "small",
             "height": "males \u2013 13 to 15 inches, females \u2013 12 to 14 inches",
             "weight": "males \u2013 15 pounds, females \u2013 13 pounds",
@@ -2159,7 +2159,7 @@
         },
         {
             "name": "Norwich Terrier",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TERRIER_Norwich-Terrier.jpg",
+            "image": "https://i.etsystatic.com/9061126/r/il/84102a/4238259749/il_fullxfull.4238259749_tga7.jpg",
             "size": "small",
             "height": "no more than 10 inches at the withers",
             "weight": "11 to 12 pounds",
@@ -2171,7 +2171,7 @@
         },
         {
             "name": "Nova Scotia Duck Tolling Retriever",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/SPORTING_Nova-Scotia-Duck-Tolling-Retriever.jpg",
+            "image": "https://t1.thpservices.com/previewimage/gallil/30fd0185040f5bf95b17e43a3051427a/tfa-rr-83021.jpg",
             "size": "medium",
             "height": "17 to 21 inches at withers",
             "weight": "35 to 52 lbs.",
@@ -2183,7 +2183,7 @@
         },
         {
             "name": "Old English Sheepdog",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HERDING_Old-English-Sheepdog.jpg",
+            "image": "replace https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HERDING_Old-English-Sheepdog.jpg",
             "size": "large",
             "height": "males \u2013 at least 22 inches at the withers, females \u2013 at least 21 inches at the withers",
             "weight": "60 to 100 pounds",
@@ -2211,7 +2211,7 @@
         },
         {
             "name": "Otterhound",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HOUND_Otterhound.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Two_otterhounds.jpg",
             "size": "large",
             "height": "males \u2013 27 inches at the withers, females \u2013 24 inches at the withers",
             "weight": "males \u2013 115 pounds, females \u2013 80 pounds",
@@ -2223,7 +2223,7 @@
         },
         {
             "name": "Papillon",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TOY_Papillon.jpg",
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Papillon-On-White-01.jpg",
             "size": "toy",
             "height": "8 to 11 inches at the withers",
             "weight": "5 to 12 lbs.",
@@ -2250,7 +2250,7 @@
         },
         {
             "name": "Parson Russell Terrier",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TERRIER_Parson-Russell-Terrier.jpg",
+            "image": "https://m.media-amazon.com/images/I/61ORQEsYV3L.jpg",
             "size": "small",
             "height": "males \u2013 at least 14 inches at the shoulders, females \u2013 at least 13 inches at the shoulders",
             "weight": "13 to 17 lbs.",
@@ -2262,7 +2262,7 @@
         },
         {
             "name": "Pekingese",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TOY_Pekingese.jpg",
+            "image": "https://www.dkk.dk/uploads/koebhund-bilder/_1500x1000_fit_center-center_75_none/1443710593629.jpg",
             "size": "toy",
             "height": "males and females \u2013 9 inches at the withers",
             "weight": "males \u2013 11.5 pounds, females \u2013 8.0 pounds",
@@ -2274,7 +2274,7 @@
         },
         {
             "name": "Petit Basset Griffon Vendeen",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HOUND_Petit-Basset-Griffon-Vendeen.jpg",
+            "image": "https://img.newspapers.com/img/thumbnail/110789431/400/400/0_0_3924_6555.jpg",
             "size": "medium",
             "height": "males \u2013 13 to 15 inches at the withers, females \u2013 13 to 15 inches at the withers",
             "weight": "30 to 40 lbs.",
@@ -2286,7 +2286,7 @@
         },
         {
             "name": "Pharaoh Hound",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HOUND_Pharaoh-Hound.jpg",
+            "image": "https://i5.walmartimages.com/asr/85a686ad-64c1-42ee-8268-7ba646682216.82d84057e79d1df7542e0c3550205ad8.jpeg",
             "size": "medium",
             "height": "males \u2013 23 to 25 inches, females \u2013 21 to 24 inches",
             "weight": "45 to 60 pounds",
@@ -2298,7 +2298,7 @@
         },
         {
             "name": "Plott",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HOUND_Plott.jpg",
+            "image": "https://eft4b74gfnm.exactdn.com/wp-content/uploads/2022/05/Plottr_Features_-_Timeline_-_May_2022.png",
             "size": "medium",
             "height": "males \u2013 20 to 25 inches at the withers, females \u2013 20 to 23 inches at the withers",
             "weight": "males \u2013 50 to 60 pounds, females \u2013 40 to 55 pounds",
@@ -2310,7 +2310,7 @@
         },
         {
             "name": "Pointer",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/SPORTING_Pointer.jpg",
+            "image": "https://a-z-animals.com/media/2021/08/German-Shorthaired-Pointerr-Isolated.jpg",
             "size": "large",
             "height": "males \u2013 25 to 28 inches at the withers, females \u2013 23 to 26 inches at the withers",
             "weight": "males \u2013 55 to 75 pounds, females \u2013 45 to 65 pounds",
@@ -2322,7 +2322,7 @@
         },
         {
             "name": "Polish Lowland Sheepdog",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HERDING_Polish-Lowland-Sheepdog.jpg",
+            "image": "replace https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HERDING_Polish-Lowland-Sheepdog.jpg",
             "size": "medium",
             "height": "males \u2013 18 to 20 inches, females \u2013 17 to 19 inches",
             "weight": "30 to 40 pounds",
@@ -2334,7 +2334,7 @@
         },
         {
             "name": "Pomeranian",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TOY_Pomeranian.jpg",
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Pomeranian-On-White-01.jpg",
             "size": "small",
             "height": "7 to 12 inches",
             "weight": "3 to 7 pounds",
@@ -2364,7 +2364,7 @@
         },
         {
             "name": "Poodle",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/NonSporting_Poodle-%28Standard%29.jpg",
+            "image": "https://static.wikia.nocookie.net/finalfantasy/images/0/0e/Poodler_FF7.png/revision/latest?cb=20120710231636",
             "size": "toy, small/medium or large",
             "height": "toy - 10 inches or less miniature - 10 to 15 inches standard - more than 15 inches",
             "weight": "toy - 4 to 6 lbs. miniature - 10 to 15 lbs. standard - 40 to 70 lbs.",
@@ -2392,7 +2392,7 @@
         },
         {
             "name": "Portuguese Podengo Pequeno",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HOUND_Portuguese-Podengo-Pequeno.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Evitarocks.jpg",
             "size": "small",
             "height": "8 to 12 inches",
             "weight": "9 to 13 pounds",
@@ -2404,7 +2404,7 @@
         },
         {
             "name": "Portuguese Water Dog",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/WORKING_Portuguese-Water-Dog.jpg",
+            "image": "https://rlv.zcache.com/ways_to_win_my_heart_portuguese_water_dog_lover_po_t_shirt-r223dc709e7a1435f8423f6ee316cc94a_k2gm8_736.webp",
             "size": "medium",
             "height": "males \u2013 20 to 23 inches, females \u2013 17 to 21 inches",
             "weight": "males \u2013 42 to 60 pounds, females \u2013 35 to 50 pounds",
@@ -2416,7 +2416,7 @@
         },
         {
             "name": "Pug",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TOY_Pug.jpg",
+            "image": "https://pbs.twimg.com/media/CQXG6xUUEAAK-bP.jpg",
             "size": "small",
             "height": "10 to 13 inches",
             "weight": "14 to 18 pounds",
@@ -2447,7 +2447,7 @@
         },
         {
             "name": "Puli",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HERDING_Puli.jpg",
+            "image": "https://i.ebayimg.com/images/g/j8UAAOSwh25h1HF0/s-l1600.jpg",
             "size": "medium",
             "height": "males \u2013 17 inches at the withers, females \u2013 16 inches at the withers",
             "weight": "25 to 40 pounds",
@@ -2459,7 +2459,7 @@
         },
         {
             "name": "Pyrenean Shepherd",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HERDING_Pyrenean-Shepherd.jpg",
+            "image": "https://georgiapuppiesfromheaven.com/dog-breed-photos/pyreshep.jpg",
             "size": "small",
             "height": "rough-faced males \u2013 15.5 to 18.5 inches at the withers, rough-faced females \u2013 15 to 18 inches at the withers; smooth-faced males \u2013 15.5 to 21 inches at the withers, smooth-faced females \u2013 15.5 to 20.5 inches at the withers",
             "weight": "males \u2013 15 to 35 pounds, females \u2013 15 to 32 pounds",
@@ -2471,7 +2471,7 @@
         },
         {
             "name": "Rat Terrier",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TERRIER_Rat-Terrier.jpg",
+            "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10160127831975579",
             "size": "small",
             "height": "miniature \u2013 10 to 13 inches at the withers, standard \u2013 13 to 18 inches at the withers",
             "weight": "miniature \u2013 4 to 6 pounds, standard \u2013 12 to 35 pounds",
@@ -2497,7 +2497,7 @@
         },
         {
             "name": "Redbone Coonhound",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HOUND_Redbone-Coonhound.jpg",
+            "image": "https://www.thesprucepets.com/thmb/7WaN_jY22nT3wlHPpLgDl9qEBvc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-938954958-1d277c5ddb1d40caab2bf9ddbb3079d9.jpg",
             "size": "large",
             "height": "males \u2013 22 to 27 inches, females \u2013 21 to 26 inches",
             "weight": "males \u2013 65 to 85 pounds, females \u2013 45 to 75 pounds",
@@ -2509,7 +2509,7 @@
         },
         {
             "name": "Rhodesian Ridgeback",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HOUND_Rhodesian-Ridgeback.jpg",
+            "image": "https://i.pinimg.com/originals/44/6b/20/446b20312abb0b85263f9167e5e3a207.jpg",
             "size": "large",
             "height": "males \u2013 25 to 27 inches, females \u2013 24 to 26 inches",
             "weight": "males \u2013 85 pounds, females \u2013 70 pounds",
@@ -2537,7 +2537,7 @@
         },
         {
             "name": "Rottweiler",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/WORKING_Rottweiler.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Rottweiler_standing_facing_left.jpg/800px-Rottweiler_standing_facing_left.jpg",
             "size": "large",
             "height": "males: 24 to 72 inches; females: 22 to 25 inches",
             "weight": "males: 95 to 135 pounds; females: 80 to 100 pounds",
@@ -2568,7 +2568,7 @@
         },
         {
             "name": "Russell Terrier",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TERRIER_Russell-Terrier.jpg",
+            "image": "https://cdn.shopify.com/s/files/1/0092/9425/0065/products/french-bulldog_4fe37f89-931d-45d7-a7ff-25412d6f94fa.jpg?v=1636909336",
             "size": "small",
             "height": "10 to 12 inches",
             "weight": "9 to 15 pounds",
@@ -2593,7 +2593,7 @@
         },
         {
             "name": "Saint Bernard",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/WORKING_Saint-Bernard.jpg",
+            "image": "https://mycatholic.life/wp-content/uploads/2019/07/Saint_Bernard_Philippe_de_Champaigne_dapr%C3%A8s_Saint_Etienne_du_Mont.jpg",
             "size": "giant",
             "height": "males \u2013 28 to 30 inches at the shoulder, females \u2013 26 to 28 inches at the shoulder",
             "weight": "males \u2013 140 to 180 pounds, females \u2013 120 to 140 pounds",
@@ -2605,7 +2605,7 @@
         },
         {
             "name": "Saluki",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HOUND_Saluki.jpg",
+            "image": "https://www.thesprucepets.com/thmb/wwKM5jmQft9PCphGFXqa4Pag4WA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1273562658-78041f1f54494eb692b01e8c6ad2c187.jpg",
             "size": "medium/large",
             "height": "males \u2013 23 to 28 inches at the shoulders, females \u2013 22 to 27 inches at the shoulders",
             "weight": "35 to 65 pounds",
@@ -2617,7 +2617,7 @@
         },
         {
             "name": "Samoyed",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/WORKING_Samoyed.jpg",
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Samoyed-standing-in-the-forest.jpg",
             "size": "medium",
             "height": "males: 21 to 23.5 inches; females: 19 to 21 inches",
             "weight": "males: 45 to 65 pounds; females: 35 to 50 pounds",
@@ -2645,7 +2645,7 @@
         },
         {
             "name": "Schipperke",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/NonSporting_Schipperke_body.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Schipperke0001.jpg",
             "size": "small",
             "height": "males \u2013 11 to 13 inches at the withers, females \u2013 10 to 12 inches at the withers",
             "weight": "12 to 18 pounds",
@@ -2657,7 +2657,7 @@
         },
         {
             "name": "Scottish Deerhound",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HOUND_Scottish-Deerhound.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/en/5/5b/Deerhound_Fernhill%27s_Kendra.jpg",
             "size": "large",
             "height": "males \u2013 30 to 32 inches, females \u2013 at least 28 inches",
             "weight": "males \u2013 85 to 110 pounds, females \u2013 75 to 95 pounds",
@@ -2669,7 +2669,7 @@
         },
         {
             "name": "Scottish Terrier",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TERRIER_Scottish-Terrier.jpg",
+            "image": "replace https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TERRIER_Scottish-Terrier.jpg",
             "size": "small",
             "height": "10 inches at the withers",
             "weight": "males \u2013 19 to 22 pounds, females \u2013 18 to 21 pounds",
@@ -2681,7 +2681,7 @@
         },
         {
             "name": "Sealyham Terrier",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TERRIER_Sealyham-Terrier.jpg",
+            "image": "http://cdn.akc.org/content/article-body-image/sealyham_body_image_2.jpg",
             "size": "small",
             "height": "10.5 inches at the withers",
             "weight": "23 to 24 pounds",
@@ -2693,7 +2693,7 @@
         },
         {
             "name": "Shetland Sheepdog",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HERDING_Shetland-Sheepdog_CLIP.jpg",
+            "image": "https://i.ebayimg.com/images/g/AuQAAOSwnoNjh1he/s-l1600.jpg",
             "size": "small",
             "height": "13 to 16 inches at the shoulders",
             "weight": "15 to 25 pounds",
@@ -2718,7 +2718,7 @@
         },
         {
             "name": "Shiba Inu",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/NonSporting_ShibaInu_2588.jpg",
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Shiba-Inu-standing-in-profile-outdoors.jpg",
             "size": "small",
             "height": "13.5 to 16.5 inches",
             "weight": "17 to 23 pounds",
@@ -2746,7 +2746,7 @@
         },
         {
             "name": "Shih Tzu",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TOY_Shih-Tzu.jpg",
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Shih-Tzu-On-White-01.jpg",
             "size": "small",
             "height": "9 to 10.5 inches",
             "weight": "9 to 16 pounds",
@@ -2774,7 +2774,7 @@
         },
         {
             "name": "Siberian Husky",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/WORKING_Siberian-Husky.jpg",
+            "image": "https://cdn.britannica.com/84/232784-050-1769B477/Siberian-Husky-dog.jpg",
             "size": "medium",
             "height": "males: 21 to 23.5 inches; females: 20 to 22 inches",
             "weight": "males: 45 to 60 pounds; females: 35 to 50 pounds",
@@ -2804,7 +2804,7 @@
         },
         {
             "name": "Silky Terrier",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TOY_Silky-Terrier.jpg",
+            "image": "https://thumbs.dreamstime.com/b/renrasiga-korkshire-hundar-med-brunt-p%C3%A4ls-och-r%C3%B6tt-kn%C3%A4-slagrad-pedigreed-dog-yorkshire-%C3%B6rr-b%C3%A5ge-mot-m%C3%B6rk-bakgrund-230554707.jpg",
             "size": "toy",
             "height": "9 to 10 inches",
             "weight": "10 pounds",
@@ -2816,7 +2816,7 @@
         },
         {
             "name": "Skye Terrier",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TERRIER_Skye-Terrier.jpg",
+            "image": "https://static.wixstatic.com/media/053522_cd7d7ce33ca840e48c53c4f89326a6e5~mv2.jpeg/v1/fill/w_750,h_750,al_c,q_85/skyeterrier.jpeg",
             "size": "medium",
             "height": "males \u2013 at least 10 inches at the shoulders, females \u2013 at least 9.5 inches at the shoulders",
             "weight": "males \u2013 35 to 40 pounds, females \u2013 25 to 30 pounds",
@@ -2828,7 +2828,7 @@
         },
         {
             "name": "Soft Coated Wheaten Terrier",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TERRIER_Soft-Coated-Wheaten-Terrier.jpg",
+            "image": "https://img.newspapers.com/img/thumbnail/386642151/400/400/0_0_4154_6644.jpg",
             "size": "medium",
             "height": "males \u2013 18 to 19 inches at the withers, females \u2013 17 to 18 inches at the withers",
             "weight": "males \u2013 35 to 40 pounds, females \u2013 30 to 35 pounds",
@@ -2840,7 +2840,7 @@
         },
         {
             "name": "Spanish Water Dog",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HERDING_Spanish-Water-Dog.jpg",
+            "image": "http://caninechronicle.com/wp-content/uploads/2016/08/OTT_SR_8220161-150x150.gif",
             "size": "medium",
             "height": "females \u2013 15 \u00be to 18 inches; males \u2013 17 \u00bd to 19 \u00be inches",
             "weight": "females \u2013 31 to 40 pounds; males \u2013 40 to 49 pounds",
@@ -2852,7 +2852,7 @@
         },
         {
             "name": "Spinone Italiano",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/SPORTING_Spinone-Italiano.jpg",
+            "image": "https://projectupland.com/wp-content/uploads/2020/12/Spinone-3-5-2.jpg",
             "size": "large",
             "height": "males \u2013 23 to 27 inches at the withers, females \u2013 22 to 25 inches at the withers",
             "weight": "males \u2013 70 to 81 pounds, females \u2013 62 to 70 pounds",
@@ -2864,7 +2864,7 @@
         },
         {
             "name": "Staffordshire Bull Terrier",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TERRIER_Staffordshire-BullTerrier.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/%D7%A1%D7%90%D7%98%D7%A3_%D7%90%D7%A0%D7%92%D7%9C%D7%99.jpg",
             "size": "medium",
             "height": "14 to 16 inches at the shoulders",
             "weight": "males \u2013 28 to 38 pounds, females \u2013 24 to 34 pounds",
@@ -2876,7 +2876,7 @@
         },
         {
             "name": "Standard Schnauzer",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/WORKING_Standard-Schnauzer.jpg",
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Standard-Schnauzer-standing-outdoors.jpg",
             "size": "medium",
             "height": "males \u2013 18 to 20 inches at the shoulder, females \u2013 17 to 19 inches at the shoulder",
             "weight": "males \u2013 40 to 45 pounds, females \u2013 35 to 40 pounds",
@@ -2888,7 +2888,7 @@
         },
         {
             "name": "Sussex Spaniel",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/SPORTING_Sussex-Spaniel.jpg",
+            "image": "https://europepmc.org/articles/PMC2748280/bin/nihms107713f7.jpg",
             "size": "medium",
             "height": "13 to 15 inches",
             "weight": "35 to 45 pounds",
@@ -2900,7 +2900,7 @@
         },
         {
             "name": "Swedish Vallhund",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HERDING_Swedish-Vallhund.jpg",
+            "image": "replace https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HERDING_Swedish-Vallhund.jpg",
             "size": "small",
             "height": "males \u2013 12.5 to 13.5 inches at the withers, females \u2013 11.5 to 12.5 inches at the withers",
             "weight": "25 to 35 pounds",
@@ -2912,7 +2912,7 @@
         },
         {
             "name": "Tibetan Mastiff",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/WORKING_Tibetian-Mastiff.jpg",
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Tibetan-Mastiff-laying-down-outdoors.jpg",
             "size": "giant",
             "height": "males \u2013 at least 26 inches at the withers, females \u2013 at least 24 inches at the withers",
             "weight": "140 to 180 pounds",
@@ -2924,7 +2924,7 @@
         },
         {
             "name": "Tibetan Spaniel",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/NonSporting_TibetanSpaniel_body.jpg",
+            "image": "https://preview.redd.it/jxm85du1rns71.jpg?width=640&crop=smart&auto=webp&s=81bfeeaeb430063047a5072aab083ffa70f97e60",
             "size": "small",
             "height": "approximately 10 inches at the shoulders",
             "weight": "9 to 15 pounds",
@@ -2936,7 +2936,7 @@
         },
         {
             "name": "Tibetan Terrier",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/NonSporting_TibetanTerrier_body_CLIP.jpg",
+            "image": "https://www.hankikoira.fi/sites/default/files/styles/breed_mobile_gallery_image/public/rodut/mot_4142.jpg?itok=hRhiYLGp",
             "size": "medium",
             "height": "14 to 17 inches at the shoulders",
             "weight": "18 to 30 pounds",
@@ -2948,7 +2948,7 @@
         },
         {
             "name": "Toy Fox Terrier",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TOY_Toy-Fox-Terrier.jpg",
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Toy-Fox-Terrier-puppy.jpg",
             "size": "toy",
             "height": "8.5 to 11.5 inches",
             "weight": "3.5 to 7 pounds",
@@ -2960,7 +2960,7 @@
         },
         {
             "name": "Treeing Walker Coonhound",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HOUND_Treeing-Walker-Coonhound.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Treeing-walker-coonhound-standing.jpg",
             "size": "large",
             "height": "males \u2013 22 to 27 inches, females \u2013 20 to 25 inches",
             "weight": "50 to 70 pounds",
@@ -2972,7 +2972,7 @@
         },
         {
             "name": "Vizsla",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/SPORTING_Vizsla.jpg",
+            "image": "https://www.akc.org/wp-content/uploads/2017/11/Vizsla-On-White-01.jpg",
             "size": "medium",
             "height": "males \u2013 22 to 24 inches at the shouldersfemales \u2013 21 to 23 inches at the withers",
             "weight": "males \u2013 55 to 60 pounds females \u2013 44 to 55 pounds",
@@ -3000,7 +3000,7 @@
         },
         {
             "name": "Weimaraner",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/SPORTING_Weimaraner.jpg",
+            "image": "https://www.purina.co.uk/sites/default/files/styles/square_medium_440x440/public/2022-08/Weimaraner1.jpg?h=6e8fac1a&itok=6OEKdSDf",
             "size": "large",
             "height": "males \u2013 25 to 27 inches at the withers, females \u2013 23 to 25 inches at the withers",
             "weight": "males \u2013 70 to 90 pounds, females \u2013 55 to 70 pounds",
@@ -3029,7 +3029,7 @@
         },
         {
             "name": "Welsh Springer Spaniel",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/SPORTING_Welsh-Springer-Spaniel.jpg",
+            "image": "https://i.pinimg.com/564x/02/08/e9/0208e9fe8f263512ee69dcec7c7b8027.jpg",
             "size": "medium",
             "height": "males \u2013 18 to 19 inches at the withers, females \u2013 17 to 18 inches at the withers",
             "weight": "males \u2013 40 to 55 pounds, females \u2013 35 to 50 pounds",
@@ -3041,7 +3041,7 @@
         },
         {
             "name": "Welsh Terrier",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TERRIER_Welsh-Terrier.jpg",
+            "image": "https://i.pinimg.com/originals/4d/25/32/4d2532231249652e0d2c211f803e62fc.jpg",
             "size": "small",
             "height": "males \u2013 15 to 15.5 inches at the withers, females \u2013 14 inches at the withers",
             "weight": "18 to 20 pounds",
@@ -3053,7 +3053,7 @@
         },
         {
             "name": "West Highland White Terrier",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TERRIER_West-Highland-White-Terrier.jpg",
+            "image": "replace https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TERRIER_West-Highland-White-Terrier.jpg",
             "size": "small",
             "height": "males: 11 inches; females: 10 inches",
             "weight": "males: 15 to 22 pounds; females: 13 to 15 pounds",
@@ -3081,7 +3081,7 @@
         },
         {
             "name": "Whippet",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/HOUND_Whippet.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Whippet_2018_6.jpg",
             "size": "medium",
             "height": "males \u2013 19 to 22 inches at the withers, females \u2013 18 to 21 inches at the withers",
             "weight": "25 to 40 pounds",
@@ -3107,7 +3107,7 @@
         },
         {
             "name": "Wire Fox Terrier",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TERRIER_Wire-Fox-Terriers.jpg",
+            "image": "https://pbs.twimg.com/media/E_8zK22XEAEgMLh?format=jpg&name=large",
             "size": "small",
             "height": "males \u2013 should not exceed 15.5 inches at the withers, females \u2013 should not exceed 14.5 inches at the withers",
             "weight": "males \u2013 should not exceed 19 pounds, females \u2013 should not exceed 17 pounds",
@@ -3134,7 +3134,7 @@
         },
         {
             "name": "Wirehaired Pointing Griffon",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/SPORTING_Wirehaired-Pointing-Griffon.jpg",
+            "image": "replace https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/SPORTING_Wirehaired-Pointing-Griffon.jpg",
             "size": "large",
             "height": "males \u2013 22 to 24 inches at the withers, females \u2013 20 to 22 inches at the withers",
             "weight": "males \u2013 60 pounds, females \u2013 50 pounds",
@@ -3146,7 +3146,7 @@
         },
         {
             "name": "Wirehaired Vizsla",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/SPORTING_Wirehaired_Vizsla.jpg",
+            "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1208888496126287",
             "size": "medium",
             "height": "females \u2013 21 \u00bd to 23 inches at the shoulders; males \u2013 23 to 25 inches at the shoulders",
             "weight": "females \u2013 40 to 55 pounds, males \u2013 45 to 60 pounds",
@@ -3158,7 +3158,7 @@
         },
         {
             "name": "Xoloitzcuintli",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/NonSporting_Xoloitzcuintli.jpg",
+            "image": "replace https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/NonSporting_Xoloitzcuintli.jpg",
             "size": "toy to medium",
             "height": "toy \u2013 10 to 14 inches at the withers, miniature \u2013 14 to 18 inches at the withers, standard \u2013 18 to 23 inches at the withers",
             "weight": "toy \u2013 5 to 15 pounds; miniature \u2013 15 to 30 pounds; standard \u2013 25 to 40 pounds",
@@ -3170,7 +3170,7 @@
         },
         {
             "name": "Yorkshire Terrier",
-            "image": "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_240/public/TOY_Yorkshire-Terrier.jpg",
+            "image": "https://c8.alamy.com/comp/BT5AK0/yorkshire-terrier-yorkie-canis-lupus-familiaris-in-garden-BT5AK0.jpg",
             "size": "toy",
             "height": "6 to 9 inches",
             "weight": "up to 7 pounds",
