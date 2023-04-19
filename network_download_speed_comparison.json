@@ -1,0 +1,134 @@
+[
+    {
+        "G": {
+            "generation": "2G",
+            "technology": "GPRS",
+            "icon": "G",
+            "download": {
+                "max": "0.1Mbit/s",
+                "average": "<0.1Mbit/s"
+            }
+        }
+    },
+    {
+        "E": {
+            "generation": "2G",
+            "technology": "EDGE",
+            "icon": "E",
+            "download": {
+                "max": "0.3Mbit/s",
+                "average": "0.1Mbit/s"
+            }
+        }
+    },
+    {
+        "3G": {
+            "generation": "3G",
+            "technology": "3G (Basic)",
+            "icon": "3G",
+            "download": {
+                "max": "0.3Mbit/s",
+                "average": "0.1Mbit/s"
+            }
+        }
+    },
+    {
+        "H": {
+            "generation": "3G",
+            "technology": "HSPA",
+            "icon": "H",
+            "download": {
+                "max": "7.2Mbit/s",
+                "average": "1.5Mbit/s"
+            }
+        }
+    },
+    {
+        "H+": {
+            "generation": "3G",
+            "technology": "HSPA+",
+            "icon": "H+",
+            "download": {
+                "max": "21Mbit/s",
+                "average": "4Mbit/s"
+            }
+        }
+    },
+    {
+        "H+": {
+            "generation": "3G",
+            "technology": "DC-HSPA+",
+            "icon": "H+",
+            "download": {
+                "max": "42Mbit/s",
+                "average": "8Mbit/s"
+            }
+        }
+    },
+    {
+        "4G": {
+            "generation": "4G",
+            "technology": "LTE Category 4",
+            "icon": "4G",
+            "download": {
+                "max": "150Mbit/s",
+                "average": "15Mbit/s"
+            }
+        }
+    },
+    {
+        "4G+": {
+            "generation": "4G+",
+            "technology": "LTE-Advanced Cat6",
+            "icon": "4G+",
+            "download": {
+                "max": "300Mbit/s",
+                "average": "30Mbit/s"
+            }
+        }
+    },
+    {
+        "4G+": {
+            "generation": "4G+",
+            "technology": "LTE-Advanced Cat9",
+            "icon": "4G+",
+            "download": {
+                "max": "450Mbit/s",
+                "average": "45Mbit/s"
+            }
+        }
+    },
+    {
+        "4G+": {
+            "generation": "4G+",
+            "technology": "LTE-Advanced Cat12",
+            "icon": "4G+",
+            "download": {
+                "max": "600Mbit/s",
+                "average": "60Mbit/s"
+            }
+        }
+    },
+    {
+        "4G+": {
+            "generation": "4G+",
+            "technology": "LTE-Advanced Cat16",
+            "icon": "4G+",
+            "download": {
+                "max": "979Mbit/s",
+                "average": "90Mbit/s"
+            }
+        }
+    },
+    {
+        "5G": {
+            "generation": "5G",
+            "technology": "5G",
+            "icon": "5G",
+            "download": {
+                "max": "1,000-10,000Mbit/s (1-10Gbit/s)",
+                "average": "150-200Mbit/s"
+            }
+        }
+    }
+]
